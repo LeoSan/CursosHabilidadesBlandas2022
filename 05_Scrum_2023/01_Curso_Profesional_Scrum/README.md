@@ -81,3 +81,28 @@ más fácilmente el valor generado.
 
 [Slides](./info/slides-scrum.pdf) 
 ![Slides](./info/scrum_1.png) 
+
+
+## Clase 4: ¿Qué son las metodologías ágiles?
+
+**Componentes de Scrum**
+- El Equipo: Es un equipo auto-organizado y multifuncional. Existen 3 roles definidos:
+- Product Owner: Responsable de maximizar el producto. Es la cara del cliente dentro al equipo.
+- Scrum Master: Responsable de promover y apoyar el scrum.
+- Development Team: Profesionales que realizan el trabajo de entregar un incremento de producto “Terminado”.
+- Eventos de Scrum: Existen eventos predefinidos con el fin de crear regularidad y minimizar la necesidad de reuniones no definidas en scrum.
+
+- Sprint: Es el corazón de Scrum donde se crea un incremento del producto. 
+    > Son iteraciones de un proceso delimitado en un periodo de tiempo, donde el equipo trabaja un incremento del producto El sprint tiene elementos claves:
+	- Sprint Planning: Ceremonia para definir qué se hará durante el sprint.
+	- Daily stand-up(Scrum diario): Reunión diaria de todo el equipo de desarrollo.
+	- Sprint review: Es donde se muestra el incremento desarrollado durante el sprint.
+- Retrospectiva: Es el proceso donde el equipo va a analizar y se va a auto-evaluar de que se hizo bien y que se puede mejorar, para tener un proceso de mejora continua.
+
+**Artefactos de Scrum**
+-  Representan trabajo o valor en diversas forma que son útiles para proporcionar transparencia y oportunidades para a inspección y adaptación. 
+> Los artefactos son:
+1.- Product Backlog (Lista de producto): Es una lista ordenada de todo lo que se conoce que es necesario en el producto.
+2.- Sprint Backlog  (Lista de pendientes del sprint): Es un pequeño conjunto del product backlog que se va a trabajar en un sprint determinado.
+
+![scrum_2](./info/scrum_2.png)
