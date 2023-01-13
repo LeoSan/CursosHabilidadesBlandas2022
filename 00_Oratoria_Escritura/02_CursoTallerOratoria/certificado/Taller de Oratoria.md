@@ -18,8 +18,7 @@ Invention
 
 5.
 What is the element of the key-point speech model that provides evidence, illustration and validates the information?
-Connectors --- Arrangement
-REPASAR CLASE
+Support 
 
 6.
 As you prepare for a presentation and research information about your topic, you must always follow a specific order of key points.
@@ -27,8 +26,7 @@ FALSE
 
 7.
 Ideas are better illustrated when we don't lose our creativity, we don't forget what we want to communicate and we keep an ____ with the topic.
-Improved body language -- Intense concentration  ---- Articulated speech
-REPASAR CLASE
+Emotional commitment
 
 8.
 To provide structure and flow to your speech you must share your _____ before you start your presentation.
@@ -40,8 +38,7 @@ Audience, topic's complexity and goals
 
 10.
 The only element in our speech script we need to memorize is our ______
-Metaphors and Analogies --- Statistics and data  --- Claims and supports
-REPASAR CLASE
+Outline
 
 11.
 One of the many benefits of eye contact is:

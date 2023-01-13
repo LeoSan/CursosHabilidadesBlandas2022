@@ -47,6 +47,13 @@ Estos son algunos de los marcos de trabajo ágiles más conocidos:
 por lo cual es más factible realizar ajustes, en caso de que sean necesarios y el cliente percibe 
 más fácilmente el valor generado.
 
+**Valores de Scrum**
+- Compromiso. Define que el equipo se compromete al 100% en el objetivo. No solo en el proyecto, sino en cada iteración.
+- Coraje. No importa la tarea, cualquier integrante del equipo está en capacidad de llevarla a cabo.
+- Enfoque. Cada integrante está enfocado en cumplir el objetivo planteado.
+- Apertura. Los involucrados en el proyecto están dispuestos a escuchar aportes u observaciones que se realicen durante el proceso.
+- Respeto. Todas las personas hacen parte de un mismo equipo. Por ello, el trato y la buena comunicación son importantes.
+
 ## El manifiesto Agile:
 
 - El cliente Primero. -> Entrega continua de software.
@@ -148,6 +155,8 @@ Entendí muy bien el concepto de Daily Scrum, pero cuál es la forma correcta de
 ## Clase 8: El rol del Scrum Master
 
 > El Scrum Master es el responsable de promover y apoyar scrum dentro del equipo, ayudando a todos a entender la teoría, práctica, reglas y valores de Scrum. Si hay algo que no se está haciendo bien debe decirnos “podemos mejorar”.
+
+
 
 **Es un líder que está al servicio del equipo scrum, y es el encargado de ayudar a entender a los externos al equipo scrum cuando deben interactuar con el equipo.**
 
