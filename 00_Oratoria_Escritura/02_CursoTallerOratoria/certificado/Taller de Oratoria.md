@@ -18,7 +18,7 @@ Invention
 
 5.
 What is the element of the key-point speech model that provides evidence, illustration and validates the information?
-Connectors
+Connectors --- Arrangement
 REPASAR CLASE
 
 6.
@@ -27,7 +27,7 @@ FALSE
 
 7.
 Ideas are better illustrated when we don't lose our creativity, we don't forget what we want to communicate and we keep an ____ with the topic.
-Improved body language -- Intense concentration
+Improved body language -- Intense concentration  ---- Articulated speech
 REPASAR CLASE
 
 8.
@@ -36,12 +36,11 @@ Mental map
 
 9.
 When practicing for your speech, the following elements are considered to determine how much time you should invest in rehearsing.
-Audience's goals and expectations   --- Topic's complexity and presentation duration
-REPASAR CLASE
+Audience, topic's complexity and goals
 
 10.
 The only element in our speech script we need to memorize is our ______
-Metaphors and Analogies --- Statistics and data
+Metaphors and Analogies --- Statistics and data  --- Claims and supports
 REPASAR CLASE
 
 11.
@@ -70,8 +69,7 @@ Body language, eye contact and organization.
 
 17.
 Writing principle based on the idea that humans process information through pattern recognition:
-Cooperative language --- Plain language
-REPASAR CLASE
+The rule of three
 
 18.
 Relaxed and unplanned arguments that are provided unexpectedly during a presentation. They are usually a response to our environment or surroundings.
