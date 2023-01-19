@@ -10,13 +10,11 @@ Software funcional.
 
 3.
 No es un valor de SCRUM.
-Respeto
-# REPASAR CLASE
+Transparencia
 
 4.
 ¿Cuál de las siguientes opciones NO es una ceremonia de SCRUM?
-Daily Stand-up
-# REPASAR CLASE
+Reunión de revisión de métricas
 
 5.
 ¿Quién es el dueño del backlog?
@@ -28,8 +26,7 @@ Sí
 
 7.
 Una de las principales funciones del Scrum Master es:
-Definir el objetivo del sprint.
-# REPASAR CLASE
+Eliminar impedimentos en el proceso de desarrollo.
 
 8.
 En términos generales, no es parte del Equipo de Desarrollo:
@@ -49,13 +46,13 @@ La cantidad de esfuerzo necesario para completarla.
 
 12.
 ¿Quién define el contenido del backlog del sprint?
-El scrum master
+El scrum master -- El Product Owner
 # REPASAR CLASE
 
 13.
 ¿Qué gráfico me ayudará a medir la cantidad de trabajo que puede completar mi equipo en un sprint?
-Gráfica burnup
-# REPASAR CLASE
+ Gráfica burndown
+
 
 14.
 ¿Cuánto tiempo debe durar un sprint?
@@ -63,7 +60,7 @@ De 1 a 4 semanas
 
 15.
 ¿En qué momento se realiza la planeación del sprint?
-Al inicio del proyecto.
+Al inicio del proyecto. -- El último día del sprint anterior.
 # REPASAR CLASE
 
 16.
