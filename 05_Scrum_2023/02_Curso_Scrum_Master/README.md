@@ -1,6 +1,17 @@
 # Curso Scrum Master 
 *Profesor:Andrés Salcedo*
 > Desarrolla los conocimientos y habilidades necesarias para liderar la adopción del marco de trabajo Scrum en cualquier equipo, comprendiendo las responsabilidades del Scrum Master, entendiendo cómo funciona Scrum y la razón de cada uno de sus eventos, roles y artefactos. Aprender a reconocer los diferentes sombreros del Scrum Master e identificar cuándo usar cada uno para hacer intervenciones efectivas.
+>
+
+```
+Creadores de Scrumm 
+Fue creado por Jeff Sutherland y Ken Schwaber y presentado por primera vez en la OOPSLA en 1995.
+```
+
+![Scrum_master_011.png](./info/Scrum_master_011.png)
+
+**Enlace**
+- Guia de Scrum Basica [Guia](../info/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
 
 ## Clase 1-2: ¿Qué hace un Scrum Master?
 
@@ -233,7 +244,7 @@ Resultado = Relaciones.
 - Si en la Spring Planing hay que detallar o aterrizar muchas ideas se vuelva tediosa. hace que unas personas le tenga fastidio a este tipo de eventos
 - 
 
-## Clase 11: Facilitación de la Daily Scrum
+## Clase 12: Facilitación de la Daily Scrum
 
 
 **Daily Scrum**
@@ -258,3 +269,159 @@ Resultado = Relaciones.
 - Recuerda es un espacio propio del team de desarrollo 
 - Generan un antipatron donde se alejan de las Dailys o muestran información que no compete o sea utíl para la reunión
 - El Scrum master se preocupa para que el espacio sea efectivo, en caso el scrum master facilita otras reuniones para aclarar dudas o la posibilidad de resolver stoper.
+
+
+## Clase 13: Facilitación de Sprint Retrospective
+
+
+**Preparar el escenario**
+- 📊 Preparar datos (identificar los problemas a resolver)
+- 🔍 Indagar (identificar las causas raíz)
+- 🤔 Decidir qué hacer (con las oportunidades de mejora)
+- 🤝Cerrar la retrospectiva
+
+**Notas**
+- Preparar datos-> Uso efectivo del tiempo 
+- Preparar datos-> El PO Es importante que este en el retro
+- Preparar datos-> Analisis de datos para poder detectar las mejoras 
+- Preparar datos-> El Scrum Master es ejemplo de efectividad y agilidad 
+- Preparar datos-> Si eres juez y facilitador se le hace dificil encontrar la solución 
+
+- Indagar -> Es nencesario crear un espacio para poder econtrar la situación clara para poder encontrar la oportunidad de mejora
+- Indagar -> Ayuda a tacar la causa raíz 
+- Indagar -> Entramos a elegir que accionables podemos resolver, ojo pocos es mas, así que debemos tener un número considerable de accionables concretos, es rocomendable tener un backlog de accionables 
+- Indagar -> Los accionables no es responsabilidad del Scrum Master, debe estar repartido  en todo el equipo scrum
+
+- Decidir qué hacer -> Avanzamos al cierre una vez que sepamos que hacer 
+
+- Cerrar -> Podemos usar metaforas visuales 
+- Cerrar -> Podemos usar herramientas para generar la retro -> https://miro.com/es/
+
+
+**Herramientas**
+- https://miro.com/es/
+- https://easyretro.io
+- https://mural.co
+- https://timboretro.com
+- https://retromat.org/es
+
+
+![Scrum_master_008.png](./info/Scrum_master_008.png)
+
+
+## Clase 14 : Anti patrones de Scrum
+
+
+> Para tener un Modelo Adaptativo de Control en nuestro trabajo, necesitamos pasar los por lo nieveles A nivel de producto, A nivel de proceso, A nivel de pprogreso
+
+
+**Transparencia de producto**
+
+- En el Product Backlog
+- En el Incremento del Producto
+
+**¿Cómo está la transparencia del producto?**
+
+- ¿Es el Product Backlog visible y accesible por todos los miembros dentro de la organización? ¿o es un artefacto que está oculto por el Product Owner y nadie sabe qué es lo que hay allí?
+- Puede que el Product Backlog sea accesible pero ¿es fácil de interpretar?
+- ¿Tenemos un documento con todas las ideas que tiene el Product Owner en su cabeza pero esos criterios de priorización y valor no son accesibles o no son entendibles?
+- Cada vez que aparece el Incremento ¿es visible por todos los miembros de la organización, incluyendo a los Stakeholders?
+
+**Inspección de producto**
+
+**En la Sprint Review**
+- ¿Esto se está dando? ¿ocurre una inspección del producto en la Sprint Review?
+
+- Si esto no está sucediendo, aquí tenemos un anti-patron, quiere decir que la Sprint Review no está funcionando y teneos que intervenirla.
+- Tenemos que buscar qué de lo que se esta haciendo en la Sprint Review no esta aportando a esa inspección y eliminarlo, así como entender por qué no se esta dando la inspección de producto en el equipo.
+- A veces es por simple desconocimiento o porque se viene del paradigma anterior de comando y control, donde el foco está en presentar informes, métricas, etc.
+- A veces la solución entra a ser mas bien a partir del sombrero del entrenador, como Scrum Master le explicamos al equipo sobre el valor de la - Sprint Review y la necesidad de hacer inspección del producto.
+
+**Adaptación de producto**
+
+**En la Sprint Planning**
+¿Está ocurriendo? ¿Esa información que recogimos en la Sprint Review está sirviendo para algo?
+
+- Pasa mucho y es un anti-patrón cuando no hay adaptación de producto a pesar que tenemos información suficiente de inspección proveniente de la Sprint Review y a pesar que nos está demostrando que el camino que estamos siguiendo con el producto no es el que deberíamos seguir.
+  
+- Si el feedback del cliente nos esta dando luz sobre que el producto no esta funcionando, deberíamos cambiar algunas características, pero en la Sprint Planning las prioridades del backlog no están cambiando, entonces el producto no se está adaptando.
+
+- En algunas empresas los equipos introducen Scrum a lo que ya venían haciendo con la forma de trabajo tradicional y tienen proyectos con un alcance ya establecido, por lo que les cuesta cambiar ese alcance a partir del feedback proveniente de la inspección de producto.
+
+- En ese caso, analizar si tiene sentido usar Scrum para un proceso lineal, donde sirve el Modelo Predictivo de Control o si bien se está trabajando en un contexto de incertidumbre, donde deberíamos respetar el Modelo Adaptativo de Control de Scrum y permitir la adaptación. En ese caso, ponernos el sombrero de consultor y enseñar a la organización las virtudes de Scrum en ese contexto.
+
+
+
+**Transparencia de proceso**
+
+- En el Sprint Backlog
+- En el Definition of Done
+- ¿Existen, son visibles y accesibles? ¿Son lo suficientemente claros?
+
+**Inspección y adaptación de proceso**
+
+- En la Sprint Retrospective
+- ¿Está ocurriendo inspección y adaptación del proceso?
+
+- Es muy fácil hacerlo muy mal, porque las personas inclusive pueden hacer todas las técnicas de facilitación y todos los ejercicios pero no hay mejora del equipo.
+- En ese caso puede ser que no sale a la luz la causa raíz, tal vez se están mencionando problemas muy genéricos y no se está bajando de nivel para llegar al nivel de detalle.
+- No es suficiente con parecer que estamos haciendo inspección y adaptación, tiene que haber mejora real.
+
+
+**Transparencia, inspección y adaptación de progreso**
+
+- En la Daily Scrum
+- La Daily Scrum funciona por si sola como un Modelo Adaptativo de Control que nos permite navegar en la incertidumbre del Sprint.
+
+- Si llegamos al final de Sprint y el equipo no esta cumpliendo sus objetivos, entonces hay anti-patrones en la Daily Scrum y no esta funcionando el MAC en progreso.
+
+- Puede ser la transparencia: el Scrum Master debe analizar si están saliendo a la luz todos los elementos que tienen que salir para que podamos adaptar la forma de trabajo a tiempo de forma que no comprometamos el objetivo del Sprint.
+
+- Puede ser la inspección: ¿Están saliendo a la luz esos datos pero nadie está haciendo nada con eso? ¿Alguien los esta analizando? Muchas veces en la daily algunas personas son muy transparentes y comparten los bloqueos que tienen, pero esperan que alguien se los resuelva o quedan en la conversación y se pierden en el día a día.
+- ¿Hay adaptación? Si nos estamos dando cuenta que algo no esta funcionando, estamos teniendo algún tipo de bloqueo o que la estrategia inicial no esta funcionando y no hacemos nada para corregirlo, nos estaremos volviendo cómplices de un resultado final no exitoso del Sprint.
+- Todas las personas, en especial en este caso los developers, son responsables del resultado final del Sprint y si alguien esta alzando la mano y los demás no hacen nada para adaptar la estrategia, estamos teniendo un problema de adaptación y ademas un anti-patron a la hora de colaboración del equipo.
+- Toda esta teoría sobre los anti-patrones no solo sirve para entender en forma mas profunda todos los elementos sino como una herramienta para analizar la salud de la implementación del equipo Scrum.
+
+![Scrum_master_009.png](./info/Scrum_master_009.png)
+
+## Clase  15: Preguntas frecuentes
+
+**Preguntas Frecuentes**
+> No tenemos Scrum Master, ¿Cualquiera puede serlo?
+- R. Segun la guia de scrum, cualquiera puede ocupar esta responsabilidad solo hay que tener en consideracion que cuente con las habilidades de facilitador.
+
+> ¿El Scrum Master puede desarrollar o tomar tareas del Sprint?
+- R. No ya que puede comprometer el sprint
+
+> ¿El Scrum Master y Product Owner pueden ser la misma persona?
+
+- R. Segun la guia de scrum SI, sin embargo no puedes cubrir ambas responsabilidades al mismo tiempo ya que se puede perder la armonia y equilibrio del equipo.
+
+> ¿El Sprint puede tener diferentes duraciones?
+
+- R. No es recomendable, puede generar indisciplina en el Developer Team, modificar las estadísticas del Srpint.
+
+> ¿Qué hacer si surgen nuevas prioridades dentro del Sprint?
+
+- R. Si se pueden agregar nuevas prioridades pero no se debe de comprometer al sprint. Este tipo de comportaminetos nos estan mandando Alertas sobre planning del sprint (Scrum Master / Podruct Owner).
+
+> Si el equipo termina los compromisos del Sprint antes de tiempo,¿Se adelantan los eventos?
+
+- R. Se puede continuar con algunas actividades segun su prioridad peo este tipo de comportamiento nos esta diciendo que el Developer Team puedo haber sobre estimado las actividades.
+
+## 16  ¿Cómo certificarse?
+
+**Aprender Glosario**
+- https://www.scrum.org/Resources/Scrum-Glossary
+
+
+**Página Oficial**
+- https://www.scrum.org/pathway/scrum-master
+- https://www.scrumalliance.org/
+- https://www.scrum.org/
+
+
+> Un Scrum Master se desarrolla experimentando, practicando, aprendiendo, siendo ejemplo de agilidad.
+
+
+![Scrum_master_010.png](./info/Scrum_master_010.png)
