@@ -425,3 +425,60 @@ Resultado = Relaciones.
 
 
 ![Scrum_master_010.png](./info/Scrum_master_010.png)
+
+
+## 17  Resumen 
+
+***Aspectos Generales -MAC**
+
+**MODELO ADAPTATIVO DE CONTROL**
+
+- No es un camino lineal, debemos ir pivoteando.
+- Funcionan para manejar la incertumbre
+- Funcionan con 3 pilares: transparencia, inspección y adaptación.
+
+**MODELO ADAPTATIVO DE CONTROL A TRAVÉS DEL PROCESO**
+- Transparencia: Sprint Backlog, Definition of done, Sprint Retrospective
+
+**MODELO ADAPTATIVO DE CONTOL A TRAVÉS DEL PROGRESO**
+- Transparencia, Inspección y Adaptación: Daily Scrum
+
+**MODELO ADAPTATIVO DE CONTOL A TRAVÉS DEL PRODUCTO**
+- Inspección: Increment, Product Backlog, Sprint Review, Sprint Planning
+
+
+**Tiene 3 pilares: Transparencia, Inspección y Adaptación**
+
+> Cuatro eventos: Spint Planning, Daily Scrum, Sprint Review y Sprint Retrospective
+
+**Estructura Sprint Planning**
+- Debe estar presente todo el equipo Scrum: Product Owner, Scrum Master y Developers.
+- Tiempo máximo de duración de 8 horas para sprint de 1 mes
+- para sprint inferiores el tiempo será menor.
+
+**Estructura Daily Scrum**
+- Exclusiva para los developers.
+- No es para seguimiento, es para poder encontrar mejores formas de trabajo, auto-organizandose
+- Tiempo máximo es de 15 minutos, la misma hora y el mismo lugar, con el fin de reducir complejidad.
+
+
+**Estructura Sprint Review (Sugerida)**
+- Actividad de Check in
+- Presentar el objetivo del sprint
+- Presentación de los compromisos del sprint
+- Demostración del increment
+- Feedback del Increment
+- Discusión sobre nuevas iniciativas
+- Feedback y cierre
+- Tiempo máximo de duración de 4 horas para sprint de 1 mes, para sprint inferiores el tiempo será menor.
+
+**Estructura Sprint Restrospective (Sugerida)**
+- Preparar el escenario 
+- Recolectar datos
+- Indagar
+- Decidir qué hacer
+- Cerrar la retrospectiva
+
+**El Camino del Scrumm Master**
+- No hay jerarquias en estos roles 
+![Scrum_master_012.png](./info/Scrum_master_012.png)
