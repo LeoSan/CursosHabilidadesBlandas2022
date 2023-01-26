@@ -48,3 +48,20 @@ Backlog según sea necesario, ajustando el próximo trabajo planeado.
 
 - Enlaces -> https://scrum.mx/informate/historias-de-usuario
 
+##  Clase 3: ¿Por qué fracasan los esfuerzos de implementar Historias de Usuario?
+
+>Falla por que falla la simplicidad 
+
+**Notas**
+- Cuando hablamos de historias de usuarios debemos hablar en bajo nivel
+- Se debe usar la descripción de funcionalidad
+- La falla comun es que hablan de forma Modular es decir describen todo en una sola historia de usuario, esto se le denomina Epicas
+- Otra falla es No tenemos claro para que hacemos lo que hacemos
+- Tiene que describir una sola funcionalidad 
+- No hay que subestimar el Quien
+- Scrum no son sólo historias de usuario
+- Podemos usar este modelo   [Modelo](../03_CursoHistoriasUsuarioScrum/info/historia-de-usuario_Modelo.pdf)
+- Podemos usar este ejemplo  [Modelo](../03_CursoHistoriasUsuarioScrum/info/historia-de-usuario_Ejemplo.pdf)
+
+
+![Pilas de productos](../03_CursoHistoriasUsuarioScrum/info/historia_usuario_0001.png)
