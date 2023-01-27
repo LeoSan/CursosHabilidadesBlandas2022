@@ -26,15 +26,11 @@ Estimable
 
 7.
 ¿Qué es el Backlog en Scrum?
-Es la lista de requisitos técnicos y funcionales que el equipo identifica como posibles a realizar.
-Es la lista de requisitos de negocio y solo la puede tocar el Product Owner.
-REPASAR CLASE
+Es una lista emergente y ordenada de lo que se necesita para mejorar el producto.
 
 8.
 ¿Qué es el refinamiento?
-Es trabajar en la priorización de los elementos de trabajo ajustándose a los cambios que han pasado de Sprint a Sprint.
-Es agregarles especificaciones suficientes para evitar las conversaciones entorno a las Historias. Que todo quede claro en la redacción.
-REPASAR CLASE
+Es descomponer y definir aún más los elementos de trabajo pendiente del producto en artículos más pequeños y precisos.
 
 9.
 ¿Se pueden crear Historias de Usuario a partir de listas de requisitos?
@@ -46,5 +42,4 @@ Son características que deben de estar presentes para considerar que se está c
 
 11.
 ¿Cuál de las características de la Propiedad Invest ayuda más a la priorización?
-Independiente ---- Negociable 
-REPASAR CLASE
+Valiosa
