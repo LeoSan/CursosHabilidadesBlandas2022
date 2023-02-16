@@ -94,7 +94,7 @@ Backlog según sea necesario, ajustando el próximo trabajo planeado.
 - Toda HU debe tener una historia valiosa 
 - Esto es para enternos colaborativos, debemos darle voz y voto a todos los colaboradores
 - Deben ser historias pequeñas, para poder ser entendible y facil de diregir 
-- El Scrumm te dice el qué pero NO el como!!!
+- El Scrumm te dice el qué; pero NO el como!!!
 
 ## Clase 5: ¿Qué es un Backlog en Scrum?
 > “Es una lista emergente y ordenada de lo que se necesita para mejorar el producto”.
