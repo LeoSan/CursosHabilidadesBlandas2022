@@ -41,7 +41,7 @@ question
 
 10.
 The words ‘strength, health, wealth’ are examples of:
-Voiced TH sound /ð/ --- Voiceless semi-vowel /h/
+Voiced TH sound /ð/ --- Voiceless semi-vowel /h/ ---- Voiceless TH sound /θ/
 REPASAR CLASE
 
 11.

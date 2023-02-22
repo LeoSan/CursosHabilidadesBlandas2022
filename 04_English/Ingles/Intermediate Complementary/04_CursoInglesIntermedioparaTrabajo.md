@@ -26,7 +26,7 @@ City of birth
 
 7.
 Can expresses...
-possibility  ---- ability  ---- permission
+possibility  ---- ability  ---- permission --- all above
 REPASAR CLASE
 
 8.
@@ -80,3 +80,8 @@ How you want to influence your industry
 20.
 Which is a question?
 How often are review cycles
+
+21. 
+I __ visit my family for Christmas.
+going to  ---- am/going to  
+repasar 
