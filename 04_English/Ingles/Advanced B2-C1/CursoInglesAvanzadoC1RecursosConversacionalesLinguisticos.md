@@ -3,8 +3,7 @@
 Resumen
 1.
 Identify the category of this pun: "I googled How to light a cigar and got 70 million matches!".
-Sounalike pun.
-REPASAR CLASE
+Lookalike pun.
 
 2.
 Identify this pun: "I don't trust my stairs. They are always up to something".
@@ -12,8 +11,7 @@ Lookalike pun.
 
 3.
 Identify this pun: "What do you call a cow eating grass? A lawn MOOER!"
-Soundalike pun.
-REPASAR CLASE
+Close-sounding pun.
 
 4.
 Identify this pun: "Have a gr8 day!".
@@ -29,8 +27,7 @@ Because they only refer to men and exclude women from the group.
 
 7.
 Synthesizing information from multiple sources effectively means:
-showing similarities between various sources.
-REPASAR CLASE
+All answers are correct.
 
 8.
 Topic sentences allow the reader to:
@@ -42,13 +39,11 @@ the reader should feel well-informed about the topic.
 
 10.
 In a descriptive essay, a strong introduction paragraph should include:
-a hook that catches your reader's attention.
-REPASAR CLASE
+All options are correct.
 
 11.
 In a descriptive essay, when writing your conclusion, you should NOT:
-Give your opinion about an important point.
-REPASAR CLASE
+include any new ideas.
 
 12.
 Select an answer that does NOT relate to writing critical reviews.
@@ -64,8 +59,7 @@ All answers are correct.
 
 15.
 This is a common mistake when writing conclusions:
-Apologising for your opinions.
-REPASAR CLASE
+All answers are correct.
 
 16.
 How can you use your conclusion to create a positive impression on your reader?
@@ -77,8 +71,7 @@ All answers are correct.
 
 18.
 How can you appeal to your reader's emotions in your conclusion?
-Mention a quote that relates to your topic.
-REPASAR CLASE
+Mention how the topic affects your personally.
 
 19.
 Which of the following relates to using Fronting in English?
@@ -87,5 +80,4 @@ All answers are correct.
 20.
 Fronting is used in this sentence: "All of a sudden, it started to snow!"
 Where is the emphasis in this sentence?
-Started to snow
-REPASAR CLASE
+All of a sudden
