@@ -24,6 +24,7 @@ Brand Positioning
 6.
 Which one is NOT a marketing channel?
 Cold calling
+Email marketing
 REPASAR CLASE
 
 7.
@@ -40,9 +41,7 @@ Persuasive language
 
 10.
 This involves using inclusive language that does not imply gender preference or stereotypes:
-Inclusion
-Language Neutrality
-REPASAR CLASE
+Gender Neutrality
 
 11.
 The most important opportunity to persuade your audience in an email campaign is:
@@ -77,6 +76,7 @@ emphasizing key points
 The ___________ of 10,322 accounts shows the number of users who have seen the video.
 likes
 engagement
+comments
 REPASAR CLASE
 
 19.

@@ -1,8 +1,7 @@
 Resumen
 1.
 Why do you use the expressions in order to / so as to?
-To compare and contrast.
-REPASAR 
+To talk about purpose or intention.
 
 2.
 Which words can you use to ask requests very politely?
@@ -17,11 +16,13 @@ REPASAR
 4.
 Complete the sentence: ___________ print the documents, we have to refill the ink on the machines.
 Before
+After that
 REPASAR 
 
 
 5.
 She was thinking of _________ Australia next summer.
+visit
 visit
 REPASAR 
 
@@ -47,8 +48,8 @@ REPASAR
 
 10.
 Only if she calls me first ___ invite her to the cinema.
-I will
-REPASAR 
+Will I
+ 
 
 11.
 No matter ____ you're going through, if you have people you trust.
@@ -86,6 +87,7 @@ A blouse, dress pants and nice shoes.
 18.
 Which structure is this sentence "He passed the exam although he didn't study for it" ?
 Compound sentence
+Compound Complex sentence
 REPASAR 
 
 19.
@@ -145,3 +147,106 @@ mice
 30.
 We asked the author to ___ their name in the new book.
 sign
+
+31. Yadira looks just like her mother. She is
+
+
+33. ¿En cuál área, aprender inglés puede tener un aporte significativo en tu vida?
+Todas las respuestas son correctas.
+
+
+34. _____________ this whole time we've been talking about William, it would be strange if there was a question without William in it.
+Considering the fact that
+
+
+35. What is plagiarism?
+It is bringing other people's texts to your paragraph.
+REPASAR
+
+36. Words that contain the /oʊ/ as in 'goat' diphthong:
+now, down, found
+REPASAR
+
+
+
+37. Which word can you use to complete this sentence?: The traffic in this city is terrible ______ in the other town is not so bad.
+While
+
+ 
+38. We will be presenting our ideas ___________________ William's department, correct?
+as a reference point to
+REPASAR
+
+39. Which is not a pronoun used to make restrictive and nonrestrictive sentences?
+Them
+
+
+40. If someone said: "I will bring you the money", what did he do?
+Decided to give the money away.
+REPASAR
+
+41. If Ana _______ so much, she ________sick.
+hadn't eat, wouldn't have feel
+REPASAR
+
+42. ¿Cuál de las siguiente opciones NO hace parte de un exitoso proceso de aprendizaje?
+Comprar todas las herramientas de última tecnología para estudiar.
+
+
+43. Which is the correct use of “as much as” in order to describe that something is equal in degree?
+As much as I enjoyed France, I much preferred Italy.
+REPASAR
+
+
+44. Hi, William! Welcome to your first day at work. For today, you’re ______________________ printing out the reports and mailing them to different agency locations. Sounds good?
+going to be
+
+45. Which word is missing: Susan ________ eat too many sweets because she is diabetic.
+Shouldn't
+
+
+46. "carve out" means to:
+to find time in a schedule to meet
+
+47. What is a quoation?
+It's usually the sentence we use to explain the topic sentence.
+REPASAR
+
+48. What is a fact?
+It's always the argument of the topic.
+REPASAR
+
+49. If anything happens, let me know. 
+Should anything happened, let me know.
+REPASAR
+
+50. When do we normally capitalize words?
+We capitalize places, dates, and historical information found in the text.
+REPASAR
+
+51. ____  by his boss, William stood up to that terrible fiend and left the company.
+Having been taken advantage of
+
+
+52. The "gift of gab" means:
+the ability to speak well with eloquence
+
+53. Which sentence is a suggestion?
+I highly recommend you study a little English every day.
+
+
+54. Which is the correct way to express emphasis using “do”, “does”, or “did”.
+We did want to go to your event.
+
+55. To "put down" means to:
+get sad
+REPASAR
+
+56. Yadira looks just like her mother. She is ____________.
+the spitting image of her mom
+
+
+
+
+
+
