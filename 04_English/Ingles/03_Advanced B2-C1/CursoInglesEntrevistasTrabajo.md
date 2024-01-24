@@ -442,3 +442,28 @@ My salary range is flexible. However, I would like to be compensated reasonably
 according to my qualifications, experience and professional achievements.
 I'm open to discussing specific numbers after talking about the requirements of
 the position in detail
+
+**Clase 20 ¿Dónde te ves en 5 años?**
+
+
+Example 
+
+Where do you see yourself in 5 years?
+I am passionate about managing and developing effective sales teams. I
+discovered this through my positive professional experience as a sales
+manager. And I have had the opportunity to work with people from different
+countries.
+This is what motivated me to apply for the International Sales Manager position.
+In five years I would like to have made high-impact contributions for this
+company. I am also interested in developing my skills through your specialized
+training and mentoring programs, as well as your international events.
+
+
+My example 
+
+I see myself in five years in Canada with a high-performance position in project management or development management.
+
+I am working on improving my English and acquiring all the knowledge and skills necessary to achieve that goal, practice my English more and start and complete a postgraduate degree in project management.
+
+
+**Clase 21 Respondiendo preguntas situacionales en inglés**
