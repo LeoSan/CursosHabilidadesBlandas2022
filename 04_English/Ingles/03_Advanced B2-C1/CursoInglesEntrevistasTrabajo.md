@@ -459,11 +459,230 @@ company. I am also interested in developing my skills through your specialized
 training and mentoring programs, as well as your international events.
 
 
-My example 
-
+> My example 
+```
 I see myself in five years in Canada with a high-performance position in project management or development management.
 
-I am working on improving my English and acquiring all the knowledge and skills necessary to achieve that goal, practice my English more and start and complete a postgraduate degree in project management.
-
+I am working on improving my English and acquiring [acuariment] all the knowledge and skills necessary to achieve that goal, practice my English more and start and complete a postgraduate degree in project management.
+```
 
 **Clase 21 Respondiendo preguntas situacionales en inglés**
+
+
+
+**Clase 22 **
+**Vocabulary**
+- Behavioral questions: questions that have to do with how you handled past work situations.
+- Call someone out: an expression that has to do with telling someone about something they did or said and asking them for an explanation.
+- Job setting / Work setting: your work environment. The place where you work.
+- Role play: a dramatization in which you perform or act out the part of a person or character in a situation in order to make the topic more clear.
+- Situational questions: questions about hypothetical work situations. They allow the interviewer to know how you would act if they happened.
+- Some things you should avoid saying during a job interview in English
+
+
+**Negative comments about your current or previous employer**
+- Too much personal information:
+- Being too casual:
+- Lying or exaggerating:
+- Being unprepared:
+- Asking about salary or benefits too soon:
+- Criticizing the company:
+
+
+> Ejemplo 
+Could you tell me more about the ______ responsibilities of the role?
+Asking about the company culture before the offer.
+Asking for more details about the role before the offer.
+
+** Clase 23 : Practica para tu entrevista en inglés - Parte 2**
+
+Nice, My range salary is nine thousand monthly free to tax
+
+**Clase 24: Cómo cerrar la entrevista de manera efectiva**
+
+
+
+**3 tips to effectively close a job interview:**
+
+- Thank the interviewer for the time.
+- Restate why you are interested in the position and the value that you could bring to the company.
+- Make sure you ask questions about what's next in the process.
+
+**Clase 25 Errores comunes en las entrevistas en inglés**
+
+- Common Mistake 
+	- Being late -> llegar tarde 
+	- Lying -> mentir 
+	- Not being prepared -> No estar preparado 
+	- having your cell phone with notificaction duranting the interview 
+	- Debe mantener la mirada fijamente al entrevistador 
+	- Bad posture 
+	- No preguntar sobre la empresa 
+	- No hacer preguntas sobre la vacaciones 
+	- hacer comentarios negativos de tu ultimo trabajo 
+
+**Clase 26: Expresiones para hacer seguimiento a entrevistas en inglés**
+
+**Important vocabulary for interviews**
+- Being late: not being on time for a scheduled meeting or event
+- Follow up: to investigate closely in order to have a status or more information as a response to something
+- If applicable: it expresses that you should consider if something has to do with you, if it is relevant or if it applies.
+- Mistake: an act or judgment that is not right, something that you are wrong about.
+- Role: a purpose o position that a person has in a company, a situation, society, or in a relationship. It is related to a duty or obligation that the person has.
+- Write down: to record something in written form in a piece of paper.
+
+**Expressions that you can use to follow up on your job interview** 
+
+“I want to thank you again for the opportunity to interview for the role. I enjoyed learning more about the company and the position”
+
+“I wanted to follow up and see if there have been any updates on the hiring process for the position”
+
+“I’m just writing to inquire about the status of my application for the role. I’m very interested in the opportunity, and I wanted to see if there is anything else I can provide to support my candidacy”
+
+“I want to reach out and see if you have made any decisions regarding the role. I’m eager to hear back from you”
+
+“I hope this email finds you well. I wanted to follow up on my interview for the role and see if there is any additional information I can provide to support my candidacy”
+
+
+**Clase 27: Practica para tu entrevista en inglés - Parte 3** 
+
+https://platzi.com/new-home/clases/7593-ingles-entrevistas/62699-practica-para-tu-entrevista-en-ingles-parte-3/ 
+
+Estudiar para la entrevista 
+
+
+
+What should a Cover letter include?
+All the options should be included.
+
+2.
+To prepare for an interview you should:
+Research about the company and the role, anticipate questions and practice.
+
+3.
+What should you avoid in a face to face interview?
+Looking around the interview room, without making any eye contact.
+
+4.
+Your professional summary should NOT include:
+Your current salary.
+
+5.
+When talking about past experiences you should:
+Share what you learned in your previous position.
+
+6.
+Select the BEST answer to the question: Why should we hire you for this role?
+Because I admire your company culture and I have experience in the services your company provides.
+7.
+When answering about your strengths you should:
+Be brief, give examples, and talk about strengths related to the position you are applying for.
+
+8.
+To answer: What is your salary expectation you should:
+Provide a salary range.
+
+9.
+Select the best answer to this question: Where do you see yourself in the next 5 years?
+I would like to have more responsibilities and lead projects in this company.
+
+10.
+What are situational questions?
+Questions in which you are asked about hypothetical situations.
+
+11.
+To end a job interview you should NOT.....
+Ask about holidays or bonuses.
+
+12.
+This is a common mistake during interviews:
+
+Asking about the perks before the offer.
+
+13.
+After an interview you should:
+Call the interviewer to know the next steps.
+
+REPASAR CLASE
+14.
+Your resume should be sent in this format:
+PDF
+15.
+To improve your body language during the interview you could _____________________.
+
+mimic the interviewer.
+
+16.
+The best time to negotiate is right after you receive a ________________.
+
+written offer
+
+17.
+When asking about your goals they want to know if __________________________.
+
+your career path is aligned with the company’s mission
+
+18.
+The letter "T" in the STAR method stands for:
+Task
+
+19.
+A resume is a one page, or maximum to page document. On the other hand, A CV:
+
+is shorter and tailored to a specific job.
+
+REPASAR CLASE
+20.
+The reason or drive behind your actions and decisions is your ________.
+
+motivation
+21.
+Fill in the blank with the best option: "I appreciate the opportunity to _______ for this position."
+applying
+REPASAR CLASE
+22.
+Fill in the blank with the best option: "I'll get back to you soon" means that you will _____ after a period of time.
+reply
+23.
+Fill in the blank with the best option: _______ the company can harm your chances of being hired.
+Criticizing
+24.
+Fill in the blank with the best option: "I wanted to _________ and see if there have been any updates on the hiring process for the position."
+follow up
+25.
+Select the best option. Be aware of your market value and cost of living when being asked about your __________.
+
+salary expectations
+26.
+Fill in the blank with the best option: "I'm eager to __________ from you."
+hear back
+27.
+A 1 page document that you should send with your resume to persuade the hiring manager to read it.
+Cover letter
+28.
+A brief summary of your skills, qualifications, strengths, and relevant professional experience.
+Professional Summary
+29.
+__________involve skills, abilities and knowledge.
+Competencies
+
+30.
+Fill in the black with the best option: Could you tell me more about the ______ responsibilities of the role?
+requirements
+REPASAR CLASE
+31.
+Fill in the blank with the best option: I ______ under pressure and enjoy finding creative solutions to difficult problems."
+
+find
+REPASAR CLASE
+32.
+To improve and refresh your knowledge or skills is to _________.
+
+brush up on
+
+33.
+Fill in the blank with the best option: Being _____ shows a lack of interest in the job.
+unprepared
+34.
+To investigate closely in order to have a status or more information as a response to something is to:
+follow-up
