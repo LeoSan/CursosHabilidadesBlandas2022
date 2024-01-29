@@ -44,3 +44,5 @@ La sección de lectura está diseñada para evaluar las habilidades de comprensi
 En resumen, la sección de lectura del examen TOEFL evalúa la capacidad del examinado para leer y comprender textos académicos en inglés y su capacidad para responder preguntas basadas en la información presentada en estos textos.
 
 [Ejemplo 002](./toelf_002.png)
+
+## Clase 6 Simulador de TOEFL Reading: Antes de Empezar
