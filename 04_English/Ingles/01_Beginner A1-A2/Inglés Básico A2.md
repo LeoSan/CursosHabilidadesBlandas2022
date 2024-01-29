@@ -129,3 +129,100 @@ every day
 30.
 Complete the sentence using the correct adverb: We packed our luggage ___________ and had spare time to relax.
 efficiently
+
+
+31. We had a ___________ experience.
+mystery 
+REPASAR 
+
+32. What are the correct comparative and superlative forms of the adjective GOOD
+better / the best
+
+
+33.  can't have sugar, so I _____ drink soda
+never 
+
+34. She is extroverted and very friendly.
+Is she friendly?
+REPASAR 
+
+35. There is a woman in the ____ of the picture.
+
+36. It tastes ______ apple juice.
+like 
+REPASAR  
+
+37.  Would you like to go eat out ___ stay home?
+OR 
+
+
+38. visit my sister in France.
+WILL 
+REPASAR 
+
+39. These places are original:
+Distinctive, iconic and unique. 
+
+
+40. Choose the best consequence for the sentence: "My sister didn't study hard, so..."
+she failed the exam. 
+
+41. I am cooking a pozole
+right now
+
+42. We are going to do a barbeque
+next weekend 
+
+43. In the sentence: "she has lived here for 3 months", when did she move there?
+3  months ago
+
+44. I can ______ the onions and garlic.
+smell
+
+45. Bicycles are _____ cars.
+
+46. What question should result in the answer: She is extroverted and very friendly.
+Is she friendly? 
+REPASAR 
+
+47. Ouch! There's _________ in my eye!
+something
+
+
+48. Complete the sentence: My niece is over there. The little girl _______ brown hair.
+
+
+49. In the sentence "Bob is the nicest guy in my classroom.", you can affirm:
+
+50. My hair is as black as
+
+
+51. Take the second right, go past the hospital and you'll see it next to the park
+
+
+52. Complete the sentence with the correct verb form: "It is hard _________ this project.
+
+
+53. The comparative form of the adjective "bad" is
+
+54.  Is this sentence correct or incorrect?
+Both of them are beautiful.
+
+
+55. I put my keys ___________ but I can't remember now!
+
+56. "You don't have to wear a tie on Fridays." - What conclusion can you make?
+
+57. Complete the sentence: ________ people like him.
+
+
+58. In which sentence the verb 'BAKE' is DITRANSITIVE?
+
+59. If I say: "I don't have enough money to go to the movies." You can imply:
+
+60. You don't need _______ water to boil the rice.
+
+
+
+
+
