@@ -552,7 +552,7 @@ Estudiar para la entrevista
 
 
 
-What should a Cover letter include?
+1. What should a Cover letter include?
 All the options should be included.
 
 2.
@@ -596,30 +596,26 @@ Ask about holidays or bonuses.
 
 12.
 This is a common mistake during interviews:
-
 Asking about the perks before the offer.
 
 13.
 After an interview you should:
-Call the interviewer to know the next steps.
+Send a thank you email to your interviewer.
 
-REPASAR CLASE
 14.
 Your resume should be sent in this format:
 PDF
+
 15.
 To improve your body language during the interview you could _____________________.
-
 mimic the interviewer.
 
 16.
 The best time to negotiate is right after you receive a ________________.
-
 written offer
 
 17.
 When asking about your goals they want to know if __________________________.
-
 your career path is aligned with the company’s mission
 
 18.
@@ -628,61 +624,65 @@ Task
 
 19.
 A resume is a one page, or maximum to page document. On the other hand, A CV:
+can be longer since it is a comprehensive overview.
 
-is shorter and tailored to a specific job.
-
-REPASAR CLASE
 20.
 The reason or drive behind your actions and decisions is your ________.
-
 motivation
+
 21.
 Fill in the blank with the best option: "I appreciate the opportunity to _______ for this position."
-applying
-REPASAR CLASE
+interview
+
 22.
 Fill in the blank with the best option: "I'll get back to you soon" means that you will _____ after a period of time.
 reply
+
 23.
 Fill in the blank with the best option: _______ the company can harm your chances of being hired.
 Criticizing
+
 24.
 Fill in the blank with the best option: "I wanted to _________ and see if there have been any updates on the hiring process for the position."
 follow up
+
 25.
 Select the best option. Be aware of your market value and cost of living when being asked about your __________.
-
 salary expectations
+
 26.
 Fill in the blank with the best option: "I'm eager to __________ from you."
 hear back
+
 27.
 A 1 page document that you should send with your resume to persuade the hiring manager to read it.
 Cover letter
+
 28.
 A brief summary of your skills, qualifications, strengths, and relevant professional experience.
 Professional Summary
+
 29.
 __________involve skills, abilities and knowledge.
 Competencies
 
 30.
 Fill in the black with the best option: Could you tell me more about the ______ responsibilities of the role?
-requirements
-REPASAR CLASE
+day-to-day}
+
+
 31.
 Fill in the blank with the best option: I ______ under pressure and enjoy finding creative solutions to difficult problems."
+thrive
 
-find
-REPASAR CLASE
 32.
 To improve and refresh your knowledge or skills is to _________.
-
 brush up on
 
 33.
 Fill in the blank with the best option: Being _____ shows a lack of interest in the job.
 unprepared
+
 34.
 To investigate closely in order to have a status or more information as a response to something is to:
 follow-up
