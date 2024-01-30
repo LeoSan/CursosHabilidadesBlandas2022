@@ -46,3 +46,60 @@ En resumen, la sección de lectura del examen TOEFL evalúa la capacidad del exa
 [Ejemplo 002](./toelf_002.png)
 
 ## Clase 6 Simulador de TOEFL Reading: Antes de Empezar
+
+Emulador 
+
+
+## Clase 7 TOEFL Reading Section: Tipos de Pregunta Parte
+En esta seccion pondran diversos parrafos y se debe leer y tener la idea principal. 
+
+para ir contestando las preguntas 
+
+## clase 8: TOEFL Reading Section: Tipos de Pregunta Parte
+
+Inference question: In my own words, inference questions are different from factual questions because inference questions are a conclusion based on previous information. It's something that you can assume.
+
+Keywords to inference questions: inferred, suggests/implies.
+
+Rhetorical purpose: ideas behind the information, why the author presented certain information, in other words, why is the purpose of the author presenting this information. it's like a question designed to know about something previous mention in the information, which could begin with a why or any expression that expresses doubt regarding the text. (look for causes and reasons).
+
+Organization questions: require you to understand how various paragraphs are related. (uses of match and connectors: after, before, between, while, so on, and so forth)
+
+Pregunta de inferencia: en mis propias palabras, las preguntas de inferencia son diferentes de las preguntas fácticas porque las preguntas de inferencia son una conclusión basada en información previa. Es algo que puedes asumir.
+
+Palabras clave para preguntas de inferencia: inferido, sugiere/implica.
+
+Propósito retórico: ideas detrás de la información, por qué el autor presentó cierta información, en otras palabras, por qué es el propósito del autor al presentar esta información. es como una pregunta diseñada para saber algo previa mención en la información, que podría comenzar con un por qué o cualquier expresión que exprese duda respecto del texto. (busque causas y razones).
+
+Preguntas de organización: requieren que usted comprenda cómo se relacionan los distintos párrafos. (usos de fósforo y conectores: después, antes, entre, mientras, etc., etc.)
+
+## Clase 9: TOEFL Reading Section: Tipos de Pregunta Parte
+
+
+## Clase 10: TOEFL Reading Section: Tipos de Pregunta Parte
+
+## Clase 12: TOEFL Reading: Recomendaciones finales
+
+Recommendations:
+
+SKIM the general idea
+
+SCAN the information needed
+
+TIME yourself
+
+SUMMARIZE in your mind
+
+NOTES, take them
+
+KEEP MOVING even if you are unsure
+
+**No se recomienda**
+[NO HACER ](./Reading_004.png)
+
+## Clase 15: TOEFL Listening Section: Tipos de Pregunta Parte 1
+
+Something important about listening section is that you cannot pause the audio and you can only listen to it once (even when you take it at home); so, it's important that we practice to listen to it just once without pauses, trying to simulate the real experience.
+
+## Clase 15: TOEFL Listening Section: Tipos de Pregunta Parte 2
+
