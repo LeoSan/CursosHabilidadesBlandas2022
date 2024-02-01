@@ -52,6 +52,7 @@ Give a detailed explanation about the contract.
 13.
 Which word is related to your retirement?
 Pension
+REPASAR
 
 14.
 What is a synonym for "leaving your job"?
