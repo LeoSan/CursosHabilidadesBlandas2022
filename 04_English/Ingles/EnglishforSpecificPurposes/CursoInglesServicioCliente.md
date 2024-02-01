@@ -243,60 +243,75 @@ They´ll -> dei.oll
 Resumen
 1.
 Choose the CORRECT greeting:
-Hello, thank you for call AquaLife...
-REPASAR CLASE
+Hello, thank you for calling AquaLife...
+
+
 2.
 "When did you make the order?" A more 'polite' way to ask this question would be:
 Can you tell me when you made the order?
+
 3.
 "Customer: I don't have time to be on the phone all day long! Assistant: I understand your _____________ ..." In this conversation, a word to demonstrate empathy is:
 frustration
+
 4.
 To show your client you plan to take action, the CORRECT sentence would be:
 I'll send your request to the team right now
+
 5.
 Which of the following questions is INCORRECT:
-When did you make the reservation?
-REPASAR CLASE
+How many nights you reserved?
+
 6.
 "Customer: Can I use store credit to buy that phone? Assistant: I don't sure, but I'll check for you right now" In this conversation:
 The assistant is using a positive tone but the phrase is not grammatically correct
+
 7.
 "I'm fed up with your service!" Another way a customer would say this, is:
 "I'm tired of your bad service"
+
 8.
 "Your order is going to take 3 weeks to arrive" A better way to give this news to a customer would be:
 "I'm afraid your order is going to be delayed"
+
 9.
 "We ____ reimburse your money..." The best word to complete this sentence and offer a solution is:
 will
+
 10.
 When greeting a customer on the phone, another way of saying "My name is Alex..." would be:
 "This is Alex..."
+
 11.
 Which of the following questions is INCORRECT:
 Can you say me if the modem is "ON"?
+
 12.
 "I apologise for the isue you're experiencing" In the previous sentence, which word is spelled INCORRECTLY:
 isue
+
 13.
 "Fill out the form, send it to the "Claims Department, wait for a response, and then please send us an email. And don't forget to attach the receipt" The explanation of this procedure...
 ...can include more words to help the customer understand the process
+
 14.
 "Customer: More people stayed in the room Assistant: _______________?" The CORRECT follow-up question is:
-How many people did stay in the room?
-REPASAR CLASE
+How many people stayed in the room?
+
 15.
 "I can't change your reservation, but..." A CORRECT way of finishing this phrase is:
-...here's I can do what
-REPASAR CLASE
+..here's what I can do
+
 16.
 How would an angry client complete the following phrase: "You’re charging me extra money on my credit card, this is ______________"
 unacceptable
+
 17.
 "I'm afraid we didn't receive your payment" This sentence:
 is polite and correct
+
 18.
 "We'll make ____ your phone is tested before we send it" The best word to complete this sentence is:
 possible
+best
 REPASAR CLASE
