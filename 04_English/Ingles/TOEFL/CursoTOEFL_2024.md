@@ -386,93 +386,106 @@ Paso 4: pagas
 Resumen
 1.
 Identify the following reading question type: Paragraph 3 implies that Ir in the boundary clay is needed because…
+Inference Question
 
-Rhetorical Purpose Question
-REPASAR CLASE
+
 2.
 What is something you should NOT do during the reading section?
 Translate
+
 3.
 Is the following a 'Factual', 'Inference', or 'Main-idea' question? What may happen after X?
-Main-idea Question
-REPASAR CLASE
+Inference Question
+
+
 4.
 What is an example of a 'Purpose / Method / Attitude' question?
-Where did the student travel after X?
-REPASAR CLASE
+Why does the professor describe X?
+
 5.
 "The professor explains the elements for a well-made play. Put them in the correct order:" Is an example of what question type?
-Replay Question
-REPASAR CLASE
-6.
-How many lectures will be in the listening section?
-1-2
-REPASAR CLASE
+Match and Order Question
+
+
+6. How many lectures will be in the listening section?
+3-4
+
+
 7.
 What is something you should do during the listening section?
 Pay attention to intonation.
+
+
 8.
 How many core skills does the TOEFL evaluate?
-
 4
+
 9.
 What is the scoring range of the TOEFL?
 0-120
+
 10.
 Identify the following reading question type: Which of the following is true?
-Inference Question
-REPASAR CLASE
+Factual Question
+
+
 11.
 Identify the following reading question type: In paragraph 2 what does the author mean by "fluctuations".
 Rhetorical Purpose Question
+Organization Question
+Factual Question
 REPASAR CLASE
+
 12.
 Which of the following is an example of a rhetorical purpose question?
-Add this sentence to the correct place in the paragraph.
-REPASAR CLASE
+Why does the author mention the survival of "snakes, lizards, turtles, and crocodiles" in paragraph 3?
+
 13.
 What do you have to do in a 'Sentence Restatement' question?
 Recognize and choose an accurate paraphrase or summary of the essential information.
+
 14.
 What is an example of a 'Main-idea' question?
 What is the conversation about?
+
 15.
 What do you have to do in the independent speaking task?
-Combine reading and listening to answer.
-REPASAR CLASE
+Draw on your own ideas and experiences to answer.
+
 16.
 What will NOT be evaluated in the speaking section?
 Accent
+
 17.
 Your tone in the speaking section should be:
 Your natural tone.
+
 18.
 Which of the following is NOT a possible step of the 'Integrated' task?
-You are given a prompt and time to answer.
-REPASAR CLASE
+You read an essay.
+
 19.
 Which of the following is NOT a recommended note to take?
 Vocabulary Used
+
 20.
 How many 'Integrated' speaking tasks will you have?
 3
+
 21.
 Which of the following is good advice for the speaking section?
 After you listen to something, summarize it.
+
 22.
 Which of the following is NOT recommended to write in the 'Integrated' writing task?
-Summarized ideas from the lecture.
-REPASAR CLASE
+Your personal opinion on the topic.
+
 23.
 When responding the Academic Discussion Task, it is important to:
-
 Insert ourselves properly into the conversation.
 
 24.
 How long should my contribution for the Academic Discussion be?
-
-300 words or more
-
-REPASAR CLASE
+At last 100 words.
 
 
