@@ -633,6 +633,9 @@ motivation
 21.
 Fill in the blank with the best option: "I appreciate the opportunity to _______ for this position."
 interview
+hiring
+applying
+REPASAR CLASE
 
 22.
 Fill in the blank with the best option: "I'll get back to you soon" means that you will _____ after a period of time.
@@ -686,3 +689,12 @@ unprepared
 34.
 To investigate closely in order to have a status or more information as a response to something is to:
 follow-up
+
+
+What ________ are Jhon and Ravee interviewing for?
+positions
+
+What is NOT a part of an offer letter?
+Explain how many other candidates were also hired 
+
+
