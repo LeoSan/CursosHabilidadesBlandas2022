@@ -632,13 +632,10 @@ motivation
 
 21.
 Fill in the blank with the best option: "I appreciate the opportunity to _______ for this position."
-<<<<<<< HEAD
 interview
-=======
 hiring
 applying
 REPASAR CLASE
->>>>>>> 434d4fa (ajuste examen de basico business)
 
 22.
 Fill in the blank with the best option: "I'll get back to you soon" means that you will _____ after a period of time.
