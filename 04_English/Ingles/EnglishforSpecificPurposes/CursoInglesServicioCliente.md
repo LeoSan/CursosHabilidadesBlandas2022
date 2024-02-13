@@ -312,6 +312,4 @@ is polite and correct
 
 18.
 "We'll make ____ your phone is tested before we send it" The best word to complete this sentence is:
-possible
-best
-REPASAR CLASE
+sure
