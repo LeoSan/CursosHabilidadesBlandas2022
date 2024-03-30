@@ -632,9 +632,8 @@ motivation
 
 21.
 Fill in the blank with the best option: "I appreciate the opportunity to _______ for this position."
-interview
-hiring
-applying
+considering
+
 REPASAR CLASE
 
 22.

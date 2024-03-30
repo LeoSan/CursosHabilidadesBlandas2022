@@ -200,7 +200,7 @@ something
 51. Take the second right, go past the hospital and you'll see it next to the park
 
 
-52. Complete the sentence with the correct verb form: "It is hard _________ this project.
+52.  form: "It is hard _________ this project.
 
 
 53. The comparative form of the adjective "bad" is

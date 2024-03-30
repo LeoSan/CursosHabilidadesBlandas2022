@@ -245,6 +245,41 @@ REPASAR
 56. Yadira looks just like her mother. She is ____________.
 the spitting image of her mom
 
+57. Complete the sentence with the correct verb tense: " I love _________ movies with you."
+watched
+REPASAR 
+
+58. To "put up with something" means to:
+tolerate something
+
+
+59. In which sentence 'that' is a SUBJECT PRONOUN?
+THAT's the most expensive car!
+
+
+60. We use the expression "I thought" when...
+we forget something and we want to remember it.
+REPASAR
+
+61. ¿Cuál de las siguientes NO es una característica del enfoque moderno de aprendizaje de lenguas?
+Se enfoca en estructuras gramaticales
+
+
+
+62. Complete the sentence witht the correct Preposition of Time. They scheduled the event _____ their break.
+during
+
+
+63. There ___ 20 new notifications
+are
+
+
+64. It is NOT a question word
+Whatever
+
+
+
+
 
 
 
