@@ -1,4 +1,6 @@
-## Design Sprint en pocas palabras Metodología ágil e interactiva desarrollada por google, se condensa por 5 días de trabajo donde cada día se busca dar respuestas a una necesidad puntual dentro del proceso creativo. Su objetivo final es lanzar un producto para ser validado en el mercado con mayor agilidad.
+## Curso Design Sprint Aplicado
+
+>  Design Sprint en pocas palabras Metodología ágil e interactiva desarrollada por google, se condensa por 5 días de trabajo donde cada día se busca dar respuestas a una necesidad puntual dentro del proceso creativo. Su objetivo final es lanzar un producto para ser validado en el mercado con mayor agilidad.
 
 **¿Cómo funciona?**
 
