@@ -137,3 +137,26 @@ De manera alineada, clara, refinada y Responsabilidad compartida.
 - Verbos malos -> ayudar, asistir, acompañar, compartir,  son ambiguos para el OKIAR,
 - Debemos hacernos preguntas de ayuda Para qué, con que proposito 
 
+## Clase 9: 
+
+
+
+## Clase 10:
+
+## Clase 11: Roles y Responsabilidades 
+
+**Nota**
+Para cada KR se necesita un responsable: 
+- Alguien que sirva de enlace para conocer el grado del progreso, alguien que aclare las dudas, alguien que se le notifique cualquier cambio.
+- Es fundamental que la información se transmita en los 3 niveles (de arriba a abajo y de abajo para arriba), no saltarse a nadie
+
+**Roles:**
+- Dirección: encargada de hacer en gran medida las estrategias, sin embargo, los Jefes Intermedios también apoyan en este proceso. 
+- Jefes Intermedios: Encargados de elaborar los Objetivos (junto con la dirección para que estén alineados con la estrategia) y los KR (junto con los equipos, para ir designando los responsables). 
+- Equipos: Se encargan de elaborar las iniciativas para colaborar en el alcance de los KR sin embargo, estas iniciativas también son monitoreadas por los jefes intermedios.
+
+![Ejemplo](./info/Screenshot_1.jpg)
+
+
+
+
