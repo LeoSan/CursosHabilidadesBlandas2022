@@ -405,8 +405,8 @@ Es un lider al servicio del equipo.
 Para mejorar la comunicación y las relaciones.
 11.
 ¿Cuál es la mejor estrategia para motivar a un equipo ágil?
-Construir un plan de motivación con incentivos intrínsecos y extrínsecos general para ahorrar tiempo.
-REPASAR CLASE
+Cuantificar la motivación y diseñar estrategias personalizadas para cada persona.
+
 12.
 La calidad de los resultados es determinada por:
 La calidad de las relaciones.

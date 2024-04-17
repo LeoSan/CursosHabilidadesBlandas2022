@@ -87,7 +87,8 @@ R->Reinforcement -> Rien.for.ment -> reforzamiento
 - Esta técnica es implementada en organizaciones que estan iniciando o que tienen pocos niveles 
 - Es una técnica con riesgo 
 
-![Ejemplo](./info/Okiars_1.png)
+
+
 
 
 ## Clase 6: Diseño de OKRs - Alineación 

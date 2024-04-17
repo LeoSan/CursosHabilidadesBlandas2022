@@ -30,8 +30,8 @@ Falso
 Inspeccionar el progreso hacia el Objetivo del Sprint y adaptar el Sprint Backlog según sea necesario, ajustando el trabajo planificado entrante
 11.
 ¿Cuál es el propósito de la Sprint Review?
-Presentarle al Product Owner el incremento del producto para que lo apruebe y de feedback al equipo  --- Todas las anteriores
-REPASAR CLASE
+Inspeccionar el resultado del Sprint y determinar futuras adaptaciones
+
 12.
 El propósito de la Sprint Retrospective es planificar formas de aumentar la calidad y la efectividad de la forma de trabajo del equipo
 Verdadero

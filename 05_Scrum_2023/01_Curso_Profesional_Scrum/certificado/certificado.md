@@ -46,7 +46,9 @@ La cantidad de esfuerzo necesario para completarla.
 
 12.
 ¿Quién define el contenido del backlog del sprint?
-El scrum master -- El Product Owner
+El scrum master 
+El Product Owner
+El usuario final
 # REPASAR CLASE
 
 13.

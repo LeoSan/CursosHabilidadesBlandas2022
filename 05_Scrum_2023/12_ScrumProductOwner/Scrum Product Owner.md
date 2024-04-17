@@ -207,9 +207,8 @@ Columnas en Nuestros tableros
 Resumen
 1.
 ¿Cuál es la esencia de Scrum en la que el Product Owner puede usar para analizar y decidir en función de los hechos que se van descubriendo en los proyectos?
-Enfoque incremental
-Pensamiento Lean
-REPASAR CLASE
+Empirismo
+
 2.
 ¿Cuál es la responsabilidad más importante del Product Owner?
 Ser la voz del cliente.
