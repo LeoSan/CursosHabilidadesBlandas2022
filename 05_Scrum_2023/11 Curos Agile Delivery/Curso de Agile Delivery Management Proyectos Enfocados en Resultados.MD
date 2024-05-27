@@ -356,8 +356,8 @@ Identificar y mitigar riesgos no es importante para un DM porque:
 Si es importante. Los DMs son responsables de garantizar que el equipo entregue valor y para eso requiere identificar, mitigar y asegurar la resolución de riesgos.
 9.
 La mejor herramienta que tiene un DM a su disposición es:
-No hay una que lo haga todo, es ideal consultar con su equipo y probar cual se adecua mejor a las necesidades de los proyectos
-
+Empatía y Comunicación efectiva
+REPASAR CLASE
 10.
 La única manera de convertirte en un Delivery Manager es:
 Hay muchas maneras. Experiencia con metodologías Ágiles, gestión de proyectos, y liderazgo; son elementos críticos.
