@@ -3,16 +3,15 @@
 Resumen
 1.
 ¿Qué pregunta contesta el paradigma del liderazgo integrador?
-¿Cómo se comporta una líder con respecto de sus seguidores?
-REPASAR CLASE
+¿Cuál es el rasgo, comportamiento y estilo adecuados a cada situación real?
+
 2.
 ¿Qué dice el principio de Peter?
-No importa lo duro que trabajes, siempre serás incompetente.
-REPASAR CLASE
+Todas las personas son promovidas a su nivel de incompetencia.
+
 3.
 ¿Cuál de los siguientes NO es un rasgo de los líderes efectivos?
-Dominio
-REPASAR CLASE
+Inteligencia conversacional
 4.
 ¿Cómo se llama la habilidad de darte cuenta cómo te sientes?
 Autoconciencia
@@ -21,8 +20,8 @@ Si una persona tiene necesidad de comer y necesidad de estudiar, ¿cuál atender
 Comer.
 6.
 ¿Cuál de los siguientes NO es un estilo sugerido por el liderazgo integrador?
-Enfocado a la tarea y a la persona.
-REPASAR CLASE
+Enfocado a la integración.
+
 7.
 ¿Cuál de las siguientes NO es una buena práctica en la delegación?
 Hacer la tarea uno mismo cuando se la entregan mal.
@@ -35,8 +34,4 @@ El desempeño y la satisfacción del equipo.
 Todas las anteriores
 10.
 ¿Cuál de los siguientes puede ser un factor de higiene en una oficina de diseño?
-
-Proyectos variados y diversos
-
-REPASAR CLASE
-Ver menos
+Suficiente espacio para dibujar y animar

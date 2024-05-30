@@ -3,17 +3,22 @@
 Resumen
 1.
 ¿Cuáles son las categorías de los roles gerenciales de Mintzberg?
-Monitor, difusor, portavoz.
+Interpersonales, de información, de decisión.
 
-REPASAR CLASE
+
 2.
 ¿Cuál de las siguientes NO es un paradigma de la teoría de liderazgo?
-Contingencia
-REPASAR CLASE
+Atributos
+
 3.
 ¿Cuál de los siguientes NO es uno de los Cinco Grandes de la personalidad?
 Apertura a la experiencia
+Escrupulosidad-Tesón
+Afabilidad
+Extroversión
 REPASAR CLASE
+
+
 4.
 Según la teoría de rasgos, ¿cuáles de los siguientes son rasgos de los líderes efectivos?
 Locus de control interno, inteligencia emocional, integridad, sensibilidad a los demás.
@@ -28,17 +33,17 @@ Entender el punto de vista de los demás y no tomarme personal una agresión emo
 
 7.
 ¿Cuál de las siguientes no es una necesidad inconsciente?
-La necesidad de ejercer poder sobre los demás.
+La necesidad de recibir instrucciones precisas.
 
-REPASAR CLASE
+
 8.
 Completa la oración: "Si una líder cree en la teoría Y de McGregor, ..."
-"sabe que hay que hay que castigar a los colaboradores para que logren resultados"
-REPASAR CLASE
+"está convencida que a los colaboradores les gusta trabajar y son dignos de confianza"
+
 9.
 Basado en el caso "Una joven líder", ¿qué rasgo de liderazgo evidenció Astrid cuando procesó información por 12 horas de manera incansable?
 Gran energía
+
 10.
 ¿Qué pregunta ayudan a responder las teorías de rasgos del liderazgo?
-¿Cómo debería una líder adaptar su estilo a cada situación?
-REPASAR CLASE
+¿Cómo es una líder?
