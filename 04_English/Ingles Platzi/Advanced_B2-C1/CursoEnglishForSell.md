@@ -96,6 +96,111 @@ Which phrase does my colleague use to say that she isn't sure whether she likes 
 - Introduce yourself - name, position, company.
 - State reason for call - be specific.
 - Politely request their time.
+
+
+## Clase 9: Contacta a un cliente por correo electrónico en inglés 
+
+## ejemplo para escribir un correo por internet 
+
+```
+
+Subject: Streamline Your Business Operations with PowerPerformX
+
+**Dear** Carlos,
+*I* hope this email finds you well. My name is Chris Edenfield, and I represent Power Performance, a leading provider of cutting-edge app services designed to enhance business productivity and efficiency.
+In today's fast-paced business world, staying ahead of the curve is essential. This is where our innovative app service comes into play. Our app is tailored to streamline your operations, boost productivity, and provide you with a competitive edge in your industry.
+
+```
+**Here's how our app can benefit your business:**
+- Increased Efficiency: Our app simplifies and automates tasks, saving your team valuable time and reducing the risk of errors.
+
+- Enhanced Collaboration: Enjoy seamless communication and collaboration, whether your team is in the office or on the go.
+
+- Real-Time Insights: Gain access to valuable data and analytics, allowing you to make informed decisions and drive growth.
+
+- Customized Solutions: We understand that every business is unique. Our app can be tailored to meet your specific needs and goals.
+
+- Cost Savings: Improve your bottom line by cutting unnecessary expenses and optimizing your resources.
+
+
+![Ejemplo](../Advanced_B2-C1/Screenshot_9.png)
+
+## Clase 10: Comprende y aclara las necesidades de un cliente en inglés
+
+1.- Put another way team work efficiency and communication is needed.
+2.- Oh I see clients aren’t happy
+3.- Did I get that right? Disruptions are affecting badly.
+4.-So what you’re saying is resilience and adaptability needed for the changes.
+5.- If I unsderstand you correctly a new software needs to be implemented.
+
+**Tips Evaluation you speech:** 
+Modal verbs
+- Could... you tell me exactly what the problem is? . 
+- Would... you mind telling me what the issue is?
+- Can... I ask how long this has been a problem for you?
+
+
+## Corte 
+
+What is the purpose of a discovery call?
+To understand the client's needs, challenges, and problems.
+2.
+What are touch points?
+Interactions with clients or prospects that help develop relationships
+3.
+What type of questions are useful to initiate a discovery call?
+Open-ended questions
+
+## Clase 11 - 12 - 13  Vocabulario para abrir un discurso de ventas en inglés
+
+Elevator pitch
+"This is who I am and what I do!"
+
+## Example 
+
+Opening a pitch
+Instructions: Read the elevator pitches below and identify which techniques are used in each one. You will find an answer key on the following page, which also includes the answers to the sales pitches you saw in the class.
+
+## Elevator pitch #1
+"Hi, I'm Chris, and I'm passionate about helping businesses succeed. With over ten years of experience in crafting solutions for businesses, I've honed my skills to deliver real results. I believe in the power of building lasting relationships and providing customized solutions. My mission is to connect you with the perfect service that allows you to do what you do best. I'd love to have a conversation and see how we can work together to achieve your goals and drive your success. In fact, let me tell you about one of our success stories..."
+Techniques used:
+
+## Elevator pitch #2
+"Hello, I'm Chris, and I work in cybersecurity. Did you know that cyberattacks have increased by a staggering 600% in the last year alone? It's a harsh reality of the digital age. My mission is to protect businesses like yours from these threats. Let's discuss how we can safeguard your sensitive data and keep your operations running smoothly in this ever-changing landscape."
+Techniques used:
+
+## Clase 14: Mas Vocabulario para abrir un discurso de 
+
+
+1. Refer
+2. Apply now/Sign up now / Register now
+3. Request
+4. schedule a follow-up
+5. Subscribe
+6. Book or Schedule
+7. Register/Sign up
+8. sign up now; Don't wait
+
+
+## Clase 15: Habla de problemas y necesidades de servicios en inglés
+
+
+1. Work out: Resolver un problema a través del pensamiento o el cálculo. Ejemplo: "I can't work out this math problem."
+
+2. Figure out: Entender o resolver algo. Ejemplo: "I need to figure out how to fix this."
+
+3. Sort out: Resolver un problema o situación. Ejemplo: "We need to sort out our communication issues."
+
+4. Clear up: Resolver un malentendido o una confusión. Ejemplo: "Can you clear up this confusion?"
+
+5. Iron out: Resolver pequeños problemas o detalles en un proyecto o plan. Ejemplo: "We need to iron out the details before we can proceed."
+
+6. Get around: Encontrar una manera de superar o evitar un problema. Ejemplo: "We need to get around this obstacle."
+
+
+
+
+
  
 
 
