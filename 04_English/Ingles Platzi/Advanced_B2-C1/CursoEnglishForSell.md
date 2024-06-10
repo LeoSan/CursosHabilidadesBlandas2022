@@ -197,6 +197,130 @@ Techniques used:
 
 6. Get around: Encontrar una manera de superar o evitar un problema. Ejemplo: "We need to get around this obstacle."
 
+## Clase 16: Habla de características de productos en inglés
+
+
+**Why Choose PPX?**
+- Efficiency and Productivity: Streamline your customer relations tasks and free up time to focus on what you do best.
+
+- Enhanced Customer Experience: Deliver exceptional service by staying connected and responsive to your customers' needs.
+
+- Data-Driven Decision Making: Make informed decisions based on real-time analytics and customer feedback.
+
+- Customization: Tailor PPX to fit your business needs, ensuring it aligns perfectly with your objectives.
+
+- Scalability: Grow your customer base confidently, knowing that PPX will adapt to your business's expansion.
+
+- Join the ranks of businesses that have revolutionized their customer relations with PPX. It's not just an app; it's a strategic tool designed to foster loyalty, drive growth, and ensure your customers keep coming back. Your success begins with PPX. Try it today!
+
+## Clase 18: Frases útiles para negociar en inglés 
+
+
+**Opening**
+- I appreciate the opportunity to work together.
+- Thank you for giving me the chance to work with you.
+- We're looking to find a win-win situation.
+- I'm hopeful that we can reach a deal that both
+parties are happy with.
+
+**Avoid Being Pushy**
+- How many units are you going to buy?
+- You need to act quickly in order to get the best deal!
+- You should buy in bulk - you get a better unit price.
+
+
+**Less Pushy**
+- What would you like to include in your first order?
+- We can move on this when the time is right for you.
+- We offer bulk rates if you'd like a lower unit price.
+
+**Avoid Declarative statements*
+**Making concessions ==>> Hacer concesiones**
+- What would you need in order to make this work? • We'd be willing to come down a bit on the price if... => ¿Qué necesitarías para que esto funcione? • Estaríamos dispuestos a bajar un poco el precio si...
+
+- We can't move on price but we'd be open to making adjustments on terms. => No podemos cambiar el precio, pero estaríamos abiertos a hacer ajustes en los términos.
+
+- "If you can commit to a longer contract, I will be able to offer you better terms."
+- "I would give you an even better deal, if you could commit to a 5-year contract."
+
+
+**Responding to counteroffers**
+- What if we included...
+- What would you say if I threw in...
+
+**Declining an offer**
+- I'm sorry, we can't go that low.
+- I can't offer that price for that quantity, but I can... 
+- I'm afraid I can't go any lower on the price.
+
+## Clase 19: Habla de porcentajes, grandes cantidades y divisas en inglés
+
+Unit price
+• The price for a single item or unit of the product.
+• Paying the unit price will cost you more in the long
+
+
+Bulk purchase
+• Buying a large quantity of a product in one order, usually at a discount.
+• You save more money in the long run with bulk purchases.
+
+Wholesale price == Precio al por mayor
+• the price offered to retailers or resellers
+• A gross == en Bruto 
+
+
+Key acronym
+• MOQ = Minimum Order Quantity
+• The minimum quantity a customer must purchase to qualify for a particular price or deal.
+• JIT inventory = Just-In-Time inventory 
+• A strategy that involves minimal inventory levels, usually requiring precise quantity planning.
+• APA = Annual Purchase Agreement
+• A contract in which the buyer agrees to purchase a specified quantity of products or services over a year.
+
+- Dollar 🔉 Dau.llar -> EEUU
+- Pound  🔉 Pa.und -> Libra -> UK  
+- Yen    🔉 I.en   -> Yenes -> Japon  
+- Euro   🔉 I.o.ru -> Europa   
+- Rupee  🔉 Ru.pi  -> India 
+- Ruble  🔉 Ru.bol -> 
+- Peso   🔉 Pei.so  -> 
+- Yuan/Renminbi -> I.uan / re.men.bi  -> Chinos
+
+
+## Clase 20 : Habla de tasas, gastos de envío, formas de pago y opciones de financiación en inglés
+
+Invoice terminology
+• Seller information 
+• Buyer information
+• Invoice number 
+• Invoice date
+• Terms of payment 
+• Due date -> Fecha vencimiento  
+
+Invoice
+• A document detailing terms and conditions of a sale.
+
+Payment terms
+• Cash on delivery (COD)
+• Cash in advance (CIA)
+• Shipping and handling (S&H)
+• Failed to read text from the image, please try again!
+• Cash or card
+
+## Clase 21: Da manejo a objeciones en inglés
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
