@@ -19,15 +19,11 @@ Enfoque a la tarea y enfoque a la relación
 
 5.
 De todas las opciones del continuo de la delegación, ¿cuál es aquella en que el líder delega menos?
-Presentar una decisión tentativa sujeta a cambios
-Decidir con el grupo
-REPASAR CLASE
+Tomar la decisión solo y comunicarla
 
 6.
 ¿Cuántas preguntas se contestan en el liderazgo normativo?
-3
-5
-REPASAR CLASE
+7
 
 7.
 ¿Cuál es el estilo sugerido por el liderazgo normativo impulsado por el desarrollo cuya respuesta a las preguntas es siempre "alto"?
@@ -39,9 +35,7 @@ Lealtad
 
 9.
 ¿Cuál de las siguientes es una fuente de poder del puesto?
-Fiabilidad
-Innovación
-REPASAR CLASE
+Visibilidad
 
 10.
 ¿Cuál de las siguientes NO es una teoría de contingencia?
