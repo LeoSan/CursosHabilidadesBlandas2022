@@ -309,6 +309,181 @@ Payment terms
 
 ## Clase 21: Da manejo a objeciones en inglés
 
+**Example** 
+
+Match the response to the objection
+I understand your current commitments. Can we schedule a...
+I understand your financial constraints. Let's discuss the value...-> Correct 
+Compatibility is critical. Our team can work closely with your...
+
+
+Match the response to the objection
+I see where you're coming from. Let's review your feature requirements.
+I understand your concern but our product will pay for itself quickly.
+I appreciate your tight schedule. Our implementation process is seamless... -> Correct 
+
+
+Match the response to the objection
+I hear your concern. Can you share more about your unique needs?  -> Correct
+That's understandable. Planning ahead is smart.
+We can certainly discuss a faster delivery option.
+
+## Clase 24: Políticas y procedimientos de reembolso en inglés
+
+
+Client: What's your policy on returns and exchanges?
+Salesperson: If you want to return or exchange an item you need the receipt and do it within the return period, which is one week.
+
+
+Some returnable items require you to
+pay a restocking fee and other items are
+non-returnable. 
+
+So once you've bought it there's no option to return it.
+
+Guarantee vs warranty
+
+
+If a client wants to bring back an item because they got the wrong size and want to get a different size, what
+is the correct name?
+
+**Example**
+
+```
+If a client wants to bring back an item because they got the wrong size and want to get a different size, what
+is the correct name?
+
+Which one is it?
+an exchange -> correct 
+a receipt
+a refund
+
+```
+
+## Clase 25: Vocabulario para posventa en inglés
+
+
+**Key business phrases**
+- Valued customer
+- Deepest gratitude
+- Feedback
+- Patronage -> Sininimo de cliente 
+- Discount code
+- Range of products
+- Customer support
+- We hope this email finds you well.
+- In addition to our
+- gratitude...
+- Thank you for your loyalty and trust in...
+
+
+## Clase 26: The Sales Cycle
+6. Retention
+1. Prospecting
+5. Closing
+2. Qualifying
+4. Negotiating
+3. Proposal
+
+
+Resumen
+1.
+Which word or phrase can be used to describe someone who helps a person buy or sell their home?
+real estate agent
+realtor
+REPASAR CLASE
+2.
+Choose the pair of words that complete the sentence: "We offer flexible _____ options on all of our machinery and our _____ contracts are the most comprehensive in the industry!"
+lease; service
+
+3.
+Choose the pair of idioms that complete the text: If a client is _____ about something, it means he/she is unsure. On the other hand, if a client is _____ it means they are genuinely pleased.
+on the hook; over the moon
+on the hook; over the moon
+REPASAR CLASE
+
+4.
+Which term refers to the type of compensation in which the salesperson's earnings are only based on how much that person sells?
+a straight commission
+
+5.
+Which word does not belong?
+a sales rep
+
+6.
+Which of the following words and phrases is an example of a "touch point"?
+all of the above
+
+7.
+Which of the following is an example of a CTA that might appear in a cold email?
+all of the above
+
+8.
+What is the name of the touch point that is used to determine if a prospect is a good fit for the product or service being sold?
+a discovery call
+
+9.
+What is it called when a sales person gives a spoken description of a product or service with the intent to sell it?
+a sales pitch
+
+10.
+Choose the right word to complete this phrase: "We understand the _____ involved in hiring the right people. That's what our service aims to improve!"
+difficulties
+issues
+REPASAR CLASE
+
+11.
+Complete the sentence below with the correct word to make a common call to action: "______ a quote today!"
+Request
+
+12.
+Which phrase has the same meaning as solve, as in solve a problem?
+all of the above
+
+13.
+Which word best completes the sentence: Our customers love this product because of its stylish design and easy-to-use features. In fact, all of our products are designed to be _____ and simple to operate.
+user-friendly
+
+14.
+Which option is an example of a declarative statement?
+all of the above
+
+15.
+The term bulk purchase is used to describe _____ .
+a large volume of units
+
+16.
+When seen on an invoice, how would the following information be displayed: If the invoice is paid within 15 days the client receives a 3% discount; otherwise the full amount is due within 30 days?
+n15/30 3
+3/30 n15
+REPASAR CLASE
+
+17.
+Complete the sentence with an appropriate word: I _____ your busy schedule. I assure you we'll be able to work around it.
+see
+know
+REPASAR CLASE
+
+18.
+Complete the gap fills with the correct pair of words: The customer wanted to _____ the item for a different color, but we didn't have the color he wanted so he just _____ it instead.
+restock; returned
+return; exchanged
+REPASAR CLASE
+
+19.
+Complete the sentence with an appropriate word: I wanted to _____ up after our last discussion.
+follow
+
+20.
+A ballpark figure refers to which of the following?
+an estimate
+
+
+
+
+
+
+
 
 
 
