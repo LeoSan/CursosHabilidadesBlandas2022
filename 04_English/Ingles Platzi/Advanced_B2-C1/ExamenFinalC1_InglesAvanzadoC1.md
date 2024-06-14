@@ -101,3 +101,146 @@ They are useful for showing cause and reason.
 30.
 The city council is considering the advantages of converting unused parking lots into green spaces. _____ there might be more parks in the near future.
 That is to say,
+
+
+
+
+
+
+
+
+Resumen
+1.
+Spanish is _____ English.
+more difficult than
+
+2.
+Which is the CORRECT order of the stages in the writing process?
+Drafting, prewriting, revising, editing, and publishing.
+REPASAR CLASE
+
+3.
+Which is the CORRECT structure of a COMPOUND SENTENCE?
+One independent clause, one or more dependent clauses.
+REPASAR CLASE
+
+4.
+In the sentence: “You don’t want to get ripped off by someone trying to take advantage of you!”. What does “rip off” mean?
+An illegal plan for making money, especially one that involves tricking people.
+
+5.
+I don't want to make dinner, you know I don't cook ___________.
+well enough
+
+6.
+Complete the sentence: The pots need to...
+Be washed with hot water.
+
+7.
+Complete the sentence: Mary, ____ is my friend Luca. Luca, _____ is my sister, Mary.
+this / this
+
+8.
+Select the correct Parallel Structure:
+Diana is not only intelligent but also funny.
+
+9.
+We do not use a reflexive pronoun after verbs which describe things people usually do for themselves. However, we can use them to emphasize. For example: “He’s old enough to shave himself”.
+TRUE
+
+10.
+To "talk shop" means:
+to talk about work
+
+11.
+Complete the sentence: She has ________ jobs a lot.
+changed
+
+12.
+It tastes ______ apple juice.
+to
+REPASAR CLASE
+
+
+13.
+In the sentence “I’d like to learn another language once I finish college”, the person is talking about:
+
+Future plans
+14.
+Which is a greeting?
+What's up!
+
+15.
+Which of these is useful language for disagreeing in a debate?
+I couldn't agree with you more.
+REPASAR CLASE
+
+16.
+Choose the correct sentence.
+My grandmother is 80 years old. She is medium height, her hair is dark, and her eyes are dark too.
+
+17.
+Which of these sentences is NOT correct?
+He sometimes goes grocery shopping after work.
+REPASAR CLASE
+
+
+18.
+Which of these sentences is NOT correct?
+They always have dinner together once per week.
+REPASAR CLASE
+
+
+19.
+Normally in what type of bank would you open a checking account in?
+Consumer bank
+
+20.
+This word is an example of 'r-coloring' or 'pre-r vowels':
+All of the answers are correct.
+
+21.
+When replying with questions both 'phrases with WH words' and 'repeating the whole sentence' use the following intonation pattern:
+Rise (to make sure) or Fall (to find out).
+
+22.
+The following words are more commonly used by English speakers with an American accent:
+Vacation, apartment, bar, sweater, TV.
+
+23.
+Which martial art forms did you study in class?
+Tai Chi and Wing Chun
+
+24.
+When George says, “Well, I don’t have too much to do around here so, I’m all ears!”, what does he mean by the expression “I’m all ears”?
+That he's getting scared.
+REPASAR CLASE
+
+
+25.
+Fill in the blank with the best option: I ______ under pressure and enjoy finding creative solutions to difficult problems."
+thrive
+
+26.
+What is the meaning of the French phrase "bon appétit" in English?
+Enjoy your meal
+
+27.
+Brazil is the 5th biggest country in the world. Choose the correct sentence based on the previous information
+Brazil is one of the biggest countries in the world.
+
+28.
+"I had my visa appointment last week and the person who interviewed me granted me the visa." I don't really know their name and it's not relevant, so I could also say:
+I granted a visa.
+REPASAR CLASE
+
+
+29.
+This is the man _______ house was painted last month.
+who
+REPASAR CLASE
+
+
+30.
+"Customers have doubled in the last year. Likewise, projects have increased by 20%."
+Compares information in two sentences.
