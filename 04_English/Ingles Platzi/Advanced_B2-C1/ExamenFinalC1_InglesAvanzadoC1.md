@@ -182,12 +182,14 @@ My grandmother is 80 years old. She is medium height, her hair is dark, and her 
 17.
 Which of these sentences is NOT correct?
 He sometimes goes grocery shopping after work.
+
 REPASAR CLASE
 
 
 18.
 Which of these sentences is NOT correct?
 They always have dinner together once per week.
+They always go to the movies once every two weeks.
 REPASAR CLASE
 
 
@@ -244,3 +246,38 @@ REPASAR CLASE
 30.
 "Customers have doubled in the last year. Likewise, projects have increased by 20%."
 Compares information in two sentences.
+
+31.
+In the sentence "She said that I had to see a doctor", the word "that" can be omitted and the sentences keeps its meaning.
+TRUE 
+
+32. 
+"I convinced my cousin to go to the concert with me." Another way to say this is:
+I got my cousin to go to the concert with me.
+
+33. 
+Which statement is most appropriate for expressing sympathy for a significant loss?
+I can't imagine what you are going through.
+
+34. 
+The relationships created when we use "So/Therefore" are...
+cause/effect
+
+35.
+I don't want to go to school. I'm feeling ____________ sick
+All the options are correct.
+
+36. 
+Talking to a new colleague at a conference, what is a good conversation starter?
+"What was your biggest takeaway from this event?"
+
+37. 
+He's ___ Colombia.
+from 
+
+38. 
+The comparative form of the adjective "bad" is:
+the worst
+REPASAR
+
+
