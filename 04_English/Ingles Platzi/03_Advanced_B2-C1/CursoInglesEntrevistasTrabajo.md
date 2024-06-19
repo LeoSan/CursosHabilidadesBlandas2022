@@ -695,6 +695,7 @@ What ________ are Jhon and Ravee interviewing for?
 positions
 
 What is NOT a part of an offer letter?
-Explain how many other candidates were also hired 
+Explain how many other candidates were also hired
+REPASAR 
 
 

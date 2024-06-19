@@ -214,6 +214,8 @@ Both of them are beautiful.
 56. "You don't have to wear a tie on Fridays." - What conclusion can you make?
 
 57. Complete the sentence: ________ people like him.
+Some of
+REPASAR
 
 
 58. In which sentence the verb 'BAKE' is DITRANSITIVE?

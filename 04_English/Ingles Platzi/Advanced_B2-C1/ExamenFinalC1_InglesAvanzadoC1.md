@@ -281,3 +281,39 @@ the worst
 REPASAR
 
 
+39. 
+"The criminal is being chased by the police." This sentence indicates that the event:
+will happen soon.
+REPASAR
+
+40. 
+Which is the most formal word used when giving advice?
+Advise
+
+
+41. 
+When you "talk big" you:
+brag or boast
+
+
+42.
+Put the following words in order: much / How / is / that / shirt / ?
+How much is that shirt?
+
+
+43. 
+Complete the question: Would you like to go eat out ___ stay home?
+or 
+
+44. 
+Complete the sentence: “I _____ be an HR assistant when I was in college, gaining valuable experience in recruitment.”
+used to
+
+
+45. 
+Complete the sentence: ____ you like hawaiian pizza?
+Do
+
+
+
+
