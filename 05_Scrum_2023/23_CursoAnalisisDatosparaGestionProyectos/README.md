@@ -76,13 +76,97 @@ Es la aplicación de conocomientos, habilidades, herramientas y tecnicas a las a
         - Se denominan ciclos de vida agiles u orientados al cambio. 
 
 
-
-
-
 **Herramienta**
 -![Ciclo Incremental](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_2.png)
 -![Ciclo Incremental](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_3.png)
 -![Ciclo Incremental](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_4.png)
+
+## Clase 4: Beneficios de los ciclos de vida
+
+1.- Predictivo:
+- Entrega final unica 
+- Entrega final debe ser igual al que se planeo 
+
+2.Adaptativo 
+    - Iteractivo
+        - Incremental se ve iterando hasta que el cliente valide que este correcto 
+        - Hay corrección constante 
+    - Incremental 
+        - Mayor velocidad de entregas 
+        - desarrollo continuo se entrega por etapas o fases 
+    - Agil 
+        - Entregas frecuentes pequeñas pero mejores 
+        - Participación con el cliente y grado de satisfacción 
+
+**Ventajas** 
+- Se revisan los puntos de revisión para ayudar a tomar decisiones para los siguientes proyectos 
+- Un error corregido a tiempo en la tapa de gerencial cuesta menos resolverlo 
+- Evaluar desempeño ayuda mucho para tomar decisiones
+
+## Clase 5: Aprende y analiza estratégicamente
+
+## Clase 6: Presentación del proyecto
+
+**Concepto**
+- Para este caso se generá un acta constitutiva para generar un proyecto 
+- Excel -> [Descargar](../23_CursoAnalisisDatosparaGestionProyectos/info/Acta_Constitutiva.xlsx)
+
+## Clase 7: ¿Qué es el monitoreo y control de un proyecto?
+
+**Concepto**
+>  es un conjuntos  de actividades de gestion tiene como proposito validar si el proyecto va de acuerdo con lo planificado, si hay desvios se puede tomar acciones necesarias para volver a los planificado.
+
+**Consideraciones Previas** 
+- Acta Constitutiva aprobada
+- Plan Dirección de Proyecto elaborado
+- Lineas bases del proyecto 
+- Inicio ejecución 
+
+**Se controla:**
+
+- Integrado de Cambios
+- Alance
+- Cronograma
+- Costos
+- Calidad
+- Recursos
+- Adquisiciones
+
+**Se monitorea:**
+- Comunicaciones
+- Riesgos
+- Involucramiento de los Interesados
+
+**Herramienta**
+-![Ciclo Incremental](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_5.png)
+
+## Clase 8: Herramientas para el análisis de datos
+
+**Metodo de valor Ganado** 
+> Herramientas de analisis de datos, mide desempeño a nivel del cronograma, alcance y costos, procesos donde se aplican controlar, cronograma y costos.
+
+**Metodo análisis de causa raíz** 
+> El análisis de causa raíz  realizamos una lluvia de ideas para empezar a listar las posibles causas raíces de una situación particular, la idea es resolver el problema desde la raiz 
+
+**Metodo Histograma**
+> Es una representación gráfica, representa frecuencias de los valores, procesos donde se aplican: controlar RRHH y la calidad. 
+
+**Metodo Diagrama de control**
+> Nos ayuda a validar sin un proceso es estable en el tiempo, en caso que suceda una perdida o desfase esto nos indica que debemos tomar acciones, para lograr su estabilidad, proceso donde se aplica es en proceso de calidad
+
+**Metodo Diagrama de Dispersión** 
+> Análisis gráfico que se utiliza para ver la relación posible entre dos variables númericas, proceso donde se aplica: controlar la calidad. 
+
+**Metodo Matriz probabilidad/impacto de riesgos** 
+> Es un análisis cualitativo que se utiliza para establecer si un riesgo es: bajo, intermedio o elevado; atraves de la relacion entre la probabilidaid de que suceda y su impacto a los objetivos del proyectos, proceso sonde se aplica; control de riesgos.  
+
+
+
+
+
+
+
+
 
 
 

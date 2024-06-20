@@ -65,16 +65,3 @@ All options are correct
 _____ flexible can be very helpful on a business trip.
 Be
 REPASAR CLASE
-Ver menos
-Siguiente curso que podría interesarte
-Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo
-Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo
-Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo
-Por: Gina Pedraza
-
-Taller de Inglés Intermedio para Consultas Médicas
-Taller de Inglés Intermedio para Consultas Médicas
-Taller de Inglés Intermedio para Consultas Médicas
-Por: Aileen Hale
-
-Volver al Home

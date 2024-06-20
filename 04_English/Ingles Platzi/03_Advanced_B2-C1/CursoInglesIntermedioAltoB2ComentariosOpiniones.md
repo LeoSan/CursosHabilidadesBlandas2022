@@ -74,10 +74,7 @@ REPASAR CLASE
 
 19.
 Which is the correct way to express emphasis using “do”, “does”, or “did”.
-We want to go to your event.
-We didn't want to go to your event.
-We don't want to go to your event.
-REPASAR CLASE
+We did want to go to your event.
 
 20.
 Which is the correct way to express emphasis using “do”, “does”, or “did”.

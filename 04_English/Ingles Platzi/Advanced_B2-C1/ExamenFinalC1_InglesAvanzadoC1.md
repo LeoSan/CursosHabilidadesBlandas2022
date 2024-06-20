@@ -314,6 +314,46 @@ used to
 Complete the sentence: ____ you like hawaiian pizza?
 Do
 
+46. 
+In a project report, you want to describe a common belief that turned out to be inaccurate.
+How can you use the passive voice to introduce this information?
+It were widely thought users would enjoy the new features.
+REPASAR CLASE 
+
+
+47. 
+Is this sentence correct or incorrect?
+I couldn’t travel because of I was sick.
+
+48. 
+We use the definite article "the" to talk about:
+a particular person, meals, languages, decades, islands and countries with plural names.
+REPASAR CLASE 
+
+
+49. 
+This is not a good word to describe Mario from videogames.
+Chubby 
+REPASAR CLASE 
+
+50. 
+The interview went well ___________ I was unprepared.
+despite of 
+REPASAR CLASE 
+
+
+51. 
+Complete the sentence: I _____ soccer. It's my favorite sport.
+love 
+
+52. 
+Which phrase is typically used to express admiration for someone's achievement?
+kudos 
+
+
+
+
+
 
 
 
