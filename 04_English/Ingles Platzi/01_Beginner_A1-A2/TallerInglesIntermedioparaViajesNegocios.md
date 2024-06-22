@@ -11,6 +11,8 @@ need to plan
 3.
 Direct flights are _____ flights with a layover.
 quicker than
+REPASAR CLASE
+
 
 4.
 Compound nouns can be formed from which of the following combinations?

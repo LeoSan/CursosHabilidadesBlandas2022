@@ -119,10 +119,9 @@ a famous celebration
 REPASAR CLASE
 27.
 Complete the sentence with the correct indefinite pronoun: We’ve finally finished with the preparations. _____________ is now ready for the party!
-
 Nothing
-
 REPASAR CLASE
+
 28.
 Complete the sentence: I am so thirsty! I will have ____________ glass of water.
 

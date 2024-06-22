@@ -160,6 +160,72 @@ Es la aplicación de conocomientos, habilidades, herramientas y tecnicas a las a
 **Metodo Matriz probabilidad/impacto de riesgos** 
 > Es un análisis cualitativo que se utiliza para establecer si un riesgo es: bajo, intermedio o elevado; atraves de la relacion entre la probabilidaid de que suceda y su impacto a los objetivos del proyectos, proceso sonde se aplica; control de riesgos.  
 
+## Clase 9:¿Qué es el método del valor ganado?
+
+**Método del valor ganado**
+
+> Permite medir el desempeño del proyecto en cuanto a costos, cronogramas y avances.
+
+**¿Qué hace el método del valor ganado?**
+
+> Compara las líneas base del cronograma y del costo, con respecto a los valores reales dados en la ejecución en un tiempo.
+
+**3 valores del método del valor ganado:**
+
+1. Valor planificado (PV)
+- Es el valor estimado del trabajo que estableciste en el cronograma cuando estabas planificando para un tiempo X
+
+2. Costo actual (AC)
+- Costo real del trabajo realizado en el tiempo X
+
+3. Valor ganada (EV)
+- Valor del trabajo que realmente se ha realizado en el tiempo X
+
+**Como se calcula el EV: **
+1. Recopilar información sobre % de avance de cada actividad 
+2. Convertir % de avance en un valor monetario al multiplicarlo por el costo total presupuestado de cada actividad.
+
+
+**Nota**
+> Es este ejemplo que pone la maestra podemos ver que al finalizar la segunda semana del proyecto, aunque se había planificado unos costes por 340 dólares, la realidad es que se han gastado 435 (más de lo planificado), sin embargo, se ha avanzado lo equivalente a 333 dólares del presupuesto. Por lo que podemos determinar que se ha gastado más dinero de lo presupuestado y se ha avanzado menos de lo esperado. De seguro que habrá que tomar acciones correctivas.
+
+
+## Clase 10:  Indicadores de Valor Ganado
+
+**Análisis de la variación**
+- Revisar las diferencias entre el desempeño planificado y real.
+- Variación del cronograma (SV) Determina en que medida el desempeño está adelantado o retrasado. SV= EV - PV
+- Negativo: Trabajó menos de lo planificado (retraso en el proyecto)
+- Variación del costo (CV) Déficit o superávit del costo en un momento dado (mide los desvíos del costo o su desempeño) CV= EV - AC
+- Negativo: Se ha gastado mas dinero de lo trabajado (Costo mas alto)
+- Índice del costo (CPI) Déficit o superávit del costo en un momento dado (desempeño del costo). CPI= EV / AC
+
+<1 indica por cada unidad monetaria invertida se recibe menos (deficiencia)
+
+Índice del cronograma (SPI) Eficiencia / deficiencia del equipo de desarrollo en cómo está utilizando el tiempo. SPI= EV / PV
+
+<1 está ejecutando mas lento de lo planificado
+
+**Nota**
+Valor ganado: $500*90%= $450 Indice del costo: cpi =$450/$300=$1.5, >1 buen desempeño, superávit Indice del cronograma: spi = $450/ $500= $0.9 < 1, más lento de lo planificado Variaciones del costo: cv=$450-$300=$150, ha gastado menos dinero del presupuesto Variaciones del cronograma: sv= $450-$500= -$50, <0, trabajó menos de lo planificado hay retraso.
+
+
+**Herramienta**
+-![SV](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_6.png)
+
+-![CPI](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_7.png)
+
+-![SPI](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_8.png)
+
+-![Ejemplo](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_9.png)
+
+-![Ejemplo](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_10.png)
+
+-![Ejemplo](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_11.png)
+
+## clase 11: Análisis de tendencias
+
+
 
 
 

@@ -182,6 +182,7 @@ My grandmother is 80 years old. She is medium height, her hair is dark, and her 
 17.
 Which of these sentences is NOT correct?
 He sometimes goes grocery shopping after work.
+He always has lunch at 12:30pm.
 
 REPASAR CLASE
 
@@ -349,6 +350,142 @@ love
 52. 
 Which phrase is typically used to express admiration for someone's achievement?
 kudos 
+
+53. 
+Which vocabulary was used at the doctor’s?
+Queasy, painful and inflamed.
+
+54. 
+It is NOT a preposition of place:
+Tomorrow
+
+
+55. 
+How do you ask for the cost of the meal?
+How many is the meal?
+REPASAR CLASE
+
+
+56. 
+Choose the correct sentence to introduce a family member.
+This is my brother. His name is Joseph. He is 28 years old, and he loves technological devices.
+
+
+57. 
+Which sentence uses an adverb of manner?
+Alexa demonstrated exceptional problem-solving skills.
+REPASAR CLASE
+
+58. 
+To "put off" means to:
+take off
+REPASAR CLASE
+
+59. 
+What are the correct comparative and superlative forms of the adjective GOOD, respectively:
+better / the best
+
+
+60. 
+What is next: G, H,...?
+I 
+
+61. 
+The following infinitive is split by _________________.
+“We decided to eagerly share the results with the rest of the team.”
+an adjective
+
+REAPASAR CLASE 
+
+62. 
+Here are some common irregular adjectives and their comparative form. Which one is incorrect?
+bad -> worse 
+
+63. 
+Select the correct option:
+That is my father and Max is my father_ dog.
+s'
+REPASAR CLASE
+
+
+
+
+64. 
+Complete the sentence: “Sebastian _____ the job offer because of the low salary
+declined
+
+65. 
+Let me know whether the client calls." The sentence indicates that
+Only if the client doesn't call, I would like to know about it.
+
+66. 
+The __________ area of the company works 7 days a week
+commerce
+REPASAR CLASE
+
+
+67. 
+What time is it?
+4:30
+Four and a thirty.
+REPASAR CLASE
+
+
+
+68. 
+Connect the sentences: Danny has a cat / The cat is black
+The cat of Danny's is black
+REPASAR CLASE
+
+69. 
+Fill in the blank space to complete the dialogue:
+
+Veronica: My email does not work. ______ can help me?
+Adam: I can help!
+Veronica: Thank you!
+
+70.
+Will you _____ me in the kitchen?
+can help 
+REPASAR CLASE
+
+
+
+71. 
+Which adverb is not following the grammatical rule?
+happy - happily
+REPASAR CLASE
+
+
+72. 
+What is the plural of "wolf"?
+
+73. 
+
+There’s _______ in cleaning the house.
+
+74. 
+
+There’s _______ in cleaning the house.
+no point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
