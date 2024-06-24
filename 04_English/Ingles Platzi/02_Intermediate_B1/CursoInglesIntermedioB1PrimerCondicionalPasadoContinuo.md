@@ -51,11 +51,13 @@ Complete the sentence using the present simple to refer to the future: My gradua
 
 will be
 REPASAR CLASE
+
+
 12.
 Complete the sentence using the present simple to refer to the future: The train ___________ at 1:00 pm, so let’s hurry up!
+leaves
 
-will leave
-REPASAR CLASE
+
 13.
 Complete the sentence in a way that expresses possibility but not certainty: We should go to the store today, it __________ be closed tomorrow.
 

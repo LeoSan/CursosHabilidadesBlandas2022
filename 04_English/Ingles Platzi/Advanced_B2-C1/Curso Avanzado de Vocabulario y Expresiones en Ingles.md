@@ -39,10 +39,7 @@ Aesthetic
 
 6.
 What term is used to describe technology that is the best of its kind?
-Advanced
-Latest
-Outstanding
-REPASAR CLASE
+State-of-the-art
 
 7.
 What is another way to say the expression in bold?

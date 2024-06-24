@@ -469,6 +469,55 @@ There’s _______ in cleaning the house.
 There’s _______ in cleaning the house.
 no point
 
+75. 
+
+The verb “touched” in the following sentence is an example of a _________________.
+“Emma touched her coworker’s shoulder gently to express empathy during a difficult meeting.”
+passive sense verb
+REPASAR CLASE
+
+76. 
+Solo los ________________________ pueden acreditar mis habilidades en el inglés mediante un certificado de validez global. 
+exámenes internacionales
+
+
+77. 
+This test is _____ 1, 2, 3.
+as easy as
+
+
+78. 
+Who is the father of my mother?
+My grandfather.
+
+
+79. 
+_______ make that authentic Key-Lime pie?
+Whaddaya
+REPASAR CLASE
+
+80. 
+Which sentence best exemplifies the use of the subjunctive mood in a wish?
+I wish he was here right now.
+REPASAR CLASE
+
+81. 
+Which sentence uses an adverb of degree that weakens?
+He is absolutely thrilled with the outcome of the project.
+REPASAR CLASE
+
+
+82. 
+We need _______ the house before we move in.
+to check
+
+
+
+
+
+
+
+
 
 
 
