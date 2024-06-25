@@ -225,14 +225,171 @@ Valor ganado: $500*90%= $450 Indice del costo: cpi =$450/$300=$1.5, >1 buen dese
 
 ## clase 11: Análisis de tendencias
 
+**Beneficios del valor ganado**
+
+- Informa como va el progreso del proyecto en un tiempo X
+- Pronostica resultados del desempeño futuro, y costos de la conclusión del proyecto (análisis de las tendencias)
+
+**Análisis de tendencias**
+- Pronosticar el desempeño futuro del proyecto, teniendo como referencia los resultados pasados.
+
+**Valores a considerar**
+- Presupuesto hasta la conclusión (BAC) Valor planificado total del proyecto (línea base del presupuesto total)
+- Estimación del costo a la conclusión (EAC) Costo Final: 
+ - basado en cómo se ha gastado hasta el tiempo X. Presunción: Qué pasará si el plan inicial no es válido. EAC= AC+ETC
+ - Estimación de costo hasta la conclusión (ETC)
+ - EAC vs BAC
+ - EAC puede diferir del BAC, pues depende del desempeño que haya tenido el proyecto.
+
+**Variaciones del EAC**
+1. Si se mantiene CPI actual: Los desembolsos futuros mantendrán mismo nivel de eficiencia/ineficiencia que lo ocurrido hasta el momento X. EAC= BAC/CPI
+
+2. Según presupuesto original Independiente de la eficiencia/ineficiencia de lo gastado, el costo del trabajo a la conclusión se mantendrá según presupuestado en la línea base. EAC= AC+ (BAC - EV)
+
+3. Según CPI y SPI Los costos futuros dependen de la ineficiencia/eficiencia actual del CPI y el SPI. Los retrasos en el cronograma afectarán los costos. EAC= AC + ((BAC - EV) / (CPI x SPI))
+
+## Clase 12: Análisis de tendencias
+
+- Estimación Hasta el Término (Estimate to Complete): es una estimación de los recursos necesarios para completar el trabajo restante en un proyecto. Es una métrica importante de Earned Value Management (EVM), que se utiliza para pronosticar el dinero necesario para el trabajo restante del proyecto.
+
+- Estimación básica: El equipo del proyecto determina, después de analizar el desempeño pasado del proyecto, que el desempeño pasado no tiene relación con el desempeño futuro.
+
+```
+$ETC=EAC-AC$
+```
+
+- El equipo del proyecto determina, después de analizar el desempeño pasado del proyecto, que el trabajo restante se completará con la rentabilidad actual del proyecto.
+```
+$ETC = (BAC – EV) / CPI$
+```
+
+**Notas**
+- El proyecto va atrasado y generando más gastos de lo previsto. Dar prioridad a agilizar ya que tenemos más control directo sobre eso. Desconocemos si los costos han incrementado debido al atraso o a incremento de proveedores (fuera de nuestro control directo)
+
+- Estimate to Complete is the expected cost to finish all the remaining project work.
+
+- Considero que en este punto y con los datos que tenemos, podemos realizar la ruta crìtica y su análisis presentarlo como propuesta al cliente, esto para poder culminar en tiempo y costo. También se le debería de presentar las variaciones del presupuesto inicial si se decide no tomar en cuenta la ruta crítica.
+
+## Clase 13: Análisis Causa-Raíz
+
+**Conceptos**
+- Inventado por Quimico Ishikagua 
+- Químico Industrial Japonés 1943.
+- Herramienta de análisis causal de problemas. 
+- Representa relación entre efecto (problema) y posibles causas.
+- Identificar posibles causas de los problemas que se encuentran en el monitoreo y control.
+
+**Procesos donde se aplica**
+- Trabajo del proyecto
+- Control integrado de cambios
+- En involucramiento de los interesados
+- Costos
+- Cronograma
+- Riesgos
+- Recursos
+- Alcance
+- Calidad
+- Adquisiciones
+- Agrupa las causas en 4 categorías
+
+1. Métodos (procesos) 
+2. Maquinarias / herramientas 
+3. Mano de obra (personas) 
+4. Medio ambiente (entorno)
+
+El análisis se hace en equipo, ¡todos deben aportar ideas!
+
+**Evalúa más cada causa**
+
+1. ¿Realmente ocasiona el problema? 
+2. Si se elimina la causa ¿desaparece o disminuye el problema? 
+3. ¿Hay una solución factible para la causa? 4- ¿La solución es de bajo costo?
+
+**Nota**
+- Indica una calificación del 1 a 3 a cada causa, se le coloca peso a cada causa con el fin de escoger la mas importante 
 
 
+**Herramienta**
+- ![INICIO](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_12.png)
+- ![FIN](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_13.png)
+
+## Clase 14: Análisis de datos Histograma
+
+- Representación gráfica en barras, sin un orden preestablecido, que se utiliza para describir la frecuencia.
+- No toma en cuenta la influencia del tiempo en la variación existente en la distribución.
+
+**Área recursos**
+
+- Planificación: mostrar cantidad necesaria de recursos por fase.
+- Ventaja: tomar decisiones a tiempo e incluirlas en la planificación.
+- Ejecución: mostrar frecuencia de ocurrencia de un tipo de datos.
+- Ejemplo: % de trabajo ejecutado del recurso humano para un tiempo X
+
+**Área de control de calidad**
+
+- Ver cuáles son los problemas de mayor importancia o los que impiden que se logren los requisitos de calidad.
+- Ejemplo: frecuencia que aparezca una falla X
+
+**Como construir un histograma**
+
+- Tabla de dos columnas; indicar variable y frecuencia de la misma.
+- Hacer un grafico donde: el eje horizontal (X) represente la variable y el eje vertical (Y) represente la frecuencia absoluta o porcentuales.
+- "LA ALTURA DE CADA BARRA ES IGUAL A LA FRECUENCIA"
+
+## Clase 15: Diagramas de control
+
+**Concepto**
+- Los resultados de un proceso se encuentran dentro de los limites aceptables Aplica para el control de calidad.
+
+**Elementos del diagrama de control**
+
+- Media (promedio): mitad del rango aceptable de variación.
+- Límite de especificaciones: expectativa del cliente.
+- Limite de control (superior e inferior): rango aceptable de variación de los resultados de un proceso. (Deben ser límites mas estrictos que los del cliente)
+
+**Pasos para realizar un diagrama de control**
+
+- Seleccionar la característica que se va a evaluar.
+- Recoger datos de esa característica por un período de tiempo.
+- Establecer en una hoja de cálculo la media/promedio, la desviación estándar y los límites de control.
+- Representar los datos gráficamente.
+
+**Notas**
+- Cuando un dato esta fuera de control se debe investigar 
+- En excel la desviacion estandar es un metodo llamado DESVEST(D5:D10)
+
+**Herramienta**
+- ![Que es](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_14.png)
+- ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_15.png)
+
+## clase 16:Diagramas de dispersión
+
+**Concepto**
+- Analizar la relación entre dos variables: como es afectada una respecto a la otra.
+- Analizar si un cambio en la variable dependiente Y se afecta con un cambio observado en la variable independiente X.
+
+**¿Cómo hacer un diagrama de dispersión**
+
+- Paso 1: Seleccionar las 2 variables.
+- Paso 2:Definir el objetivo de relacionarlas.
+- Paso 3:Recopilar datos de las 2 variables.
+- Paso 4:Realizar tabla en hoja de cálculo con los datos de las dos variables.
+- Paso 5:Realizar gráfico y trazar línea de tendencia.
+- Paso 6:Ver coeficiente de correlación y fórmula.
+- Paso 7:Interpretar los resultados.
+- Paso 8:Línea de tendencia
+
+**Nota**
+- Negativa: si crece la variable X, y disminuye la variable Y o viceversa.
+- Positiva: si crece la variable X y crece la variable Y.
+- Sin correlación: hay una dispersión de datos.
+- Coeficiente de correlación
+- R°2= +1; variables están perfectamente alineados. Cuando X crece, Y crecerá en la misma proporción. 
+- °2= -1; estaría perfectamente alineado, si X crece, Y decrece en la misma proporción. R°2= 0; no hay correlación.
+- Ejemplo: R°2 = entre 0 y 1; variables tienden a agruparse, existe correlación entre éstas.
 
 
+**Herramienta**
+- ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_16.png)
 
-
-
-
-
-
-
+## clase 17: Análisis de riesgos: matriz de Probabilidad e Impacto.
