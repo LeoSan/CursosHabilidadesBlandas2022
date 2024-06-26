@@ -17,10 +17,11 @@ Ask ChatGPT to create some reading comprehension questions.
 5.
 If I want to have a dialogue with ChatGPT, I need to
 Be specific with my prompt: set the setting and include the topics I want to practice.
+
 6.
 ChatGPT generated a conversation and I want to practice my speaking with that conversation. To do that I can:
-Use a text-to-voice online tool to play the conversation and imitate what I hear.
-REPASAR CLASE
+Both answers are correct.
+
 7.
 Can ChatGPT help me practice with synonyms and antonyms to expand my vocabulary in English?
 Yes but it is important to use the right the prompt and know what I want to practice.

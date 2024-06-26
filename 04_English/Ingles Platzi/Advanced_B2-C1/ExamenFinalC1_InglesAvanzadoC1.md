@@ -511,6 +511,74 @@ REPASAR CLASE
 We need _______ the house before we move in.
 to check
 
+83. 
+"Ah, finally, the shipment has arrived."
+
+84. 
+Complete the sentence: “The CEO _________ the board meeting every month by greeting everyone; she was really kind.”
+
+85. 
+"Whose plate is this?"
+We use “whose” to show:
+
+
+86. 
+In the sentence: “If you have any questions, Juan, please don’t hesitate to ask me!”. What does 
+“hesitate” mean?
+
+
+87. 
+Complete the sentence: “My coworker always _____ us advice on how to build rapport with the client.”
+offers
+REPASAR CLASE 
+
+
+
+88. 
+I promise I ________ pay you tomorrow.
+will
+
+
+89.
+The waiter/waitress asks you: “What can I get you to drink?”, and you say:
+I'd like some water, please.
+
+90. 
+"I'm about to set off for a walk." The sentence indicates that I
+will leave soon to go for a walk.
+
+91. 
+What color is this profile picture?
+purple
+
+
+92. 
+What is the most polite way to ask for permission?
+Could I leave earlier today?
+REPASAR CLASE 
+
+
+94. 
+Which euphemism can you use to politely mention someone's health?
+He is ill.
+REPASAR CLASE 
+
+
+95. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

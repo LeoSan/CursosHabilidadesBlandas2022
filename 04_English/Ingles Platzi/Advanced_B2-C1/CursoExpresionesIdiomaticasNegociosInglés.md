@@ -162,9 +162,11 @@ REPASAR CLASE
 2.
 To "begin a strict reduction of your budget or spending" is:
 belt-tightening
+
 3.
 A product that makes you a lot of money is:
 a cash cow
+
 4.
 To "follow the rules" is:
 to go by the book

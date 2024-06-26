@@ -101,9 +101,11 @@ REPASAR CLASE
 Which of these words is a noun?
 kindly
 REPASAR CLASE
+
 23.
 Select the sentence that refers to a possible outcome in the future:
 If I watch the class and take notes, I will do well in the exam.
+
 24.
 Complete the sentence using the present perfect: I __________________ Japan twice in my life.
 
