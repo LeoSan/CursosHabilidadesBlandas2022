@@ -22,7 +22,7 @@ I wouldn't like
 
 6.
 Complete the sentence: ___________ to sit in the aisle seat of the plane, so I usually pay extra to get a window seat.
-I don't like
+An amount of money that a person or a business spends to travel is the definition of:
 7.
 Complete the sentence: I always travel ________ a book. It helps me relax during long flights.
 with

@@ -39,7 +39,7 @@
 
 ## Clase 2 ¿Qué es la gerencia de proyectos?
 
-Es la aplicación de conocomientos, habilidades, herramientas y tecnicas a las actividades de un proyecto para satisfacer los requerimientos dle mismo. 
+Es la aplicación de conocomientos, habilidades, herramientas y tecnicas a las actividades de un proyecto para satisfacer los requerimientos del mismo. 
 
 
 **Habilidades de un Director de Proyectos**
@@ -392,4 +392,150 @@ El análisis se hace en equipo, ¡todos deben aportar ideas!
 **Herramienta**
 - ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_16.png)
 
-## clase 17: Análisis de riesgos: matriz de Probabilidad e Impacto.
+## Clase 17: Análisis de riesgos: matriz de Probabilidad e Impacto.
+
+**Conceptos importantes a considerar:**
+- Riesgo: algo desconocido que impacta de modo negativo o positivo un proyecto.
+- Probabilidad: que ocurra un riesgo, tomando en cuenta los controles actuales y su efectividad.
+- Impacto: consecuencias que originan un riesgo si llega a presentarse.
+
+**Pasos para crear la matriz de probabilidad e impacto**
+
+- Identificar los riesgos del proyecto.
+- Establecer una escala para estimar probabilidad de ocurrencia de cada riesgo.
+- Establecer una escala para estimar impacto de cada riesgo.
+- Realizar la matriz. Cada intersección es el resultado de multiplicar la probabilidad por impacto.
+
+**Probabilidad de ocurrencia:**
+- Me sorprende que no ocurra - 90%
+- Mas probable que ocurra a que no ocurra - 70%
+- Tan probable que ocurra como que no ocurra - 50%
+- Más probable que no ocurra - 30%
+- Me sorprende que ocurra - 10%
+
+**Nivel de impacto del riesgo**
+
+- Muy bajo - No tendrá mayor repercusión si sucede 
+- 5% Bajo  - De impactar el proyecto atrasaría el costo - tiempo 
+- 10% Moderado - Tendrá repercusión en el proyecto más no en la empresa 
+- 20% **Alto **- Tendrá repercusión en el proyecto y la empresa 
+- 60% Muy alto - Podrá ocasionar cierre del proyecto y empresa 
+- 90% Te jodiste 
+
+**Nota*
+- Estos análisis se hacen durante la planificación 
+- el riesgo de colocar un baño de oro es dimensionar un proyecto irreal, nos arriesgamos a aumentar las expectativas de los interesados y al final podria ser un desastre
+
+
+**Herramienta**
+- ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_17.png)
+- ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_18.png)
+- ![Ejemplo Real ](../23_CursoAnalisisDatosparaGestionProyectos/info/Screenshot_19.png)
+
+
+
+
+1.
+Entre las herramientas de análisis de datos vistas en el curso están:
+Método del valor ganado, diagrama de dispersión y matriz causa raíz.
+
+2.
+¿Qué es la gerencia de proyectos?
+Aplicación de conocimientos, habilidades, herramientas y técnicas a un proyecto.
+
+3.
+Según el PMI, ningún proyecto tiene conceptos similares:
+Falso
+
+4.
+Uno de los beneficios de hacer puntos de revisión es evaluar y tomar decisiones a tiempo.
+Verdadero
+
+5.
+¿El plan de dirección de proyectos solo incluye línea base de cronograma?
+FALSO 
+
+6.
+El presupuesto al finalizar tu proyecto asciende a $68.000. De acuerdo al cronograma de actividades, hoy deberías estar en un nivel de avance del 75%, pero sólo estás a un 50% ¿Cuál es el valor ganado del proyecto?
+$10,000
+Repasar
+
+7.
+¿Un análisis de tendencia es lo mismo que pronosticar el desempeño futuro del proyecto?
+Verdadero
+
+8.
+Una forma simple y rápida para calcular la estimación hasta la conclusión (EAC) del proyecto, sería tomar el presupuesto hasta la conclusión (BAC) y luego dividirlo por:
+Índice de desempeño del costo.
+
+9.
+¿Cuál es uno de los beneficios del análisis causa raíz?
+Busca por cada causa cuál es el problema.
+Repasar
+
+10.
+¿Tú como gerente de proyectos en el monitoreo y control qué buscas principalmente?
+Definir los recursos y equipo de trabajo.
+Repasar
+
+11.
+En análisis de datos, ¿qué se compara?
+Situación planificada con real.
+
+12.
+¿Cuál es la diferencia entre un ciclo de vida predictivo y uno adaptativo?
+En el ciclo de vida predictivo los requisitos son fijos. Y en el adaptativo, son dinámicos.
+
+13.
+¿Cuáles consideraciones previas se requieren para el monitoreo y control?
+Determinar riesgos, equipo de trabajo y ejecución.
+Repasar
+
+14.
+¿El análisis causa raíz solo se aplica en el proceso control de riesgos?
+FALSO 
+
+15.
+¿Qué es el método del valor ganado?
+Herramienta de análisis de datos para medir el desempeño de un proyecto.
+
+16.
+Un integrante de tu equipo afirma que no es importante considerar la línea base del cronograma para el análisis del valor ganado. Esa afirmación es:
+Falso
+
+17.
+Un proyecto de desarrollo de software tiene un valor planificado (PV) de $1000, un valor ganado (EV) de $700 y un costo real (AC) de $1300. El índice de desempeño del costo (CPI) asciende a:
+1,2
+REPASAR CLASE 
+
+18.
+Se encontró en el proyecto que tienes a tu cargo un problema de costos ¿Cuál herramienta podrías usar para encontrar las causas?
+Análisis causa raíz.
+
+19.
+El director de proyecto y su equipo de trabajo finalizaron el cronograma del proyecto. Sin embargo, al observar el histograma de recursos descubren que no cuentan con los trabajadores suficientes para cumplir el alcance de la forma planificada ¿Fue acertado usar un histograma para el análisis?
+Verdadero
+
+20.
+¿Durante la gestión de calidad es pertinente usar el método del valor ganado?
+FALSO
+
+21.
+Tú como gerente de proyecto quieres determinar qué es lo que está causando la mortandad de ciertas plantaciones en un proyecto agrícola. Haz logrado aislar dos variables a partir de la información disponible ¿Cuál de los siguientes diagramas ayudará a verificar si existe correlación entre estas variables?
+Diagrama de dispersión.
+
+22.
+Estás preocupado por las quejas de los clientes respecto a la entrega de productos defectuosos. Y quieres determinar si tendrá relación con la poca habilidad del personal en el manejo de las máquinas ¿Qué herramienta de análisis de datos debes utilizar para evaluar relación de dos variables?
+Diagrama de dispersión.
+
+23.
+Para definir el nivel de un riesgo determinado, ¿qué herramienta deberías usar?
+Matriz de probabilidad e impacto.
+
+24.
+Una mala práctica para indicar la probabilidad e impacto a cada riesgo es reunirse con el equipo, los interesados y expertos
+Falso
+
+25.
+¿Las herramientas de análisis de datos se usan para el monitoreo y control?
+Verdadero
