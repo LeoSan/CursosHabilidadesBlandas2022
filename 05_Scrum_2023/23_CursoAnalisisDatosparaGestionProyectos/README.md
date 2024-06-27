@@ -457,8 +457,7 @@ FALSO
 
 6.
 El presupuesto al finalizar tu proyecto asciende a $68.000. De acuerdo al cronograma de actividades, hoy deberías estar en un nivel de avance del 75%, pero sólo estás a un 50% ¿Cuál es el valor ganado del proyecto?
-$10,000
-Repasar
+$34,000
 
 7.
 ¿Un análisis de tendencia es lo mismo que pronosticar el desempeño futuro del proyecto?
@@ -476,6 +475,7 @@ Repasar
 10.
 ¿Tú como gerente de proyectos en el monitoreo y control qué buscas principalmente?
 Definir los recursos y equipo de trabajo.
+Definir el alcance del proyecto.
 Repasar
 
 11.
@@ -489,6 +489,7 @@ En el ciclo de vida predictivo los requisitos son fijos. Y en el adaptativo, son
 13.
 ¿Cuáles consideraciones previas se requieren para el monitoreo y control?
 Determinar riesgos, equipo de trabajo y ejecución.
+Acta aprobada, riesgos evaluados y terreno limpio.
 Repasar
 
 14.
@@ -506,6 +507,7 @@ Falso
 17.
 Un proyecto de desarrollo de software tiene un valor planificado (PV) de $1000, un valor ganado (EV) de $700 y un costo real (AC) de $1300. El índice de desempeño del costo (CPI) asciende a:
 1,2
+0,83
 REPASAR CLASE 
 
 18.
@@ -539,3 +541,23 @@ Falso
 25.
 ¿Las herramientas de análisis de datos se usan para el monitoreo y control?
 Verdadero
+
+26. 
+Como buen gerente, en un proyecto de tipo predictivo después de estructurar el acta constitutiva y la planificación: ¿qué sigue?
+Iniciar la ejecución.
+
+27. 
+¿El histograma representa gráficamente la distribución de frecuencias agrupadas en distintas clases o categorías?
+Verdadero
+
+
+28. 
+El proyecto tiene un valor planificado (PV) de $1000, un valor ganado (EV) de $700 y un costo real (AC) de $1300. Un integrante del equipo afirma que está retrasado ¿Apoyarías esta afirmación?
+Verdadero
+
+
+29.
+¿En cuáles procesos de monitoreo y control se aplica el método del valor ganado?
+En todos los procesos de monitoreo y control.
+REPASAR CLASE
+
