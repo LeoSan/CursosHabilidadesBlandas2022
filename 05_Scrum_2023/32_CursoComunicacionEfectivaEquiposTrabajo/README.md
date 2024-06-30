@@ -6,6 +6,7 @@ Estimula una respuesta y logra consenso.
 2.
 ¿Cómo puede un líder reafirmar su confianza en los demás?
 Esforzándose por escuchar sus inquietudes.
+Escuchando sus temores y asignándoles tareas fáciles de ejecutar.
 Repasar
 
 3.
@@ -34,8 +35,7 @@ Haciendo preguntas, esto demostrará el interés por su punto de vista.
 
 9.
 Quieres cambiar la cultura individualista que hay dentro de tu equipo. ¿Cómo puedes promover un ambiente de colaboración?
-Ofreciéndoles empatía y comprensión.
-Repasar
+Generando espacios de proyectos entre pares para que se ayuden entre sí.
 
 10.
 ¿Qué le suele pasar a los líderes que reaccionan de manera negativa cuando personas de su equipo piensan distinto a ellos?
