@@ -469,13 +469,13 @@ Una forma simple y rápida para calcular la estimación hasta la conclusión (EA
 
 9.
 ¿Cuál es uno de los beneficios del análisis causa raíz?
-Busca por cada causa cuál es el problema.
-Repasar
+Ordena las ideas.
 
 10.
 ¿Tú como gerente de proyectos en el monitoreo y control qué buscas principalmente?
 Definir los recursos y equipo de trabajo.
 Definir el alcance del proyecto.
+Identificar riesgos.
 Repasar
 
 11.
@@ -488,9 +488,7 @@ En el ciclo de vida predictivo los requisitos son fijos. Y en el adaptativo, son
 
 13.
 ¿Cuáles consideraciones previas se requieren para el monitoreo y control?
-Determinar riesgos, equipo de trabajo y ejecución.
-Acta aprobada, riesgos evaluados y terreno limpio.
-Repasar
+Acta aprobada, plan realizado e inicio ejecución.
 
 14.
 ¿El análisis causa raíz solo se aplica en el proceso control de riesgos?
@@ -506,9 +504,7 @@ Falso
 
 17.
 Un proyecto de desarrollo de software tiene un valor planificado (PV) de $1000, un valor ganado (EV) de $700 y un costo real (AC) de $1300. El índice de desempeño del costo (CPI) asciende a:
-1,2
-0,83
-REPASAR CLASE 
+0,54
 
 18.
 Se encontró en el proyecto que tienes a tu cargo un problema de costos ¿Cuál herramienta podrías usar para encontrar las causas?
@@ -558,6 +554,5 @@ Verdadero
 
 29.
 ¿En cuáles procesos de monitoreo y control se aplica el método del valor ganado?
-En todos los procesos de monitoreo y control.
-REPASAR CLASE
+Alcance, cronograma y costos.
 
