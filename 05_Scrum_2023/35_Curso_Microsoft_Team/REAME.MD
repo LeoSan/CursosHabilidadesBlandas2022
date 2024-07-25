@@ -14,9 +14,7 @@ Documentos y aplicaciones
 
 4.
 ¿Dónde se puede consultar la conversación que hubo en el chat de una videollamada en un canal al finalizar?
-En la pestaña notas de la reunión del canal
-Repasar
-
+En el hilo de la videollamada dentro del canal
 
 5.
 La herramienta de calendario, ¿en qué versión de Microsoft Teams no está disponible?
@@ -32,8 +30,7 @@ Falso
 
 8.
 ¿El buscador de Teams te permite realizar búsquedas dentro de los archivos de la organización?
-Sí, sólo si se encuentran en OneDrive
-Repasar
+Sí, sólo si se encuentran dentro de un canal o archivos
 
 9.
 Dos o más personas pueden colaborar en un documento de Excel en Teams.
@@ -54,12 +51,12 @@ Una herramienta para crear una intranet
 13.
 ¿A través de qué herramienta se puede hacer el registro y solicitud de vacaciones o reportar enfermedades?
 Planner
+Archivo en un canal
 Repasar
 
 14.
 Al integrar una pestaña en un canal sólo se verá reflejado en mi espacio de trabajo.
-Verdadero
-Repasar
+falso
 
 15.
 ¿Es posible configurar un canal para que sólo algunas personas del equipo lo vean?
@@ -75,5 +72,4 @@ Sí, excepto los documentos de Google Apps
 
 18.
 ¿Se puede interactuar con todas las aplicaciones a través de un chatbot?
-Sí, sólo deben aceptarse los permisos para interactuar con ellas
-Repasar
+No, depende de las características de cada app
