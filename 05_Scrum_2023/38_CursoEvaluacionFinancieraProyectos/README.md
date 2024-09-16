@@ -22,7 +22,7 @@
 **Ejemplo**
 - ![Ejemplo](../38_CursoEvaluacionFinancieraProyectos/info/Screenshot_1.png)
 
-# Clase 2: Estudio de prefactibilidad y/o factibilidad
+# Clase 3: Estudio de prefactibilidad y/o factibilidad
 
 ## Estudio de Mercado.
 - Estudio de la demanda, oferta y precios que recoge toda la información del producto o servicio.
@@ -62,7 +62,7 @@
 - Paso 11: Validar las Políticas en el estudio del mercado 
 - Paso 12: validar la capacidad máxima del proyecto que pasa si la capacidad máxima llega a su limite 
 
-## clase 3: Estudio organizacional y financiero
+## clase 4: Estudio organizacional y financiero
 
 **Estudio organizacional**
 
@@ -89,7 +89,7 @@
 - Fuentes de financiamiento: recursos disponibles y potenciales para financiar inversión.
 - Flujo de caja: sistematización de inversión inicial, ingresos y egresos.
 
-## Clase 4: Evaluación financiera de una inversión
+## Clase 5: Evaluación financiera de una inversión
 
 **Caracteristicas**
 - Una inversión en términos financieros
@@ -109,3 +109,44 @@
 **¿Y cuándo VPN o TIR no funcionan?**
 - CAUE (Costo Anual Uniforme Equivalente), nos permite ponderar los valores dentro de la proyección para tener un análisis objetivo y claro con respecto a la inversión.
 
+## Clase 6: Tasa de descuento
+
+> El costo de oportunidad asumido por elegir entre alternativas de inversión.
+
+> Traslada los beneficios de una inversión al momento cero en comparación con los costos.
+
+> Es el precio de la inversión independientemente de la fuente de financiación.
+
+- Costo de las fuentes de financiación
+- Con recursos propios: mayor rentabilidad que deja de obtener por invertir.
+- Con pasivos: tasa de interés del préstamo.
+- Mezcla de recursos propios y pasivos: la tasa de interés promedio ponderada entre la tasa de oportunidad y el costo del préstamo.
+
+## Clase 7: Valor Presente Neto (VPN)
+
+> son un conjunto de valores que nos indican si podemos invertir en un proyecto no.
+> VPN => valor presente neto
+
+**Caracteristicas**
+- VPN: Valor presente neto
+- VF: Valor futuro VP:
+- Valor presente Nper: Plazo
+- VPI: Valor presente de los ingresos
+- VPE: Valor presente de los egresos
+
+**Notas**
+- Valor resultante de: Valor presente de los ingresos - Valor presente de los egresosVPN = VPI - VPE
+- Inversion: salida de recursos
+- Retornos: ingresos de recursos
+- El flujo de recursos debemos traer a valor presente para poder evaluar
+- Tasa de oportunidad: rendimiento esperado del inversionistaVP = ((VF)/(1+i)**^**n)
+- Donde:VP: valor presenteVF: valor futuro i: tasa de oportunidadn: tiempo o plaza
+
+**ejemplo**
+```
+**Lo que pasa es que lo debes comparar con relación a la Tasa de Oportunidad, la cual te indica que si inviertes esos 1000 en otra cosa diferente al proyecto del ejemplo, recibirás un retorno del 18%, mientras que en el proyecto recibirás un 1,69% o 4,35% (dependiendo del dato ingresado), por eso no se considera rentable.
+
+Ahora bien el ejemplo está dado con Tasas de Oportunidad altísimas, lo que hace creer que nunca será rentable. Pero imagina que tu Tasa de Oportunidad sólo depende de que tu dinero esté quieto o sea sin invertir en nada, ya con sólo la inflación anual, tu dinero está perdiendo valor y tu Tasa de Oportunidad será negativa, entonces invertirlo en cualquier cosa que dé una Tasa de Rentabilidad Positiva será rentable.
+
+Si tienes dos opciones como un CDT que te dé un 3% anual, esa es tu Tasa de Oportunidad, frente a un negocio que te da 4% anual (sin tener en cuenta los riesgos), entonces el negocio es rentable para el inversionista.**
+```
