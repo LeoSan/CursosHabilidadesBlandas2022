@@ -150,3 +150,24 @@ Ahora bien el ejemplo está dado con Tasas de Oportunidad altísimas, lo que hac
 
 Si tienes dos opciones como un CDT que te dé un 3% anual, esa es tu Tasa de Oportunidad, frente a un negocio que te da 4% anual (sin tener en cuenta los riesgos), entonces el negocio es rentable para el inversionista.**
 ```
+
+## Clase 8: VPN con diferentes tasas de oportunidad
+
+- El VPN (valor presente neto) o
+- VAN (valor actual neto)
+- es la diferencia de los ingresos futuros traidos al presente menos la inversión (egresos), lo que significa que es mi ganancia en un periodo de tiempo.
+
+**Notas**
+```
+Con esto uno se puede hacer la pregunta ¿Vale la pena invertir en el proyecto? 
+Voy a ganar tanto dinero (1200 dolares por ejemplo) en tanto tiempo (1 año por ejemplo), 
+significa que en un año he ganado mensualmente 1000 soles que representan un 8.3 de ganancia mensual 
+- ¿Cuanto ganaría poniendo mi dinero en un banco? 
+- ¿Es mejor ponerlo en un banco? 
+- Quizás gane mas en otro proyecto con otras proyecciones 
+- ¿Que hago para mejorar mi porcentaje de ganancia? 
+- ¿Invierto en mas productos? 
+- ¿Necesito implementar un extra para generar mas ganancia para que me sea rentable? 
+Esas son las preguntas que te permite responder, saber actuar o proyectarte
+```
+
