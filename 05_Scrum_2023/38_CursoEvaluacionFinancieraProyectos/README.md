@@ -129,8 +129,9 @@
 
 **Caracteristicas**
 - VPN: Valor presente neto
-- VF: Valor futuro VP:
-- Valor presente Nper: Plazo
+- VF: Valor futuro 
+- VP: Valor presente
+- Nper: Plazo
 - VPI: Valor presente de los ingresos
 - VPE: Valor presente de los egresos
 
@@ -170,4 +171,24 @@ significa que en un año he ganado mensualmente 1000 soles que representan un 8.
 - ¿Necesito implementar un extra para generar mas ganancia para que me sea rentable? 
 Esas son las preguntas que te permite responder, saber actuar o proyectarte
 ```
+
+
+## Clase 9:  VPN con valor presente, sin pagos periódicos y retorno final
+
+- VA = Valor Actual
+- VNA = Valor Neto Actual
+
+Diferencia?
+
+- **VA** te sirve para comparar el retorno real de solo ese mes o año,
+- es bueno usarlo cuando el retorno de la inversión sea de solo un pago.
+- También puedes hacerlo para cada mes cuando hay muchos meses y luego sumarlos pero no es recomendable.
+
+- **VNA** se usa cuando el retorno de la inversión será por muchos pagos, sabrán cuanto será tu retorno real después de transcurrido todo los pagos.
+
+- Ambos otorgan lo que será el VPI.
+
+Eso es la diferencia. Pero si aún tienes dudas con gusto te ayudo a absolverlas.
+
+## Clase 10: VPN con recuperación periódica
 
