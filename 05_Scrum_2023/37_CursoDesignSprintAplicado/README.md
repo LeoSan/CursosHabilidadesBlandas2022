@@ -57,6 +57,31 @@ Resumen del proceso Para finalizar el proceso se debe presentar un resumen del p
 Documentación de fotografía del resultado de cada día.
 Resumen y recomendaciones del experto.
 
+## ¿Qué son los Crazy 8s?
+
+> Es una técnica de brainstorming visual muy utilizada en diseño, especialmente en las primeras etapas de un proyecto. Consiste en generar una gran cantidad de ideas en un tiempo limitado, específicamente en 8 minutos. La idea es fomentar la creatividad y la rapidez en la generación de conceptos, dejando de lado la perfección y la crítica en esta fase inicial.
+
+**¿Cómo se realiza?**
+
+- Dividir la hoja: Se divide una hoja en 8 secciones iguales.
+- Tiempo limitado: Se establece un tiempo de 1 minuto por sección.
+- Generar ideas: En cada sección, se dibuja una idea rápida y sencilla relacionada con el problema o el desafío de diseño que se está abordando. No importa si los dibujos son detallados o si - - tienen errores, lo importante es la cantidad de ideas generadas.
+- Repetir: Se repite este proceso durante los 8 minutos, llenando cada sección con una nueva idea.
+
+**¿Para qué sirven los Crazy 8s?**
+
+- Fomentar la creatividad: Al tener un tiempo limitado, se evita la parálisis por el análisis y se estimula la mente a generar ideas de forma espontánea.
+- Generar diversidad de ideas: La rapidez y el número limitado de secciones obligan a explorar diferentes enfoques y perspectivas del problema.
+- Visualizar conceptos: Al dibujar las ideas, se facilita la comprensión y la comunicación de los conceptos.
+- Identificar patrones y conexiones: Al tener un conjunto de ideas visuales, es más fácil identificar patrones, conexiones y posibles soluciones.
+
+**Beneficios de los Crazy 8s:**
+
+- Ahorra tiempo: Al generar muchas ideas en poco tiempo, se pueden descartar rápidamente las que no son viables y centrarse en las más prometedoras.
+- Rompe bloqueos creativos: La presión del tiempo y la naturaleza rápida de la actividad ayudan a superar los bloqueos creativos.
+- Mejora la colaboración: Es una técnica ideal para trabajar en equipo, ya que fomenta la participación de todos los miembros y la generación de ideas colectivas.
+
+## evaluación 
 
 
 1 ¿Qué es un Design Sprint?
@@ -81,9 +106,7 @@ Notas "Cómo podríamos"
 
 6.
 ¿Cómo deben categorizarse las notas "Cómo podríamos"?
-Por un lado se separan las notas positivas y por otro las notas negativas.
-Categorías: Oportunidades, Problemas, Usuarios, Producto, Etc.
-REPASAR CLASE
+No existe una manera perfecta de categorizar las notas. Lo importante es que tengan sentido para el equipo y creen estructura.
 
 7.
 ¿Cómo sabemos cuáles notas son más importantes?
@@ -93,7 +116,6 @@ Luego del proceso de votación, tomamos las notas con dos o más votos.
 8.
 ¿Cómo se define la Meta a Largo Plazo?
 Cada participante propone una nota en un post it. Luego se realiza un proceso de votación silenciosa. Finalmente, el voto del Decisor decide.
-
 
 9.
 ¿Qué son las Preguntas del Sprint?
@@ -109,9 +131,7 @@ Generar, en cantidad, posibles soluciones al problema planteado en el día 1.
 
 12.
 ¿Qué son las Demos Rápidas?
-Son demostraciones rápidas de posibles soluciones que ideadas por cada uno de los participantes.
-Son las propuestas generadas en 3 hojas A4 que deben ser presentadas al inicio del día 3 para que el Decisor defina la solución final.
-REPASAR CLASE
+Son ejemplos de inspiración que cada persona busca y luego comparte con el resto del equipo.
 
 
 14.
@@ -125,11 +145,7 @@ Ser auto explicables; ser anónimos; hacer buen uso de anotaciones y palabras; t
 
 16.
 ¿Cuáles son las etapas en los Bocetos en 4 pasos?
-Tomar notas, hacer un brainstorming colectivo, votar las mejores ideas, definir el concepto final.
-Bocetar ideas, compartir y recibir feedback, iterar la mejor idea, definir el concepto final.
-Generar ideas, crear prototipos en papel, recibir feedback, definir el concepto final.
-Repasar
-
+Tomar notas, generar ideas individualmente, Crazy 8's, bocetar el concepto final.
 
 18.
 ¿Cuál es el objetivo del día 3 en un Design Sprint?
@@ -180,23 +196,29 @@ El Decisor.
 ¿Cuál es el objetivo del día 4 en un Design Sprint?
 Crear un prototipo de baja fidelidad para recibir feedback.
 Crear la primera versión de la app a desarrollar.
+Crear un producto mínimo viable funcional.
 Repasar
 
 
-29.
+30.
 ¿Qué es lo principal al crear el prototipo?
 Crear una experiencia realista y enfocarse en el objetivo del Sprint.
 
-30.
+31.
 ¿Cuál es el objetivo del día 5 en un Design Sprint?
 Aprender a través del feedback de 5 usuarios.
 
-31.
+32.
 ¿Qué relación hay entre el Design Sprint, Agile y Design Thinking?
 Design Sprint es un proceso que adopta las filosofías de Design Thinking y Agile.
 
-32.
+33.
 ¿Cuál es la forma de anotar el feedback de las entrevistas del día 5 en un Design Sprint?
 Cada integrante toma notas en una hoja tamaño A4.
 Las anotaciones se hacen libremente.
+Las entrevistas son transcritas para luego encontrar patrones.
 REPASAR CLASE
+
+
+35. ¿Cuántas salas se necesitan para las entrevistas del día 5?
+1  REPASAR CLASE     
