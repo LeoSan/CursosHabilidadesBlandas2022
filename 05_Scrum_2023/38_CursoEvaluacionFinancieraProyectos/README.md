@@ -190,5 +190,40 @@ Diferencia?
 
 Eso es la diferencia. Pero si aún tienes dudas con gusto te ayudo a absolverlas.
 
-## Clase 10: VPN con recuperación periódica
+## Clase 10: VPN con recuperación periódica Valor Presente Neto 
 
+> Se resuelve un ejemplo como practica donde vamos a calcular el valor de los ingresos - egresos
+
+- La idea es validar si los proyectos son rechazados o aceptados
+- La idea es aldiar el Valor del dinero atraves del tiempo
+- Podemos usar la formula **VA = VF / (1 + i)^ n VA = VF * (1 + i)^ -n**
+
+## Clase 11: VPN con opción de recompra
+
+> Este ejercicio sirve para las personas que quieren sacar un vehículo, una vivienda o activos de capital por leasing financiero.
+
+## Clase 12: Conclusiones VPN
+
+**¿Qué muestra el VPN?**
+- VPN = 0: El inversionista solo recupera la inversión y lo que esperaba ganar con su tasa de oportunidad.
+- VPN > 0: El inversionista gana más de lo que quería ganar según su tasa de oportunidad. El VPN muestra en valor presente cuánto es esa ganancia adicional.
+- VPN < 0: Indica el valor actual que hace falta para que el inversionista gane lo que esperaba.
+- Nota: VPN se refiere al Valor Presente Neto. Es un indicador financiero que mide la rentabilidad de una inversión a lo largo del tiempo, trayendo todos los flujos de caja futuros a su valor presente.
+
+## Clase 13: Tasa interna de retorno (TIR)
+
+- Prestatario: Es la tasa del costo del dinero prestado.
+- Prestamista: Es la tasa que representa la ganancia.
+- Es encontrar la rentabilidad del proyecto
+
+
+>[!NOTE]
+> Calcular manualmente la TIR solo lleva a aproximaciones y no a un resultado exacto. Además resulta ser un proceso más laborioso y al tanteo; de lo que debería.
+
+## Clase 14: Conclusiones de la TIR
+- La tasa de interés que iguala a cero el VPN
+- Es la tasa de interés a la cual rinde el dinero al permanecer invertido en un proyecto de inversión.
+- La TIR es la tasa de interés pagada por un crédito, sobre el saldo insoluto.
+- Si se trata de un período, la TIR es la tasa ganada sobre la inversión inicial.
+- TIR nos indica cuál es la tasa de oportunidad para un proyecto, con la que no obtendremos perdidas, pero tampoco ganancias; un VPN = 0.
+- La TIR se convertirá en la tasa de referencia para evaluar si la tasa de oportunidad que nos ofrecen es conveniente o no.
