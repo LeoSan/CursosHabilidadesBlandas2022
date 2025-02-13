@@ -28,6 +28,7 @@ Definir la forma de organización que requiere la unidad empresarial, con base e
 Son aspectos del estudio financiero:
 Ingresos, egresos y utilidades
 Activos, pasivos, patrimonio, ingresos y egresos operacionales.
+Estados financieros, indicadores financieros y toma de decisiones
 Repasar
 
 9.
@@ -38,6 +39,7 @@ La asignación de recursos en el presente con el fin de obtener unos beneficios 
 Tasa de descuento es:
 El descuento otorgado por los bancos en productos financieros.
 Es el proceso de negociación del precio de las acciones por parte de los propietarios para obtener el mejor valor posible.
+El valor reconocido por el proveedor por pagar antes de tiempo.
 Repasar
 
 12.
@@ -76,6 +78,7 @@ Aceptar la alternativa B
 Entre dos alternativas, con solo gastos y misma vida útil, con los dos CAUE iguales, ¿qué decisión se debe tomar?
 Con la información disponible no es posible tomar la decisión
 Seleccionar la de mayor VPN
+Rechazar las dos alternativas
 Repasar
 
 20.
@@ -84,10 +87,7 @@ Perfil, prefactibilidad y factibilidad
 
 21.
 Son aspectos del estudio técnico:
-Demanda interna y externa, políticas de marketing, canales de comercialización, caracterización del bien o servicio y segmento del mercado.
-Prefactibilidad, factibilidad, evaluación económica, técnica, financiera y de mercado.
-Repasar
-
+Localización del proyecto, determinación del tamaño óptimo, ingeniería del proyecto, clase de tecnología y producción.
 
 
 
