@@ -29,6 +29,7 @@ Son aspectos del estudio financiero:
 Ingresos, egresos y utilidades
 Activos, pasivos, patrimonio, ingresos y egresos operacionales.
 Estados financieros, indicadores financieros y toma de decisiones
+Estudio de mercado, estudio técnico y estudio organizacional
 Repasar
 
 9.
@@ -37,10 +38,7 @@ La asignación de recursos en el presente con el fin de obtener unos beneficios 
 
 10.
 Tasa de descuento es:
-El descuento otorgado por los bancos en productos financieros.
-Es el proceso de negociación del precio de las acciones por parte de los propietarios para obtener el mejor valor posible.
-El valor reconocido por el proveedor por pagar antes de tiempo.
-Repasar
+El precio de la inversión, independientemente de las fuentes que la financian.
 
 12.
 ¿Cuál es el origen de las fuentes de financiación de un proyecto de inversión?
@@ -76,10 +74,7 @@ Aceptar la alternativa B
 
 18.
 Entre dos alternativas, con solo gastos y misma vida útil, con los dos CAUE iguales, ¿qué decisión se debe tomar?
-Con la información disponible no es posible tomar la decisión
-Seleccionar la de mayor VPN
-Rechazar las dos alternativas
-Repasar
+Seleccionar la de menor VPN
 
 20.
 La preinversión incluye:
