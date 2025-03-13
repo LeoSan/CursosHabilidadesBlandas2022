@@ -122,3 +122,129 @@ Sí
 30.
 ¿A cuáles formatos se puede exportar desde Notion?
 Markdown, PDF y HTML.
+
+31. 
+La interfaz de Trello permite crear tableros, listas y tarjetas. Además, en esta herramienta es posible trabajar con archivos adjuntos, imágenes y enlaces
+Verdadero 
+
+32. 
+¿Por qué usar Airtable frente a hojas de cálculo tradicionales?
+Mejor diseño y usabilidad
+
+33. 
+La psicoterapia podría ser benéfica para algunas personas en su proceso de aprender a organizarse
+Verdadero 
+
+34. 
+Cuál de estos NO es un aspecto importante a tener en cuenta a la hora de planear transporte y rutas
+No agendar reuniones por las mañanas.
+
+35. 
+Tasa de descuento es
+El precio de la inversión, independientemente de las fuentes que la financian.
+
+36. 
+Se han conseguido excelentes resultados a través de la relajación muscular progresiva
+Todas las opciones son correctas.
+
+37. 
+El director de proyecto y su equipo de trabajo finalizaron el cronograma del proyecto. Sin embargo, al observar el histograma de recursos descubren que no cuentan con los trabajadores suficientes para cumplir el alcance de la forma planificada ¿Fue acertado usar un histograma para el análisis?
+verdaero 
+
+38.
+¿Qué es una función ejecutiva?
+El conjunto de capacidades cognitivas necesarias para controlar y autorregular la propia conducta.
+
+39. 
+En cuanto a las actitudes que se deben tener para desarrollar la empatía destacan
+Todas las opciones son correctas.
+
+40. 
+La tercera habilidad interpersonal de la inteligencia emocional es
+La autoconciencia.
+**REPASAR**
+
+
+41. 
+La técnica GTD incluye
+Todas las opciones son correctas.
+
+42. 
+Si necesitas recibir notificaciones automáticas sobre cambios en un documento de Notion, ¿qué deberías hacer
+Configurar las alertas de notificaciones en Notion.
+
+43.
+El alcance te ayudará a:
+Establecer qué harás y qué no harás en el proyecto
+
+44.
+La comunicación del conflicto nos deja la sensación de estar
+Enojados y/o frustrados
+
+
+45. 
+El cálculo de la ruta crítica se hace con
+Una sumatoria hacia delante y resta atrás
+
+46. 
+¿El análisis causa raíz solo se aplica en el proceso control de riesgos?
+falso 
+
+47. 
+¿Cuál es la importancia de que unos objetivos estén priorizados en relación a otros?
+Para que los diferentes departamentos trabajen hacia la misma dirección.
+**REPASAR**
+
+48. 
+¿Qué estrategia usarías para integrar una base de datos de tareas en un nuevo proyecto en Notion?
+Crear una nueva base de datos para cada proyecto desde cero.
+**REPASAR**
+
+
+49. 
+Crear 300 nuevas altas es un ¿buen o mal key result?
+Un buen key result porque indica progreso.
+
+50. 
+Se debe buscar convencer al otro para manejar una conversación difícil
+Falso 
+
+51. 
+¿Qué son las vistas?
+Tablas diferentes con diferente información
+Son distintas tablas enlazadas entre sí
+**REPASAR**
+
+52. 
+Trello ofrece notificaciones y opciones de seguimiento de conversaciones en Google Calendar
+verdadero 
+
+53. 
+¿Qué desventajas tiene Airtable?
+Todas las opciones son correctas
+
+54. 
+¿Qué es importante cuando buscamos simplificar tareas?
+Dividir actividades en problemas más pequeños.
+
+55. 
+¿Qué debes tener en cuenta para planear tu tiempo libre?
+Hacer un proceso de planeación exclusivo para estos tiempos y no dejar todo para el final.
+
+56. 
+Es la tercera etapa del ciclo de un proyecto
+Ejecución
+
+
+57. 
+La organización es
+Una habilidad
+
+58. 
+Trello ofrece notificaciones y opciones de seguimiento de conversaciones en Google Calendar.
+falso 
+
+59. 
+
+
+
