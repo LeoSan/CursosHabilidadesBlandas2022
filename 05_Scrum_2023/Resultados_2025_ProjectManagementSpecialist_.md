@@ -245,6 +245,68 @@ Trello ofrece notificaciones y opciones de seguimiento de conversaciones en Goog
 falso 
 
 59. 
+Un proyecto de desarrollo de software tiene un valor planificado (PV) de $1000, un valor ganado (EV) de $700 y un costo real (AC) de $1300. El índice de desempeño del costo (CPI) asciende a:
+
+**REPASAR**
+
+60.- 
+
+El equipo de desarrollo de Plackis entregó una aplicación a su mejor cliente, ColaCola. Si bien, según el equipo de desarrollo, la aplicación estaba terminada e iniciaron a trabajar en otros productos, el cliente decidió no aceptarla, puesto que varios puntos de la funcionalidad estaban incompletos y ésta no entregaba una buena experiencia al usuario final. Con esta información, ¿qué cierre es el que falta por concluir?
+
+- Cierre de tiempo. La vigencia del contrato ya había concluído y los desarrolladores se encontraban trabajando en otros proyectos
+**REPASAR**
+
+61. 
+El estudio de usos y costumbres corresponde a la investigación
+Cualitativa 
+
+62. 
+Los pensamientos automáticos son afirmaciones producto de la forma en la que interpretamos los hechos
+Ninguna respuesta es correcta.
+**REPASAR**
+
+63. 
+Cómo podrías personalizar una plantilla de Notion para que se adapte a las necesidades de tu equipo
+Usando siempre las plantillas predeterminadas del marketplace sin cambios.
+**REPASAR**
+
+64. 
+La eficacia es el punto óptimo entre
+- El tiempo que dedicamos a una tarea y la calidad de la misma.
+
+65. 
+¿Qué es un propósito?
+- Es la intención o el ánimo por el que se realiza o se deja de realizar una acción.
+
+
+66. 
+Lizeth ha sido la encargada de la logística, preparación, ideación y seguimiento del evento más grande de la empresa textilera llamada Truoka durante 10 años. Este evento es un festín para los colaboradores de la organización y sus familias como recompensa por el arduo esfuerzo hecho en todo el año: paseo por 3 días, banquetes, cocktails exquisitos y premios en diferentes concursos (siempre hay derroche de dinero, pero la empresa lo asume y es consciente de ello)
+
+- No ha hecho re-ingeniería del evento aunque ha tenido 10 oportunidades para esto. Nunca se ha tomado el trabajo de hacer un diagnóstico de lo que sucede, un plan de optimización de costos basado en la experiencia, ejecutarlo y hacer seguimiento a nuevos posibles cambios.
 
 
 
+67. 
+Cómo podrías optimizar el proceso de onboarding de un nuevo integrante utilizando Notion
+- Centralizando toda la documentación y procesos en un solo espacio de trabajo en Notion.
+
+68. 
+Para automatizar la creación de actas de reuniones en Notion, ¿qué herramienta podrías utilizar
+Crear un botón que genere automáticamente una nueva acta.
+
+
+69. 
+Cuál es el primer factor a tener en cuenta al momento de gestionar un proyecto digital
+Determinar el alcance para delimitar acciones e identificar recursos con los que se cuenta para alcanzarlo.
+
+70. 
+En qué debemos enfocarnos para gestionar efectivamente el tiempo
+Gestionar los flujos de trabajo.
+
+71. 
+La recopilación y análisis de las lecciones aprendidas es un proceso que debe hacerse únicamente en la fase de cierre de proyectos", esto es
+- falso 
+
+72. -
+Por qué necesitas aprender a gestionar el tiempo en las tareas compartidas con otras personas
+- Porque mis tareas pueden ser el insumo para el trabajo de otros.
