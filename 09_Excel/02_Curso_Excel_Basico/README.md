@@ -99,3 +99,5 @@ Accede a la ficha de datos: Dentro de tu herramienta de hoja de cálculo, ve a l
 
 
 ![Imagen](../02_Curso_Excel_Basico/info/info_005.png)
+
+## Clase 10: 
