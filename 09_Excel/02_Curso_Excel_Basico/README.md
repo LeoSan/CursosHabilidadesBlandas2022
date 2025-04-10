@@ -100,4 +100,54 @@ Accede a la ficha de datos: Dentro de tu herramienta de hoja de cálculo, ve a l
 
 ![Imagen](../02_Curso_Excel_Basico/info/info_005.png)
 
-## Clase 10: 
+## Clase 10: Filtros 
+
+Los filtros son la herramienta que nos permite poner un menú desplegable en el encabezado, para poder seleccionar de manera mucho más rápida el contenido o los datos dentro de nuestra base de información. Al aplicar los filtros podemos ver de forma más sencilla la información que estamos buscando. . En la ficha de Datos, sección Ordenar y Filtrar, opción Filtro, así se nos generará en cada columna un pequeño botón desplegable que es nuestro menú. Ahí podemos ordenar la información, cambiar la vista de hoja, hacer filtros de texto dependiendo del valor que seleccionemos. . Recordemos que al modificar la información que hemos filtrado esta puede no seguir mostrándose dentro del filtro. Debemos estar atentos. . Podemos filtrar columnas distintas al mismo tiempo pero esto permanecerá con una jerarquía, primero respetara las condiciones del primer filtro y luego la segunda.
+
+## Clase 11: Buscar y reemplazar 
+
+- Las funciones de Buscar y reemplazar son sumamente útiles para encontrar un dato exacto en el documento cuando desconocemos en qué fila o columna se encuentra. O sustituir algún dato dónde nos hayamos equivocado. . Podemos usar el atajo Ctrl+B así se despliega la ventana de buscar y reemplazar. .
+
+- Para Buscar: Ahí agregamos nuestro dato y seleccionamos Buscar Todos, y se nos mostrará todas las celdas donde se encuentra ubicado nuestro dato. En Opciones también nos permite realizar la búsqueda de nuestro dato por libro u hoja, fila o columna, fórmulas, valores, notas o comentarios. .
+
+- Para Reemplazar: Seleccionamos el valor que queremos reemplazar, abrimos el menú, y agregamos el dato que queremos reemplazar (ä) y luego el dato por el cual será reemplazado (á). Y desmarcamos la opción “Coincidir con el contenido de toda la celda” antes de aplicar el reemplazo.
+
+
+
+## Clase 12: Formulas y estructuras 
+
+> En la ficha de fórmulas podremos ver una biblioteca
+- Tendremos las fórmulas categorizadas (lógicas, matemáticas, fechas, etc.)
+- Siempre comienzan con el signo =
+
+## Clase 13: formular ariméticas 
+
+## Las fórmulas aritméticas básicas en Excel son esenciales para realizar cálculos simples. Las principales son:
+
+- Suma: =SUMA(rango) o usando el signo +.
+- Resta: =A1 - A2.
+- Multiplicación: =A1 * A2.
+- División: =A1 / A2.
+
+Estas fórmulas te permiten gestionar y procesar datos de manera eficiente, facilitando tareas cotidianas en Excel.
+
+## clase 14: Otras Formulas Artiméticas 
+
+## CONTAR
+
+- CONTAR(a : b): Sirve para contar cuantos datos numéricos hay de tal celda a tal otra, sirve en caso de que quieras contar cuantas celdas tienen un dato numérico
+- CONTAR.BLANCO(a : b): Te dice cuantas celdas están en blanco (Vacías)
+
+## PROMEDIO
+
+- PROMEDIO(a : b): Calcula el promedio de varios dígitos numéricos
+
+## REDONDEO
+
+- REDONDEAR(a : num_decimales): Redondea con el número de decimales que nosotros le especifiquemos. EJ: (3.45, 0) = 3
+- REDONDEAR.MENOS(a : num_decimales): Redondea con el número de decimales que nosotros le especifiquemos hacia abajo. EJ: (3.45, 0) = 3
+- REDONDEAR.MAS(a : num_decimales): Redondea con el número de decimales que nosotros le especifiquemos hacia arriba. EJ: (3.45, 0) = 4
+
+##SUMA
+
+- SUMAPRODUCTO(a : b, c : d): Multiplica un rango que le asignemos por otro rango, en caso de que necesitamos las dos sumas de dos columnas y las deseemos multiplicar.
