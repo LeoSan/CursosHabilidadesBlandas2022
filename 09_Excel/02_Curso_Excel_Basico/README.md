@@ -170,3 +170,145 @@ Estas fórmulas te permiten gestionar y procesar datos de manera eficiente, faci
 - La función Subtotal insertará filas adicionales en la hoja de cálculo con los subtotales calculados. También puedes utilizar la función Subtotal para calcular varios subtotales en una sola hoja de cálculo.
 
 Recuerda que la función Subtotal en Excel es una herramienta útil para calcular totales parciales en una lista de datos. Con esta función, puedes ahorrar tiempo y realizar cálculos precisos en tus hojas de cálculo.
+
+## Clases 16: Formulas Fecha 
+
+> Si tienen Excel en inglés aquí están las formulas:
+
+=DAY(B3) =MONTH(B3) =WEEKDAY(B3,2) =DATE(G3,F3,E3)
+
+=DIA(B3) =MES(B3) =diasem(B3,2) =AÑO(G3,F3,E3)
+
+=TODAY()
+=hoy()
+=fecha()
+
+> Fecha en texto 
+Si se quiere saber que día fue en cierta fecha o el nombre del mes se puede usar lo siguiente: Ejemplo, si la Celda 1 tiene una fecha 1/01/2022 se tendría:
+
+TEXTO(A1;"D") = 1
+TEXTO(A1;"DD") = 01
+TEXTO(A1;"DDD") = sáb
+TEXTO(A1;"DDDD") = sábado
+Para el caso del mes, usando la misma fecha anterior se tendría:
+
+TEXTO(A1;"M") = 1
+TEXTO(A1;"MM") = 01
+TEXTO(A1;"MMM") = ene
+TEXTO(A1;"MMMM") = enero
+Adicionalmente algunos otros tips rápidos:
+
+Ctrl + ; = Te arroja la fecha actual. Cumple la misma función de HOY()
+Ctrl + SHIFT + : = Te arroja la hora en ese momento.
+
+## clases 17: Formulas de Texto 
+
+Las fórmulas de texto en Excel son esenciales para quienes trabajan con datos en formato de texto en lugar de números.
+
+- =NOMPROPIO( a ): Lo que hace esta función es que la primera letra de cualquier nombre pase de minúscula a mayúscula: EJ: andrés rodríguez = Andrés Rodríguez.
+
+- =ESPACIOS( a ): Elimina los espacios de al final y al principio de un texto, no quita los espacios intermedios.
+
+- =EXTRAE(texto; posicion_inicial_caracter, num_caracteres): Extrae una parte de un texto, tomando como argumentos la posición del texto y la posición inicial y número de caracteres que se desea extraer.
+
+- =TEXTO(valor, “formato”): recibe un valor y podemos modificar este formato mediante un String con las características que deseamos que tenga.
+
+- =CONCAT( texto; “-”; … ): Concatena distintas celdas, también puede concatenar Strings directamente.
+    - Se puede hacer directamente en &, EJ: =C4&”-”&E4&"-".
+
+
+## clase 18 Fórmula aleatorio
+
+> Las fórmulas 'ALEATORIO' y 'ALEATORIO.ENTRE' en Excel son herramientas valiosas cuando buscamos introducir aleatoriedad en nuestras tareas sin intervención humana
+
+## ejemplo 
+
+- ALEATORIO() Nos retorna un decimal aleatorio entre 0 y 1
+
+- ALEATORIO(a,b) Nos retorna un entero aleatorio entre a y b. OJO si lo arrastramos se imprimiran valores diferentes.
+
+## clase 19: Las fórmulas lógicas 
+
+> Las fórmulas lógicas son herramientas fundamentales en Excel que pueden transformar tus hojas de cálculo en potentes plataformas de análisis de datos. Entender cómo funcionan los operadores lógicos I (AND) y O (OR)
+
+¿Cómo usar el operador lógico 'I' para múltiples condiciones?
+Para escalar tus comparaciones y evaluar varias condiciones a la vez, utiliza el operador lógico I (AND en inglés). Este operador comprueba si todas las condiciones especificadas son verdaderas.
+
+Uso del operador I:
+Sirve para verificar que múltiples afirmaciones sean verdaderas al mismo tiempo.
+Estructura: =Y(condición1, condición2, ...).
+Ejemplo: Si deseas verificar que B2 sea igual a B3 y que B3 sea igual a B4, Excel retornará "VERDADERO" solo si ambas afirmaciones son verdaderas.
+Este método es efectivo si necesitas asegurar que todos los elementos de un rango cumplan ciertas condiciones.
+
+¿Cómo implementar el operador lógico 'O' para condiciones excluyentes?
+El operador lógico O (OR) permite una mayor flexibilidad al requerir que solo una de varias condiciones evaluadas sea verdadera para retornar "VERDADERO".
+
+Uso del operador O:
+Ideal para verificar si al menos una condición en una lista es verdadera.
+Estructura: =O(condición1, condición2, ...).
+Ejemplo: Evaluar si B2 es igual a B3 o si B3 es igual a B4. Excel retornará "VERDADERO" si al menos una de estas condiciones es verdadera.
+
+
+Un resumen sencillo acerca de lo que vimos en el curso
+Regla #1:
+Elimina las barreras que detienen tu comprensión lectora.
+Identificar obstáculos en lectura y proponer 1 solución par ano detenerse tanto en la lectura.
+Regla #2:
+Crea tu santuario de la concentración.
+Definir un Espacio exclusivo de lectura y estudio donde tengas todos tus útiles y no exista la distracción.
+Regla #3:
+Establece objetivos de lectura alcanzables.
+Definir:
+¿Que tipo de libro vas a leer?
+¿Qué es lo que buscas?
+¿Qué es lo que quieres lograr?
+¿Qué es lo que necesitas comprender?
+¿Qué tipo de información es la que te interesa?
+¿Cuánto tiempo tienes para hacerlo?
+¿Cuántas páginas tiene?
+¿La Cantidad de Páginas al día?
+¿Por volumen?
+¿Por velocidad?
+Regla #4:
+Crea un borrador de lectura con la lectura exploratoria.
+Dar visión general del libro para capturar cuales son las ideas generales, los títulos, subtítulos, subtemas.
+Crear una lista con toda la información que tienes que leer.
+Regla #5:
+Lee superficialmente para construir contexto previo.
+La lectura exploratoria es a nivel general
+La lectura superficial es caminar un poco más rápido para generar más contexto y ese marco del rompe cabezas.
+Generar lista de preguntas sobre lo que te gustaría responder o entender en la lectura.
+Regla #6:
+Identifica la anatomía del texto mediante argumentos, conclusiones y evidencias.
+Definirlo por el método ACERO
+Argumento:
+Un texto tiene un Argumentl
+Concluciones
+Los Argumentos se explican a través de Concluciones
+Evidencias
+Datos que justifican el Argumento
+Relleno
+Ejemplos o conceptos que no te interesan.
+Orden
+Todas las ideas
+Regla #7:
+Lee activamente y conversa con el autor.
+Tomar anotaciones rápidas a los costados del libro.
+Poner un sistema de marcas como: Guiones, asteriscos, corchetes, círculos, flechas para comunicarte con el autor.
+Regla #8:
+Crea tu glosario ninja para hablar en los términos del autor.
+Para facilitar la asociación de la lectura en los términos del autor.
+Regla #9:
+Explica lo que leíste a través de un sistema de notas.
+Para simplificar todo lo que haz leído a tus propios términos con tus propias ideas.
+Por Jerarquías: Argumentos, Conclusiones, Evidencias.
+Regla #10:
+Recuerda lo que lees mediante un sistema de repaso activo.
+Recordando de Memoria.
+Por Notas, por Jerarquías, por Fichas: Pregunta - Respuesta.
+Regla #11:
+Haz de la lectura un hábito sólido en tu vida.
+Aceptando el procedimiento como satisfactorio.
+Mediante tu medidor de hábitos y tu lista de libros.
+Regla #12:
+Activa el modo ninja y deja de procrastinar.
