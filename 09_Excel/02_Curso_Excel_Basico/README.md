@@ -396,8 +396,7 @@ Buena actitud, compromiso por tomar acción y constancia.
 
 2.
 ¿Cuáles son las barreras de la lectura comprensiva?
-Falta de planeación, la regresión mental, la distracción, la falta de orden y la falta de contexto.
-Repasar
+Falta de planeación, lectura pasiva, falta de contexto, falta de práctica y falta de autoconcepto.
 
 3.
 ¿Cuáles son las 2 características del "Santuario de la Concentración"?
@@ -414,6 +413,7 @@ Una lista o esqueleto de los puntos e ideas que dividen o desarrollan el tema co
 6.
 ¿Cuál es el objetivo de la lectura superficial?
 Saber de qué se trata el libro mediante un prefacio completo en tu sistema de notas.
+Saber de qué se trata el libro mediante la técnica Quiz and Recall.
 Repasar
 
 7.
@@ -423,6 +423,7 @@ Encontrando la intención del autor que quiere compartirte o la problemática m�
 8.
 ¿Cuál es el objetivo de tomar notas rápidas y utilizar marcas dentro de la lectura activa?
 Tener una interacción con el libro de forma visual-espacial a través de superficies.
+Hacer un resumen completo del libro dentro del mismo libro.
 Repasar
 
 9.
@@ -432,16 +433,19 @@ Para hablar en los mismos términos del autor.
 10.
 ¿Cuál es la mejor forma para capturar tus notas de forma organizada? (funciona para ambos formatos).
 Con el Método de Cornell.
+Tomar notas de corrido y escribir un libro del mismo libro.
 Repasar
 
 11.
 ¿Cuál es la forma correcta de realizar cada repaso con tu guía de preguntas o con cualquier modelo de repaso?
 Repasar en este formato: en 1 día, en 2 días, en 3 días, en 5 días, 7 días y 15 días.
+Responder las preguntas mientras ves el texto para tener pistas para recordar toda la respuesta.
 Repasar
 
 12.
 ¿Cuáles son los principios de los 4 pasos para formar un hábito de lectura?
 La lectura debe ser: recompensada, facilitada, obvia y compleja.
+La lectura debe ser: fácil, satisfactoria, curiosa y sencilla.
 Repasar
 
 13.
