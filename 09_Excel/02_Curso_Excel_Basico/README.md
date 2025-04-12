@@ -312,3 +312,143 @@ Aceptando el procedimiento como satisfactorio.
 Mediante tu medidor de hábitos y tu lista de libros.
 Regla #12:
 Activa el modo ninja y deja de procrastinar.
+
+
+
+
+Examen : 
+
+1.
+Los atajos en Excel son iguales en Mac, o si manejas Office en inglés o en Español.
+Falso
+
+2.
+Se pueden importar datos a Excel en formatos distintos a .xls como .csv.
+Falso
+Repasar
+
+3.
+¿Desde dónde se pueden insertar imágenes?
+Desde el dispositivo, imágenes de archivo e imágenes en línea.
+
+4.
+¿En donde se puede dar nombre a un rango?
+En el cuadro de nombres o en la ficha fórmulas.
+
+5.
+¿Cómo se oculta una hoja?
+Haciendo click derecho sobre el nombre de la hoja.
+
+6.
+¿Cuál de las siguientes afirmaciones es falsa?
+Al insertar una tabla aparece un cuadro de texto para asignar el nombre.
+
+7.
+¿Cómo se pueden ordenar datos de manera personalizada?
+Desde la ficha datos - > ordenar. Se selecciona la columna, el criterio para ordenar y los niveles.
+
+8.
+¿Qué criterios se pueden utilizar para filtrar información?
+Por color, por texto o seleccionando manualmente.
+
+9.
+La función buscar se debe utilizar antes de la reemplazar.
+Falso
+
+10.
+¿Qué operación se realiza con SUMAPRODUCTO?
+Se toman los valores del primer rango, se multiplican por los del segundo y se suman los resultados.
+
+11.
+La función “Subtotales” nos ayuda a obtener información DINÁMICA, cuando utilizamos filtros. El resultado se modificará de acuerdo a la información que filtramos.
+VERDADERO
+
+12.
+Cuando se utiliza la fórmula =HOY(), se cierra el documento y se abre algunos días después, ¿Qué valor se observa?
+La fecha del día.
+
+13.
+Con la fórmula =TEXTO(25,"000"),¿Qué resultado obtenemos?
+025
+
+14.
+La fórmula Y será verdadero si todos los argumentos son verdaderos, mientras que la fórmula O será verdadero cuando al menos uno de los argumentos sea verdadero.
+Verdadero
+
+15.
+Los datos se pueden ordenar directamente desde los filtros
+Verdadero
+
+¿Cuál de las siguientes afirmaciones es falsa?
+En la parte superior izquierda de la hoja se pueden abrir o cerrar las agrupaciones.
+REPASAR
+
+
+
+
+
+
+
+
+1.
+¿Cuáles son los 3 principios de aprendizaje para obtener resultados positivos en cualquier lectura o tema que debas estudiar?
+Buena actitud, compromiso por tomar acción y constancia.
+
+2.
+¿Cuáles son las barreras de la lectura comprensiva?
+Falta de planeación, la regresión mental, la distracción, la falta de orden y la falta de contexto.
+Repasar
+
+3.
+¿Cuáles son las 2 características del "Santuario de la Concentración"?
+Un espacio exclusivo para la lectura y cero distracciones.
+
+4.
+¿Cuáles son los 3 objetivos de lectura?
+Entretenimiento, búsqueda de información o formación personal, entendimiento profundo.
+
+5.
+¿Qué es un borrador de lectura?
+Una lista o esqueleto de los puntos e ideas que dividen o desarrollan el tema completo.
+
+6.
+¿Cuál es el objetivo de la lectura superficial?
+Saber de qué se trata el libro mediante un prefacio completo en tu sistema de notas.
+Repasar
+
+7.
+¿Cómo podrías identificar un argumento del texto?
+Encontrando la intención del autor que quiere compartirte o la problemática más importante que resolvió.
+
+8.
+¿Cuál es el objetivo de tomar notas rápidas y utilizar marcas dentro de la lectura activa?
+Tener una interacción con el libro de forma visual-espacial a través de superficies.
+Repasar
+
+9.
+¿Para qué sirve el "Glosario Ninja" de vocabulario, conceptos o términos frecuentes del autor?
+Para hablar en los mismos términos del autor.
+
+10.
+¿Cuál es la mejor forma para capturar tus notas de forma organizada? (funciona para ambos formatos).
+Con el Método de Cornell.
+Repasar
+
+11.
+¿Cuál es la forma correcta de realizar cada repaso con tu guía de preguntas o con cualquier modelo de repaso?
+Repasar en este formato: en 1 día, en 2 días, en 3 días, en 5 días, 7 días y 15 días.
+Repasar
+
+12.
+¿Cuáles son los principios de los 4 pasos para formar un hábito de lectura?
+La lectura debe ser: recompensada, facilitada, obvia y compleja.
+Repasar
+
+13.
+¿Cuál es la mejor manera de obtener resultados positivos en tu lectura?
+Aplicando las técnicas en situaciones reales para hacer ajustes y llevar a cabo la práctica deliberada.
+
+14.
+¿Qué es el "Modo Ninja"?
+Es el poder interior que se activa cuando tomas acción con las técnicas de forma constante sin miedo al fracaso con una actitud ultra-positiva.
+

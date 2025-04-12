@@ -8,10 +8,10 @@
 
 - Fundamentos de Excel
     - Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo -> 100% -> [Diploma](https://github.com/LeoSan/CursosHabilidadesBlandas2022/blob/main/09_Excel/Curso_Introduccion_Excel/2025_Diploma-excel-intro_Platzi.pdf) 
-    - Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Dato -> 0% -> [Diploma]()
+    - Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Dato -> 100% -> [Diploma]()
 
 - Excel Intermedio
-    - Curso de Excel Intermedio para Analistas con Tableros y Fórmulas -> 0% -> [Diploma]()
+    - Curso de Excel Intermedio para Analistas con Tableros y Fórmulas -> 1% -> [Diploma]()
     
 - Excel Avanzado
     - Curso de Excel Avanzado para Análisis de Datos -> 0% -> [Diploma]()
