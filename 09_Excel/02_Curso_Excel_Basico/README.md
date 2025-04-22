@@ -390,6 +390,8 @@ REPASAR
 
 
 
+
+
 1.
 ¿Cuáles son los 3 principios de aprendizaje para obtener resultados positivos en cualquier lectura o tema que debas estudiar?
 Buena actitud, compromiso por tomar acción y constancia.
@@ -412,10 +414,7 @@ Una lista o esqueleto de los puntos e ideas que dividen o desarrollan el tema co
 
 6.
 ¿Cuál es el objetivo de la lectura superficial?
-Saber de qué se trata el libro mediante un prefacio completo en tu sistema de notas.
-Saber de qué se trata el libro mediante la técnica Quiz and Recall.
-Saber cómo aplicar por encima el sistema de notas rápidas en el libro.
-Repasar
+Saber de qué trata el libro o texto en una sola frase o idea a nivel general.
 
 7.
 ¿Cómo podrías identificar un argumento del texto?
@@ -423,10 +422,7 @@ Encontrando la intención del autor que quiere compartirte o la problemática m�
 
 8.
 ¿Cuál es el objetivo de tomar notas rápidas y utilizar marcas dentro de la lectura activa?
-Tener una interacción con el libro de forma visual-espacial a través de superficies.
-Hacer un resumen completo del libro dentro del mismo libro.
-Aplicar la pirámide del aprendizaje a la inversa, es muy importante leer el libro a distancia para concentrarse mejor.
-Repasar
+Tener una conversación o interacción con el autor para combinar tu comprensión actual con el conocimiento nuevo.
 
 9.
 ¿Para qué sirve el "Glosario Ninja" de vocabulario, conceptos o términos frecuentes del autor?
@@ -438,10 +434,7 @@ Mediante una jerarquía por niveles como si fuera un árbol de información.
 
 11.
 ¿Cuál es la forma correcta de realizar cada repaso con tu guía de preguntas o con cualquier modelo de repaso?
-Repasar en este formato: en 1 día, en 2 días, en 3 días, en 5 días, 7 días y 15 días.
-Responder las preguntas mientras ves el texto para tener pistas para recordar toda la respuesta.
-Repasar preguntas nuevas aunque no las hayas estudiado para mejorar tu conocimiento previo.
-Repasar
+Responder las preguntas o ideas de memoria y al final auto evaluarte para corregir tus errores.
 
 12.
 ¿Cuáles son los principios de los 4 pasos para formar un hábito de lectura?
