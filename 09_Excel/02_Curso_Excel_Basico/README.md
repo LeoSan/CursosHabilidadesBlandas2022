@@ -316,7 +316,7 @@ Activa el modo ninja y deja de procrastinar.
 
 
 
-Examen : 
+## Formulas a preguntas e hipotesis 
 
 1.
 Los atajos en Excel son iguales en Mac, o si manejas Office en inglés o en Español.
@@ -387,9 +387,7 @@ REPASAR
 
 
 
-
-
-
+## Formulas a preguntas e hipotesis 
 
 
 1.

@@ -257,3 +257,280 @@ Para insertar un gráfico y seleccionar los datos en Excel, sigue estos pasos:
 - En el cuadro "Valores de la serie", haz clic en el botón "Seleccionar rango" y selecciona los datos que deseas incluir en la serie.
 - Repite los pasos 7 y 8 para agregar más series de datos.
 - Haz clic en "Aceptar" para cerrar el cuadro de diálogo "Seleccionar origen de datos".
+
+## Clase 11: Gráficos dinámicos
+
+> En nuestro viaje hacia la visualización de datos efectiva, los gráficos dinámicos se presentan como una herramienta revolucionaria, fusionando las gráficas convencionales con las poderosas tablas dinámicas. Estos gráficos no solo permiten representar información de manera visualmente atractiva y comprensible, sino que también ofrecen la capacidad de manipular y reorganizar los datos al instante. Esto es ideal para ambientes de trabajo ágiles o presentaciones ante clientes, donde los datos deben adaptarse y mostrarse de manera dinámica.
+
+
+
+Creación de un Gráfico Dinámico en Excel:
+
+Selección de la Información:
+Seleccionar los datos relevantes, como el nombre del vendedor y las ventas por mes.
+Inserción del Gráfico Dinámico:
+Ir a la ficha "Insertar" y seleccionar "Gráfico Dinámico".
+Elegir dónde se agregará el gráfico y confirmar la selección.
+Configuración del Gráfico Dinámico:
+Utilizar los campos de la tabla dinámica para definir categorías y valores.
+Seleccionar cálculos como suma o promedio para los valores.
+Exploración de la Información:
+Utilizar los botones de filtrado para ajustar la visualización del gráfico según los datos seleccionados.
+Aplicar segmentaciones de datos y escalas de tiempo para filtrar la información de manera rápida y sencilla.
+Funcionalidades Avanzadas:
+
+Análisis de Gráfico Dinámico:
+Insertar segmentaciones de datos y escalas de tiempo para filtrar la información.
+Actualizar o cambiar el origen de los datos según sea necesario.
+Diseño:
+Agregar y quitar elementos al gráfico, como títulos, etiquetas y líneas de tendencia.
+Personalizar colores, estilos y tipos de gráfico según las preferencias del usuario.
+Formato:
+Ajustar el formato del gráfico, incluyendo bordes, fondos y efectos visuales.
+Mostrar u ocultar botones y listas de campo para una visualización más limpia.
+
+## Clase 12: Fórmulas condicionales
+> No entendi nada 
+- % Búsquedas de Netflix y HBO en Perú: =SUMAR.SI(H4:H13;D5;I4:I13)+SUMAR.SI(H4:H13;D5;J4:J13)
+
+- Numero de paises con busquedas en amazon prime de 5% o Menos =CONTAR.SI(L5:L13;"<=5%")
+
+## Clase 13: BuscarV y BuscarH
+
+## ¿Cuál es la utilidad de la función Buscar B?
+La función Buscar B (VLOOKUP) es ideal para buscar valores en columnas verticales dentro de una tabla. Supongamos que dispones de una tabla extensa de ventas por vendedor, y deseas identificar rápidamente un vendedor mediante su ID, pero desconoces su nombre.
+
+
+Para emplear la función Buscar B:
+
+Ingrese el signo de igual: Inicia escribiendo =buscarB.
+Seleccione el valor de búsqueda: Escoge la celda que contiene el ID del vendedor.
+Determine el rango de la tabla: Selecciona el rango de columnas donde se encuentran los datos, asegurándote de que la primera columna contenga el valor que buscas.
+Especifique la columna de resultado: Introduce el número de la columna desde la cual deseas obtener el resultado. Por ejemplo, número 2 si deseas el nombre.
+Elige el tipo de coincidencia: Indica falso o 0 para coincidencia exacta.
+
+
+
+## ¿Cómo funciona la función Buscar H?
+La función Buscar H (HLOOKUP) efectúa búsquedas en filas horizontales, útil cuando quieres extraer datos específicos sobre ciertos meses para un vendedor en particular.
+
+Para aplicar la función Buscar H:
+
+Escribe el signo de igual: Empieza con =buscarH.
+Selecciona el valor de búsqueda: Escoge el mes sobre el que deseas información.
+Define el rango de la matriz: Selecciona las filas que contienen los datos relacionados con cada mes y ventas.
+Indica la fila del resultado: Escribe el número de fila donde se halla la información que necesitas.
+Selecciona el tipo de coincidencia: Opción por defecto es una búsqueda aproximada, pero puedes especificar 0 para exacta.
+
+## clase 14: Fórmulas anidadas
+
+## 
+
+
+## clase 15: Fórmulas de índice y coincidir
+> Las fórmulas ÍNDICE y COINCIDIR son herramientas poderosas en Excel que te permiten identificar posiciones y extraer datos de manera eficiente. 
+
+La Función INDICE
+Devuelve un valor en la intersección de una fila y columna específica. Por ejemplo, se puede hacer que Excel devuelva el valor en la intersección de la fila 2 y columna 3.
+
+Sintaxis → =INDICE(matriz, núm_fila, [núm_columna])
+
+La Función COINCIDIR
+
+Busca un valor en un rango de celdas y devuelve la posición relativa de ese valor en el rango. Por ejemplo, se puede hacer que Excel busque el nombre Nelson en una columna de apellidos y devuelva la ubicación en la columna en donde se encontró el nombre.
+
+Sintaxis → =COINCIDIR (valor_buscado, matriz_buscada, [tipo_de_coincidencia])
+
+
+## ¿Cómo se usa la fórmula índice?
+Para utilizar la fórmula ÍNDICE, es fundamental entender el propósito de cada uno de sus argumentos y cuándo usarlos:
+
+1. Primera opción: Ingresa la matriz, seguido por el número de fila y, de manera opcional, el número de columna.
+2. Segunda opción: Se puede emplear una referencia, indicando el número de fila, y opcionalmente, el número de columna y el número de área.
+
+## Ejemplo práctico de la fórmula índice
+
+Supongamos que trabajas con una tabla de gastos mensuales en donde deseas encontrar el nombre del mes en la primera celda de tu tabla. Aquí te explicamos cómo hacerlo:
+
+Escribe =ÍNDICE(.
+Selecciona toda tu tabla como la matriz.
+Indica el número de fila (por ejemplo, 1) y el número de columna (también 1).
+Cierra el paréntesis y presiona Enter.
+Realizado correctamente, podrás devolver el nombre del mes ubicado en la celda A1 de tu tabla.
+
+## ¿Cómo se aplica la fórmula coincidir?
+La fórmula COINCIDIR te permite encontrar la posición de un valor dentro de una fila o columna. Sigue estos pasos para usarla correctamente:
+
+Escribe =COINCIDIR(.
+Introduce el valor buscado, ya sea seleccionando una celda que contenga el texto o ingresándolo de forma manual.
+Selecciona la columna o fila donde deseas buscar.
+Finalmente, define el tipo de coincidencia. Puede ser exacta (escribe "0"), o aproximada (opcional).
+Ejemplo práctico de la fórmula coincidir
+Imaginemos que quieres saber en qué número de línea está determinado gasto dentro de una columna en tu tabla de gastos:
+
+Usa =COINCIDIR( para comenzar a escribir la fórmula.
+Ingresa el texto o selecciona una celda con el valor buscado.
+Selecciona la columna de búsqueda.
+Añade "0" para obtener una coincidencia exacta.
+
+
+## Clase 16: Fórmula anidada de índice + coincidir
+>  La combinación de las fórmulas de índice y coincidir en Excel es una herramienta poderosa que permite extraer datos de tablas de manera precisa y eficiente. Esta técnica no solo ahorra tiempo, sino que también optimiza la gestión de datos en procesos empresariales y educativos
+
+## ¿Qué pasos seguir para crear una fórmula anidada de índice y coincidir?
+Crear una fórmula anidada requiere una comprensión de cómo funcionan tanto las fórmulas de índice como las de coincidir. Aquí te presento una guía paso a paso sobre cómo llevar a cabo esta tarea:
+
+Seleccionar la matriz: La fórmula de índice necesita la matriz de datos de la que se extraerá la información. Es fundamental no incluir los encabezados de las filas y columnas en la selección de la matriz. Por ejemplo, seleccionar desde la celda B2 hasta la celda F10 asegura que solo se incluya la información relevante.
+
+Obtener el número de fila con la fórmula de coincidir: Para localizar la posición del concepto que deseas buscar, utiliza coincidir. Por ejemplo, si buscas un dato específico en celda J3, selecciona el rango A2:A10 (que contiene los conceptos) para encontrar la coincidencia exacta.
+
+Obtener el número de columna con coincidir: Este paso es similar al anterior, pero ahora nos enfocamos en las columnas. Utiliza coincidir para localizar la posición del mes, identificado en la celda K3, dentro del rango de meses.
+
+Completar la fórmula de índice: Integra los resultados obtenidos por las fórmulas de coincidir para completar la fórmula de índice. Esto extraerá la información correcta cruzando filas y columnas, como lograr el valor monetario exacto de un gasto específico.
+
+Asegurar la fórmula con referencias absolutas: Utilizando F4, puedes fijar los rangos seleccionados para que estos no cambien si copias la fórmula a otras celdas.
+
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_013.png)
+
+## Clase 17-18-19: Creación de dashboards: tabla de datos
+> La creación de dashboards en Excel es una habilidad crucial para el análisis y visualización de datos. Un dashboard bien diseñado permite a los usuarios obtener la información más relevante de forma visualmente atractiva y organizada. Vamos a explorar cómo estructurar uno desde cero, comenzando con la recopilación de datos en un único lugar hasta la presentación visual final
+
+
+## Pasos 
+
+- Paso 1: Crear una hoja  nueva 
+- Paso 2: Se recomienda quitar las cuadriculas pero mienstras estamos editando es mejor dejarselas 
+- Paso 3: Creamos nuestro diseño. encontrando y validando lo que se desea en el dashboard 
+- Paso 4: Hay que fijar celdas si usamos otras hojas en caso que se muevan podemos hacerlo con f4 
+- Paso 5: Podemos vaidar los valores en la parte inferior del excel como manera de validar las sumas 
+- paso 6: la manera de fijar es con el simbolo de $ en cada elemneto ejemplo (A1:F6) => Fijado ($A$1:$F$6)
+- paso 7: construimos la tabla validamos si todo bien pasamos a las graficas 
+- 
+
+
+## Lo que se desea 
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_014.png)
+
+## Lo que ase logro 
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_015.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_016.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_017.png)
+
+## Clase 20 : Buscar objetivo
+> La función principal de "Buscar objetivo" en Excel es encontrar un valor específico en una celda resultante de una fórmula, ajustando los parámetros de entrada. Esto permite que, al definir un resultado deseado (como un pago mensual en un préstamo), Excel determine automáticamente qué valor de entrada es necesario para alcanzar ese resultado. Es una herramienta poderosa para realizar análisis de datos y escenarios sin tener que modificar manualmente cada parámetro.
+
+Para calcular el pago mensual en un préstamo, debes usar la función de pago en Excel. La fórmula básica es:
+
+
+=PAAGO(tasa, nper, va)
+Donde:
+
+tasa: es la tasa de interés mensual.
+nper: es el número total de pagos (años x 12).
+va: es el valor actual del préstamo.
+Luego, puedes aplicar la función de buscar objetivo para ajustar el préstamo o el periodo según el pago mensual que deseas realizar.
+
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_018.png)
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_019.png)
+
+## Clase 21 : Administrador de escenarios
+> El Administrador de Escenarios en Excel es una herramienta útil para analizar diferentes escenarios en una hoja de cálculo. Con un poco de práctica y comprensión de los conceptos básicos de la herramienta, puedes utilizarla para realizar análisis de sensibilidad y entender cómo cambian los resultados de tu hoja de cálculo en función de diferentes variables.
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_020.gif)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_021.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_022.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_023.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_024.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_025.png)
+
+![Ejemplo](../../03_CursoExcel_Intermedio_AnalistasTablerosFormulas/info/info_026.png)
+
+
+
+
+## Formulas a preguntas e hipotesis 
+
+1.
+¿Cuál de las siguientes afirmaciones sobre tablas dinámicas NO es CORRECTA?
+Al crear una tabla dinámica, automáticamente aparece la sugerencia de filas y columnas de Excel.
+
+2.
+En un archivo de Excel, una columna contiene fechas en formato 'dd-mm-yyyy'. ¿Cómo puedes separar el día, el mes y el año en columnas diferentes utilizando la herramienta 'Texto en columnas'?
+Usar la opción 'Texto en columnas' y elegir el delimitador '-'.
+
+3.
+Al descargar una lista de clientes de una base de datos, notaste que algunos registros parecen estar duplicados. ¿Qué herramienta de Excel usarías para identificar y eliminar estos duplicados?
+Usar la función 'Quitar duplicados' en la pestaña de Datos.
+
+4.
+En un registro de ventas, deseas asegurarte de que solo se puedan ingresar valores de una lista predefinida en una columna específica. ¿Cómo configurarías esta validación?
+Aplicar la 'Validación de datos' con la opción 'Lista' y definir los valores permitidos.
+
+5.
+¿Cómo aplicarías un formato condicional para resaltar en verde los días con ventas superiores a $1000?
+Formato condicional con la opción 'Mayor que' y establecería el valor en 1000.
+
+6.
+¿Qué es un campo calculado?
+Es un campo que se utiliza dentro de las tablas dinámicas y se calcula con campos existentes.
+
+7.
+¿Qué tipo de gráfico sería el mejor para mostrar el tipo de cambio de los últimos 40 meses?
+Gráfica de línea.
+
+8.
+¿Qué es un gráfico dinámico y en qué se diferencia de un gráfico estándar en Excel?
+Un gráfico dinámico permite interactuar y cambiar los datos visualizados dinámicamente.
+
+9.
+¿Cómo usarías la función `SI` de Excel para determinar si las ventas en una celda son mayores a 1000 y devolver 'Alta' o 'Baja'?
+Usaría la fórmula `=SI(ventas>1000, "Alta", "Baja")`.
+
+10.
+¿Cuál es la diferencia principal entre las funciones BUSCARV y BUSCARH, y en qué casos se debe usar cada una?
+BUSCARV busca un valor en la primera columna de una tabla y devuelve un valor en la misma fila desde otra columna especificada. Se usa cuando los datos están organizados en columnas. BUSCARH busca en la primera fila y devuelve un valor en la misma columna desde una fila especificada, ideal para datos organizados en filas.
+
+11.
+Si quisieras calcular el valor máximo en un rango solo si todos los valores son mayores a cero, ¿qué fórmula usarías?
+MAX(A1:A10)
+Repasar
+
+12.
+¿Cuál es la manera de utilizar las funciones Indice + Coincidir para buscar un dato en Excel?
+
+=Indice(Rango de información, con encabezados, coincidir(valor buscado, rango encabezados de filas,0), coincidir (valor buscado, rango encabezados columna,0))
+
+=Indice(Rango de información, con encabezados, coincidir(valor buscado, rango encabezados de columnas,0), coincidir (valor buscado, rango encabezados filas,0))
+Repasar
+
+13.
+¿Para qué sirve un tablero o dashboard?
+Todas las opciones son correctas.
+
+14.
+¿Cómo puedes usar la función 'Buscar Objetivo' de Excel para encontrar el valor específico que hace que una fórmula alcance un resultado deseado?
+Modificando un valor de entrada en la fórmula.
+
+15.
+¿Cómo podrías guardar diferentes conjuntos de valores en Excel para evaluar distintos resultados futuros?
+Crear diferentes escenarios en el Administrador de Escenarios
+
+16. 
+¿Cuál es el primer paso para insertar un gráfico en Excel de tus datos?
+Seleccionar la tabla o rango de datos que deseas graficar.
+
+17. 
+Si tienes una lista de ventas por día y quieres sumar las ventas totales por semana usando una tabla dinámica, ¿qué campo agregarías a las filas?
+Agregar el campo 'Fecha' a las filas y agrupar por semanas.
+
+
+
