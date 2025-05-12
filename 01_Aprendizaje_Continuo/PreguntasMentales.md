@@ -100,3 +100,81 @@ REPASAR
 30.
 ¿Qué pensamiento es común al sentir el síndrome del impostor?
 Sentir que las cosas buenas que te suceden son solo por suerte y no por mérito propio.
+
+31. 
+En cualquier improvisación (la vida incluida), es obligatorio conservar el mismo personaje durante todo el tiempo
+
+32. 
+Siempre hay que luchar por tener el estatus más alto posible.
+
+33. 
+Las siglas PROL se refieren a
+
+34. 
+Lo realmente importante es
+
+35. 
+Al público hay que darle
+
+36. 
+Un buen consejo para despertar la creatividad es
+
+37. 
+No tienes que aspirar a ser "generos@", basta con que cumplas
+
+
+1.
+¿Cualquiera puede aprender a improvisar?
+Sí. Cualquiera.
+2.
+Para tener una buena comunicación es recomendable:
+Hablar la mitad y escuchar el doble
+3.
+Es mejor tomar una "mala decisión" que...
+no tomar ninguna.
+4.
+Lo realmente importante es...
+hacer
+5.
+Las siglas PROL se refieren a:
+Personajes, Relación, Objetivo y Lugar
+6.
+En cualquier improvisación (la vida incluida), es obligatorio conservar el mismo personaje durante todo el tiempo
+¡Totalmente falso!
+7.
+Siempre hay que luchar por tener el estatus más alto posible.
+Cierto. No te conformes con menos.
+Repasar
+
+8.
+¿Para qué sirve el fracaso?
+Para aprender.
+
+9.
+Si me equivoco en una actividad frente a público:
+
+Lo acepto con calma, porque sé que puede pasar. Continúo y procuro encontrar cómo capitalizar el error.
+
+10.
+No tienes que aspirar a ser "generos@", basta con que cumplas:
+tus sueños.
+Repasar
+
+11.
+Si no empezaste en la infancia, ya ni vale la pena comenzar. Esto aplica para todo lo importante en la vida.
+¡Falso de toda falsedad!
+12.
+Un buen consejo para despertar la creatividad es:
+
+Encontrar formas de unir ideas y conceptos que a simple vista parecen no coincidir.
+
+13.
+Al público hay que darle ______.
+Algo mejor de lo que busca.
+14.
+Poco antes de tu función/pitch/discurso/presentación debes...
+consentirte, apapacharte, recordarte que eres suficiente.
+15.
+Los juegos se pueden usar para:
+
+Todas las respuestas son correctas.
