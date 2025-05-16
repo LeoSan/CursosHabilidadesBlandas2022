@@ -27,21 +27,24 @@ Lo acepto con calma, porque sé que puede pasar. Continúo y procuro encontrar c
 
 8.
 Los juegos se pueden usar para:
-
 Todas las respuestas son correctas.
 
 9.
 Las personas con una Mentalidad de Crecimiento (Growth Mindset) creen...
 en todas estas afirmaciones.
+
 10.
 ¿Qué significa sentirse empoderado/a?
 Todas son correctas.
+
 11.
 ¿Qué es el círculo de influencia?
 Es trabajar la posibilidad de reducir el peso de lo que nos inquieta.
+
 12.
 Si alguien cree que nunca podrá aprender a programar...
 Seguramente tiene una mentalidad fija y no está trabajando sus creencias limitantes.
+
 13.
 ¿Cuáles son las categorías de los roles gerenciales de Mintzberg?
 Interpersonales, de información, de decisión.
@@ -53,21 +56,27 @@ Locus de control interno, inteligencia emocional, integridad, sensibilidad a los
 15.
 Es una emoción que sirve de alarma biológica, está diseñada por el cuerpo para cuidar nuestra seguridad, nos ayuda a detectar un peligro, evaluar nuestras capacidades y responder de alguna forma.
 Miedo
+
 16.
 La positividad efímera se ha ganado en los últimos años el nombre de:
 Positividad tóxica
+
 17.
 ¿Qué es la neofobia alimenticia?
 El miedo a probar nuevos alimentos.
+
 18.
 What 3 things must be included in a year-long study plan?
 Project deadlines, assignment due dates, special events.
+
 19.
 What one thing from this list will decrease your reading confidence?
 Avoiding reading at all costs.
+
 20.
 Which answer is an example of a growth mindset reframe?
 I’m always nervous in job interviews, but some time with a mentor could really help with my confidence.
+
 21.
 Complete the sentence correctly: Instead of viewing criticism and rejection as a negative experience…
 reframe it as support and guidance.
@@ -121,11 +130,52 @@ Un buen consejo para despertar la creatividad es
 
 37. 
 No tienes que aspirar a ser "generos@", basta con que cumplas
+tus sueños.
+Repasar
 
+38. 
+Esto es casi una negación, una negación sutil, velada; el profe dice que es "el hijo bastardo del NO"
+El "sí-pero"
 
-1.
+39. 
+El enojo puede ser una máscara para esconder otra emoción como
+La tristeza o la decepción
+
+40.
+Poco antes de tu función/pitch/discurso/presentación debes...
+consentirte, apapacharte, recordarte que eres suficiente.
+
+41. 
+¿Cuál es el objetivo de jugar?
+Jugar, explorar, entretener tu cerebro.
+
+42.
+Mi propuesta debe ser recibida por los demás como
+un regalo
+
+43. 
+¿Tienes derecho a expresar fuerte y claro lo que necesitas?
+Sí-y también lo que opino, deseo, pienso y anhelo
+
+44. 
+La frase de Buda "todo lugar es aquí y todo momento es ahora" significa que
+Debes vivir el presente y no preocuparte demasiado por el pasado o el futuro.
+
+45. 
+Esta frase quiere decir que debes darlo todo, comprometerte con lo que estás haciendo
+Sigue jugando hasta que te apaguen la luz
+
+46.
 ¿Cualquiera puede aprender a improvisar?
 Sí. Cualquiera.
+
+
+
+
+
+
+
+
 2.
 Para tener una buena comunicación es recomendable:
 Hablar la mitad y escuchar el doble
@@ -155,26 +205,19 @@ Si me equivoco en una actividad frente a público:
 
 Lo acepto con calma, porque sé que puede pasar. Continúo y procuro encontrar cómo capitalizar el error.
 
-10.
-No tienes que aspirar a ser "generos@", basta con que cumplas:
-tus sueños.
-Repasar
+
 
 11.
 Si no empezaste en la infancia, ya ni vale la pena comenzar. Esto aplica para todo lo importante en la vida.
 ¡Falso de toda falsedad!
+
 12.
 Un buen consejo para despertar la creatividad es:
-
 Encontrar formas de unir ideas y conceptos que a simple vista parecen no coincidir.
 
 13.
 Al público hay que darle ______.
 Algo mejor de lo que busca.
-14.
-Poco antes de tu función/pitch/discurso/presentación debes...
-consentirte, apapacharte, recordarte que eres suficiente.
-15.
-Los juegos se pueden usar para:
 
-Todas las respuestas son correctas.
+
+
