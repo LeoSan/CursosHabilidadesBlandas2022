@@ -23,25 +23,26 @@ Crear una fórmula que debo añadir a cada columna correspondiente.
 6.
 Si en tu trabajo NO tienen la cuenta Pro de Zapier y necesitas hacer al menos 100 automatizaciones al mes, ¿qué harías?
 Le pediría a mis superiores que compren la versión Pro de Zapier porque nos hará más productivos.
+Busco otra herramienta de automatizaciones que se adapte a las necesidades que demanda mi trabajo.
 Repasar
 
-7.
+8.
 Si tengo una lista de pendientes, pero mi equipo no la revisa, ¿qué haría?
 Integraría Notion con la herramienta de comunicación interna que usamos (por ejemplo, Slack) para que les llegue una notificación automáticamente a las personas a las que les asigno una tarea.
 
-8.
+9.
 Si voy a crear varias páginas en Notion con la misma estructura, ¿qué herramienta me convendría utilizar a nivel de productividad?
 Un template buttom, para evitar crear páginas desde cero. Solo doy un clic y ya tengo una plantilla que creé previamente y la podré replicar las veces que quiera.
 
-9.
+10.
 Si soy un consultor externo para una empresa y uso Notion como mi oficina virtual, ¿es recomendable brindar a mi cliente un full access al workspace que le creamos?
 No, es preferible solo compartirle el link con todas las opciones de edición deshabilitadas para evitar que elimine o modifique algo por error.
 
-10.
-Si alguien de mi equipo de diseño requiere información financiera o administrativa para un caso en particular, ¿qué debería hacer?
-Le pediría que el cliente le mande un correo para confirmar la solicitud y posteriormente le daría acceso a las páginas de finanzas o administrativos para que busque lo que necesita.
-Repasar
-
 11.
+Si alguien de mi equipo de diseño requiere información financiera o administrativa para un caso en particular, ¿qué debería hacer?
+No le brindaría el acceso porque es información sensible de la empresa. Le diría que me indique la información o documentos que busca y solo le compartiría lo que necesite, así protego datos sensibles de la empresa.
+
+12.
 ¿Qué puedo hacer con una oficina virtual?
+
 Todas las opciones son correctas.
