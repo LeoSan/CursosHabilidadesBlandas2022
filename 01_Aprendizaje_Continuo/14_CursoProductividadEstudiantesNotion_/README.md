@@ -28,6 +28,7 @@ Repasar
 7.
 ¿Cómo se llama el Método para organizar mejor tus notas?
 ACERO: Argumentar, Concluir, Evidenciar, Rellenar y Organizar.
+ACERO: Argumentos, Conclusiones, Evidencias, Retención, Orden
 Repasar
 
 8.
