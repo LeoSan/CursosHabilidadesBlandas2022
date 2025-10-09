@@ -21,15 +21,11 @@ Cuando estás ocupado(a) y no sabes dónde organizar la nota.
 
 6.
 ¿Qué hay dentro de una biblioteca de conocimiento académica?
-Todos tus apuntes profesionales, personales y académicos en forma de lista.
-Repasar
-
+Todos tus apuntes académicos, organizados por tipo y categoría.
 
 7.
 ¿Cómo se llama el Método para organizar mejor tus notas?
-ACERO: Argumentar, Concluir, Evidenciar, Rellenar y Organizar.
-ACERO: Argumentos, Conclusiones, Evidencias, Retención, Orden
-Repasar
+ACERO: Argumentos, Conclusiones, Evidencias, Relleno y Organización.
 
 8.
 ¿Para qué sirven las preguntas del Método de Cornell?
@@ -69,3 +65,8 @@ El hábito debe tener: Señal, Deseo, Acción, Recompensa.
 Los 3 principios que necesitas para tener resultados duraderos en tu estudio, son:
 
 No procrastinar, tomar acción desde el día 1 y tener una actitud positiva al usar el Arma Ninja de Notion.
+
+
+¿En qué pilar es donde desarrollas el hábito de definir tus prioridades del día?
+Sistema de Hábitos
+repasar
