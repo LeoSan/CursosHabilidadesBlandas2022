@@ -227,6 +227,29 @@ Las fórmulas de texto en Excel son esenciales para quienes trabajan con datos e
 
 - ALEATORIO(a,b) Nos retorna un entero aleatorio entre a y b. OJO si lo arrastramos se imprimiran valores diferentes.
 
+
+Usso de Elemtnos 
+- Relativos:  A1 
+- absolutos: $A$1 
+- Mixto: $A1 ó A$1   
+
+Reto Solucionado 
+
+![alt text](image.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## clase 19: Las fórmulas lógicas 
 
 > Las fórmulas lógicas son herramientas fundamentales en Excel que pueden transformar tus hojas de cálculo en potentes plataformas de análisis de datos. Entender cómo funcionan los operadores lógicos I (AND) y O (OR)
