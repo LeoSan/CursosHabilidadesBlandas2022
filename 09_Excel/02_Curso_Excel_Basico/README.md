@@ -228,7 +228,7 @@ Las fórmulas de texto en Excel son esenciales para quienes trabajan con datos e
 - ALEATORIO(a,b) Nos retorna un entero aleatorio entre a y b. OJO si lo arrastramos se imprimiran valores diferentes.
 
 
-Usso de Elemtnos 
+Usso de Elementos  
 - Relativos:  A1 
 - absolutos: $A$1 
 - Mixto: $A1 ó A$1   
