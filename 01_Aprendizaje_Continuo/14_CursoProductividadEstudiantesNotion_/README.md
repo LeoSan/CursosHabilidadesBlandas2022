@@ -69,4 +69,67 @@ No procrastinar, tomar acción desde el día 1 y tener una actitud positiva al u
 
 ¿En qué pilar es donde desarrollas el hábito de definir tus prioridades del día?
 Sistema de Hábitos
+
 repasar
+
+
+--- 
+## Formulas a preguntas e hipotesis 
+
+
+1.
+¿Cuáles son los 3 principios de aprendizaje para obtener resultados positivos en cualquier lectura o tema que debas estudiar?
+Buena actitud, compromiso por tomar acción y constancia.
+
+2.
+¿Cuáles son las barreras de la lectura comprensiva?
+Falta de planeación, lectura pasiva, falta de contexto, falta de práctica y falta de autoconcepto.
+
+3.
+¿Cuáles son las 2 características del "Santuario de la Concentración"?
+Un espacio exclusivo para la lectura y cero distracciones.
+
+4.
+¿Cuáles son los 3 objetivos de lectura?
+Entretenimiento, búsqueda de información o formación personal, entendimiento profundo.
+
+5.
+¿Qué es un borrador de lectura?
+Una lista o esqueleto de los puntos e ideas que dividen o desarrollan el tema completo.
+
+6.
+¿Cuál es el objetivo de la lectura superficial?
+Saber de qué trata el libro o texto en una sola frase o idea a nivel general.
+
+7.
+¿Cómo podrías identificar un argumento del texto?
+Encontrando la intención del autor que quiere compartirte o la problemática más importante que resolvió.
+
+8.
+¿Cuál es el objetivo de tomar notas rápidas y utilizar marcas dentro de la lectura activa?
+Tener una conversación o interacción con el autor para combinar tu comprensión actual con el conocimiento nuevo.
+
+9.
+¿Para qué sirve el "Glosario Ninja" de vocabulario, conceptos o términos frecuentes del autor?
+Para hablar en los mismos términos del autor.
+
+10.
+¿Cuál es la mejor forma para capturar tus notas de forma organizada? (funciona para ambos formatos).
+Mediante una jerarquía por niveles como si fuera un árbol de información.
+
+11.
+¿Cuál es la forma correcta de realizar cada repaso con tu guía de preguntas o con cualquier modelo de repaso?
+Responder las preguntas o ideas de memoria y al final auto evaluarte para corregir tus errores.
+
+12.
+¿Cuáles son los principios de los 4 pasos para formar un hábito de lectura?
+La lectura debe ser: obvia, atractiva, fácil y satisfactoria.
+
+13.
+¿Cuál es la mejor manera de obtener resultados positivos en tu lectura?
+Aplicando las técnicas en situaciones reales para hacer ajustes y llevar a cabo la práctica deliberada.
+
+14.
+¿Qué es el "Modo Ninja"?
+Es el poder interior que se activa cuando tomas acción con las técnicas de forma constante sin miedo al fracaso con una actitud ultra-positiva.
+
