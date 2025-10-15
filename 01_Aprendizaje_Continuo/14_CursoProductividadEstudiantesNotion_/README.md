@@ -133,3 +133,71 @@ Aplicando las técnicas en situaciones reales para hacer ajustes y llevar a cabo
 ¿Qué es el "Modo Ninja"?
 Es el poder interior que se activa cuando tomas acción con las técnicas de forma constante sin miedo al fracaso con una actitud ultra-positiva.
 
+--- 
+
+Un resumen sencillo acerca de lo que vimos en el curso
+Regla #1:
+Elimina las barreras que detienen tu comprensión lectora.
+Identificar obstáculos en lectura y proponer 1 solución par ano detenerse tanto en la lectura.
+Regla #2:
+Crea tu santuario de la concentración.
+Definir un Espacio exclusivo de lectura y estudio donde tengas todos tus útiles y no exista la distracción.
+Regla #3:
+Establece objetivos de lectura alcanzables.
+Definir:
+¿Que tipo de libro vas a leer?
+¿Qué es lo que buscas?
+¿Qué es lo que quieres lograr?
+¿Qué es lo que necesitas comprender?
+¿Qué tipo de información es la que te interesa?
+¿Cuánto tiempo tienes para hacerlo?
+¿Cuántas páginas tiene?
+¿La Cantidad de Páginas al día?
+¿Por volumen?
+¿Por velocidad?
+Regla #4:
+Crea un borrador de lectura con la lectura exploratoria.
+Dar visión general del libro para capturar cuales son las ideas generales, los títulos, subtítulos, subtemas.
+Crear una lista con toda la información que tienes que leer.
+Regla #5:
+Lee superficialmente para construir contexto previo.
+La lectura exploratoria es a nivel general
+La lectura superficial es caminar un poco más rápido para generar más contexto y ese marco del rompe cabezas.
+Generar lista de preguntas sobre lo que te gustaría responder o entender en la lectura.
+Regla #6:
+Identifica la anatomía del texto mediante argumentos, conclusiones y evidencias.
+Definirlo por el método ACERO
+Argumento:
+Un texto tiene un Argumentl
+Concluciones
+Los Argumentos se explican a través de Concluciones
+Evidencias
+Datos que justifican el Argumento
+Relleno
+Ejemplos o conceptos que no te interesan.
+Orden
+Todas las ideas
+Regla #7:
+Lee activamente y conversa con el autor.
+Tomar anotaciones rápidas a los costados del libro.
+Poner un sistema de marcas como: Guiones, asteriscos, corchetes, círculos, flechas para comunicarte con el autor.
+Regla #8:
+Crea tu glosario ninja para hablar en los términos del autor.
+Para facilitar la asociación de la lectura en los términos del autor.
+Regla #9:
+Explica lo que leíste a través de un sistema de notas.
+Para simplificar todo lo que haz leído a tus propios términos con tus propias ideas.
+Por Jerarquías: Argumentos, Conclusiones, Evidencias.
+Regla #10:
+Recuerda lo que lees mediante un sistema de repaso activo.
+Recordando de Memoria.
+Por Notas, por Jerarquías, por Fichas: Pregunta - Respuesta.
+Regla #11:
+Haz de la lectura un hábito sólido en tu vida.
+Aceptando el procedimiento como satisfactorio.
+Mediante tu medidor de hábitos y tu lista de libros.
+Regla #12:
+Activa el modo ninja y deja de procrastinar.
+
+
+
