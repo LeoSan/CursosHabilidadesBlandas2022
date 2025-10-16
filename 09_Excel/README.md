@@ -1,6 +1,6 @@
 # Listado de Cursos en Excel 
 - Inicio: Abril 2025 
-- Finalizar: Junio 2025 
+- Finalizar: Diciembre 2025 
 
 > En mi reflexión personal, considero esencial aplicar la técnica de "re-aprender" para mi desarrollo profesional. Esto implica retomar conceptos básicos y actualizar mis conocimientos, incluso en áreas donde ya tengo experiencia. Por ejemplo, aunque llevo años utilizando Excel, siempre descubro nuevas funcionalidades y conceptos que enriquecen mi dominio de la herramienta. Regresar a los fundamentos no es retroceder, sino construir una base sólida para ascender a un nivel superior. Si visualizamos el aprendizaje como una montaña, descender brevemente nos permite fortalecer nuestras bases y facilita el ascenso posterior
 
