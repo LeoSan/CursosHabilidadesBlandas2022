@@ -560,3 +560,69 @@ Copilot es un **asistente experto** que entiende el **lenguaje natural**, elimin
   * $\text{Crea 1 gráfico dinámico de barras para Monto por Categoría.}$
   * $\text{Resalta las filas de amarillo cuando las celdas sean mayores que 10,000 en la columna "Monto".}$
   * $\text{¿Me podrías generar información clave sobre estos datos?}$
+  * 
+
+ --- 
+ ## Resumen 
+
+ 1.
+Según la promesa central del instructor, ¿cuál es el resultado más significativo que un estudiante que trabaja frecuentemente con hojas de cálculo puede esperar tras completar el curso?
+Una reducción notable del tiempo dedicado a tareas diarias mediante la automatización y optimización de sus flujos de trabajo.
+
+2.
+Para crear un gráfico de líneas que muestre la evolución de los montos de ingresos a lo largo del tiempo, se necesita seleccionar la columna de fechas y la columna de montos, que no están juntas. ¿Cuál es el procedimiento correcto en Excel para seleccionar estos dos rangos de datos no contiguos?
+Seleccionar la primera columna, mantener presionada la tecla ‘Ctrl’ y luego seleccionar la segunda columna.
+
+3.
+De acuerdo con la clase, ¿cuál es la principal ventaja analítica de usar ChatGPT para revisar un presupuesto personal en comparación con usar únicamente herramientas como Excel?
+Puede analizar la información para interpretar datos, detectar patrones sutiles y proponer un plan de acción narrativo.
+
+4.
+¿Cuál es la función específica de la fórmula `=ÚNICOS(rango)` en el proceso de creación de una lista de validación, tal como se muestra en la clase?
+Extraer una lista de valores sin duplicados de una columna para usarla como el origen de datos.
+
+5.
+¿Cuál es la principal restricción de la función BUSCARV que la función BUSCARX soluciona de manera nativa?
+No puede devolver valores de columnas ubicadas a la izquierda de la columna de búsqueda.
+
+6.
+Al revisar las opciones en 'Imprimir títulos', ¿por qué la función 'Repetir filas en extremo superior' está en una pestaña diferente ('Hoja') a la de 'Encabezado y pie de página'?
+Porque los 'Encabezados y pies de página' solo aceptan texto, mientras que 'Repetir filas' puede contener fórmulas y formatos.
+**Repasar**
+
+7.
+Un gestor de inventario necesita actualizar en una hoja de cálculo todas las instancias del producto 'Lápiz' a 'Lápiz HB'. ¿Cuál es el método más eficiente para realizar esta tarea masiva, según lo enseñado en la clase?
+Usar el atajo Ctrl+L y la función ‘Reemplazar todos’.
+
+8.
+Después de registrar sus 30 transacciones, Camila usa la fórmula =CONTAR(rango) y obtiene como resultado 29. Inmediatamente después, usa =CONTARA(rango) sobre el mismo grupo de celdas y el resultado es 30. ¿Cuál es la causa más probable de esta diferencia en los resultados?
+Una de las celdas del rango está completamente vacía, y CONTARA sí cuenta las celdas vacías.
+**Repasar**
+  
+10.
+¿Cuál de las siguientes opciones describe una característica fundamental de una 'tabla normalizada' en Excel, según los principios presentados en clase?
+La información debe ser continua, sin filas o columnas en blanco, y cada columna debe tener una cabecera.
+
+11.
+Un analista recibe múltiples tablas en una hoja, una por cada día de la semana. Las tablas comparten las mismas columnas, pero la fecha específica está como un título encima de cada tabla. Para consolidar estos datos en una única tabla funcional, ¿cuál sería la acción estructural clave a realizar?
+Añadir una nueva columna llamada 'Fecha de movimiento' y rellenarla con la fecha correspondiente para cada bloque de datos.
+
+12.
+Para calcular la duración de un proyecto en días laborables, que va desde una fecha de inicio en A2 hasta una fecha de fin en B2, excluyendo los fines de semana de sábado y domingo y una lista de feriados en el rango F2:F5, ¿cuál es la fórmula más completa y precisa?
+=DIAS.LAB.INTL(A2, B2, 1, $F$2:$F$5)
+
+13.
+Un gerente te entrega un archivo de Excel para analizar el rendimiento de tres áreas: 'Ventas', 'Operaciones' y 'Marketing'. Al abrir el libro, ves que toda la información está mezclada en una sola hoja. Aplicando las buenas prácticas de organización vistas en clase, ¿cuál sería la primera acción estratégica que deberías tomar para estructurar el archivo de manera más clara y eficiente?
+Crear tres hojas de cálculo, nombrarlas 'Ventas', 'Operaciones' y 'Marketing', y asignar un color de pestaña a cada una para una fácil identificación visual.
+
+14.
+Un usuario aplica dos fórmulas distintas a un registro de gastos: A1 = SUMAR.SI(B2:B50; "Entretenimiento"; C2:C50) y A2 = CONTAR.SI(B2:B50; "Entretenimiento"). ¿Qué tipo de información proporcionarán las celdas A1 y A2, respectivamente?
+A1 mostrará el monto total en dinero gastado en entretenimiento, y A2 mostrará el número de transacciones de entretenimiento.
+
+15.
+Al visualizar ingresos en un gráfico de barras, las etiquetas de datos aparecen con decimales (ej. $25,300.75), lo cual genera ruido visual. ¿Cuál es el procedimiento correcto dentro de 'Formato de etiquetas de datos' para mostrar los valores como números enteros con signo de pesos (ej. $25,301)?
+Ir a la pestaña 'Número' y aplicar un código de formato personalizado.
+
+16.
+Al copiar una fórmula como `=B5*C5` hacia abajo en una columna, ¿por qué podrían aparecer errores o resultados incorrectos si la intención era multiplicar cada fila por un valor fijo ubicado únicamente en la celda C5?
+Porque la referencia a C5 es relativa y, por naturaleza, Excel la desplazará hacia abajo (a C6, C7, etc.) al correr la fórmula.
