@@ -635,7 +635,7 @@ La segunda columna del rango H5:J50, que corresponde a la columna I.
 19.
 Al consolidar varias tablas, un analista se da cuenta de que la última tabla contiene una columna adicional, 'Departamento', que no existe en las tablas anteriores. ¿Cuál es la estrategia correcta para integrar toda la información en una única sábana de datos coherente, según lo explicado al final de la clase?
 Crear una segunda tabla separada que contenga únicamente la información del departamento.
-
+**Repasar**
 
 20. 
 Un gerente desea crear un informe que muestre automáticamente el estado "Aprobado" o "Reprobado" para cada empleado según su cifra de ventas, la cual se encuentra en una tabla separada. Para lograr esto, ¿qué combinación de las funciones mencionadas en el curso sería la más adecuada?
@@ -681,4 +681,26 @@ Usar Copilot para todo el proceso, ya que está mejor integrado con los datos de
 31.
 Un analista financiero crea dos tablas dinámicas separadas: una para ingresos por mes y otra para gastos por categoría. Al insertar un segmentador de datos por 'Tipo' (ingreso/gasto), nota que solo filtra la primera tabla. ¿Cuál es el procedimiento correcto descrito en la clase para que este único segmentador controle ambas tablas dinámicas y sus gráficos asociados?
 
-SSeleccionar el segmentador, ir a la pestaña 'Segmentación' y usar la opción 'Conexiones de informes' para vincularlo a ambas tablas dinámicas.
+Seleccionar el segmentador, ir a la pestaña 'Segmentación' y usar la opción 'Conexiones de informes' para vincularlo a ambas tablas dinámicas.
+
+
+32.
+En la clase se menciona que para agrupar los ingresos por subcategorías (ej. sumar todos los 'freelance') antes de graficarlos en un gráfico de pie, se necesita una herramienta específica. ¿Cuál es la herramienta que se introdujo como la solución para este problema?
+Los gráficos dinámicos.
+
+34.
+¿Qué cambio estructural en los argumentos de BUSCARX, en comparación con BUSCARV, le otorga mayor flexibilidad?
+Separa la matriz donde se busca el valor y la matriz de donde se devuelve el valor en dos argumentos distintos.
+
+
+35.
+su jefe le entrega una tabla de productos que tiene una columna llamada 'Detalle de Producto' con entradas como 'Acer Computadora Netbook'. Si le piden un informe sobre las ventas por marca, ¿por qué esta estructura de datos es inadecuada para responder a esa pregunta?
+Porque la columna mezcla la marca, el tipo de producto y la descripción, lo que impide el análisis independiente de cada elemento.
+
+36. 
+Un empleado necesita analizar un gran conjunto de datos de ventas para resumir rápidamente los totales por región y por producto. ¿Qué herramienta de las mencionadas en la introducción del curso sería la más eficiente para realizar este tipo de análisis?
+Las tablas dinámicas.
+
+37. 
+Camila tiene un archivo con múltiples tablas y gráficos en una sola hoja. Si solo quiere imprimir una tabla específica que ocupa las celdas de A10 a F50, ¿cuál es el método más directo y preciso para lograrlo desde la ventana de impresión (Control+P)?
+Seleccionar el rango de celdas A10:F50 en la hoja y luego elegir 'Imprimir selección' en el menú de configuración de impresión.
