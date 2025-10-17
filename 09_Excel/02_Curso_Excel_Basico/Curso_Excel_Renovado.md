@@ -650,6 +650,7 @@ La aparición de la pestaña contextual 'Diseño de tabla' al seleccionar cualqu
 23.
 Al revisar una tabla de gastos, nota que se han insertado filas con el texto 'Subtotal del mes' y su respectivo cálculo directamente debajo de los datos de cada mes. ¿Cuál es la consecuencia más directa de esta práctica al intentar sumar la columna de montos para obtener el total anual?
 
+
 24.
 Un gerente de contabilidad quiere asegurarse de que sus empleados solo puedan ingresar "Fijo" o "Variable" en la columna "Tipo de Gasto", bloqueando completamente cualquier otro valor para mantener la integridad de los datos. ¿Qué estilo de mensaje de error debe configurar en la Validación de datos para lograr este objetivo?
 **Repasar**
@@ -657,3 +658,27 @@ Un gerente de contabilidad quiere asegurarse de que sus empleados solo puedan in
 25.
 Tomando como base los principios de 'prompt engineering' explicados en la clase, ¿cuál de los siguientes prompts sería el más efectivo para que un estudiante analice su presupuesto y busque ahorrar para un viaje de 25,000 MXN en 4 meses?
 Analiza mi presupuesto adjunto. Mi meta es ahorrar 25,000 en 4 meses. Identifica patrones, sugiere reducciones y crea un plan mensual. Estructura tu respuesta en: Resumen, Oportunidades de Ahorro y Plan Mensual.
+
+26.
+Un analista de ventas ha organizado los datos de sus tiendas en pestañas separadas, una para cada mes del año. Según los principios de estructuración de datos vistos en clase, ¿qué problema principal enfrentará al intentar calcular las ventas totales del trimestre?
+Tendrá dificultades para consolidar y sumar la información de todas las pestañas de manera eficiente.
+
+28.
+Camila quiere crear una alerta que identifique cualquier gasto clasificado como 'prescindible' O como 'imprevisto' para marcarlo como 'Recortar gasto'. Si ninguna de estas dos condiciones se cumple, debe marcarse como 'Ok'. ¿Qué fórmula anidada debe usar para lograr esto correctamente
+SI(A2="prescindible"; "Recortar gasto"; "Ok")
+**REPASAR**
+
+
+29.
+¿Cuál es la regla fundamental sobre el uso de paréntesis al escribir cualquier fórmula o función en Excel, según lo enfatizado en la clase?
+Todo paréntesis que se abre debe cerrarse obligatoriamente.
+
+30.
+Un usuario necesita crear una fórmula compleja en Excel para visualizar su ahorro mensual, pero también desea un informe narrativo que interprete sus patrones de gasto y proponga un plan de ahorro. Según lo explicado, ¿cómo debería distribuir estas tareas entre ChatGPT y Copilot?
+Usar Copilot para todo el proceso, ya que está mejor integrado con los datos de Excel.
+**REPASAR**
+
+31.
+Un analista financiero crea dos tablas dinámicas separadas: una para ingresos por mes y otra para gastos por categoría. Al insertar un segmentador de datos por 'Tipo' (ingreso/gasto), nota que solo filtra la primera tabla. ¿Cuál es el procedimiento correcto descrito en la clase para que este único segmentador controle ambas tablas dinámicas y sus gráficos asociados?
+
+SSeleccionar el segmentador, ir a la pestaña 'Segmentación' y usar la opción 'Conexiones de informes' para vincularlo a ambas tablas dinámicas.
