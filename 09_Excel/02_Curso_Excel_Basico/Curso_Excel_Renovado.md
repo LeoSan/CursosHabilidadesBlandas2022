@@ -565,7 +565,7 @@ Copilot es un **asistente experto** que entiende el **lenguaje natural**, elimin
  --- 
  ## Resumen 
 
- 1.
+1.
 Según la promesa central del instructor, ¿cuál es el resultado más significativo que un estudiante que trabaja frecuentemente con hojas de cálculo puede esperar tras completar el curso?
 Una reducción notable del tiempo dedicado a tareas diarias mediante la automatización y optimización de sus flujos de trabajo.
 
@@ -588,13 +588,14 @@ No puede devolver valores de columnas ubicadas a la izquierda de la columna de b
 6.
 Al revisar las opciones en 'Imprimir títulos', ¿por qué la función 'Repetir filas en extremo superior' está en una pestaña diferente ('Hoja') a la de 'Encabezado y pie de página'?
 Porque los 'Encabezados y pies de página' solo aceptan texto, mientras que 'Repetir filas' puede contener fórmulas y formatos.
+Porque 'Repetir filas' solo se puede usar si se imprime todo el libro, y 'Encabezados' se aplica a hojas individuales.
 **Repasar**
 
-7.
+8.
 Un gestor de inventario necesita actualizar en una hoja de cálculo todas las instancias del producto 'Lápiz' a 'Lápiz HB'. ¿Cuál es el método más eficiente para realizar esta tarea masiva, según lo enseñado en la clase?
 Usar el atajo Ctrl+L y la función ‘Reemplazar todos’.
 
-8.
+9.
 Después de registrar sus 30 transacciones, Camila usa la fórmula =CONTAR(rango) y obtiene como resultado 29. Inmediatamente después, usa =CONTARA(rango) sobre el mismo grupo de celdas y el resultado es 30. ¿Cuál es la causa más probable de esta diferencia en los resultados?
 Una de las celdas del rango está completamente vacía, y CONTARA sí cuenta las celdas vacías.
 **Repasar**
@@ -626,3 +627,33 @@ Ir a la pestaña 'Número' y aplicar un código de formato personalizado.
 16.
 Al copiar una fórmula como `=B5*C5` hacia abajo en una columna, ¿por qué podrían aparecer errores o resultados incorrectos si la intención era multiplicar cada fila por un valor fijo ubicado únicamente en la celda C5?
 Porque la referencia a C5 es relativa y, por naturaleza, Excel la desplazará hacia abajo (a C6, C7, etc.) al correr la fórmula.
+
+17. 
+Si utilizas la fórmula =BUSCARV(A2, H5:J50, 2, 0), ¿qué representa el número '2' en esta sintaxis específica?
+La segunda columna del rango H5:J50, que corresponde a la columna I.
+
+19.
+Al consolidar varias tablas, un analista se da cuenta de que la última tabla contiene una columna adicional, 'Departamento', que no existe en las tablas anteriores. ¿Cuál es la estrategia correcta para integrar toda la información en una única sábana de datos coherente, según lo explicado al final de la clase?
+Crear una segunda tabla separada que contenga únicamente la información del departamento.
+
+
+20. 
+Un gerente desea crear un informe que muestre automáticamente el estado "Aprobado" o "Reprobado" para cada empleado según su cifra de ventas, la cual se encuentra en una tabla separada. Para lograr esto, ¿qué combinación de las funciones mencionadas en el curso sería la más adecuada?
+
+La función SI para establecer la condición y la función SUMAR para calcular el rendimiento.
+**Repasar**
+
+21.
+¿Cuál es el principal indicador visual en la interfaz de Excel que confirma que un rango de datos se ha convertido correctamente a formato de tabla?
+La aparición de la pestaña contextual 'Diseño de tabla' al seleccionar cualquier celda dentro del rango.
+
+23.
+Al revisar una tabla de gastos, nota que se han insertado filas con el texto 'Subtotal del mes' y su respectivo cálculo directamente debajo de los datos de cada mes. ¿Cuál es la consecuencia más directa de esta práctica al intentar sumar la columna de montos para obtener el total anual?
+
+24.
+Un gerente de contabilidad quiere asegurarse de que sus empleados solo puedan ingresar "Fijo" o "Variable" en la columna "Tipo de Gasto", bloqueando completamente cualquier otro valor para mantener la integridad de los datos. ¿Qué estilo de mensaje de error debe configurar en la Validación de datos para lograr este objetivo?
+**Repasar**
+
+25.
+Tomando como base los principios de 'prompt engineering' explicados en la clase, ¿cuál de los siguientes prompts sería el más efectivo para que un estudiante analice su presupuesto y busque ahorrar para un viaje de 25,000 MXN en 4 meses?
+Analiza mi presupuesto adjunto. Mi meta es ahorrar 25,000 en 4 meses. Identifica patrones, sugiere reducciones y crea un plan mensual. Estructura tu respuesta en: Resumen, Oportunidades de Ahorro y Plan Mensual.
