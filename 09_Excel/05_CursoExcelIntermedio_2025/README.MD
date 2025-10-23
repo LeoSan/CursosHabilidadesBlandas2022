@@ -68,11 +68,8 @@ Transforma tu rango en una tabla para ganar velocidad y claridad. Selecciona los
 ![alt text](image-3.png)
 
 >[!NOTE]
-
 > Nomeclatura luego de transformar una hoja en una tabla usando el insertar podemos usar la siguiente nomeclatura para acceder a nuesteos valores en nuestras formular ejemplo 1 :  NombreTabla[@campo] =>´Ventas[@cliente]´
-
 > Usando Nomeclatura podemos importar los datos existentes en una tabla con esta formular ´=Error_001[#Datos]´ viene ya con un mini menu desplegable para que podemos elegir 
-
 > Usando Nomeclatura podemos traer los valores de una columna ´=Error_001[[#Datos], [Precio de la oferta]]´
 
 ## CLASE 04: Limpieza avanzada de datos en Excel con funciones anidadas
@@ -120,6 +117,81 @@ Filtra por varios criterios. Ejemplo: segmento PYME y país México o España.
 Usa filtro personalizado para combinar reglas en una misma columna.
 Aplica filtros en una o varias columnas al mismo tiempo.
 
+**¿Cómo sumar si conjunto y contar si conjunto para múltiples criterios?**
+Cuando necesitas sumar o contar con varios criterios simultáneos, usa estas funciones. Ejemplo típico: país México, segmento retail y una categoría específica al mismo tiempo.
+
+**¿Qué significan rango suma y rango de criterios?**
+En sumar si conjunto:
+
+- Escribe “= sumar si conjunto”.
+- Define el rango suma: los datos a sumar, por ejemplo, el campo de importe.
+- Usa F4 para fijar el rango si es un rango matriz.
+- Elige rango de criterios 1: donde es posible encontrar “México” (por ejemplo, la columna país).
+- Especifica criterio 1: “México” entre comillas.
+- Elige rango de criterios 2: donde es posible encontrar “retail” (por ejemplo, la columna segmento).
+- Especifica criterio 2: “retail”, también entre comillas.
+- Repite el patrón para más criterios si los necesitas.
+- Consejo práctico: aplica control shift cuatro para formato moneda después de obtener el resultado.
+
+**¿Cuál es la diferencia entre sumar si conjunto y contar si conjunto?**
+
+sumar si conjunto: devuelve la suma del importe que cumple los criterios.
+contar si conjunto: devuelve el número de transacciones que cumple los criterios. No requiere “rango suma”, solo rangos de criterios y sus criterios.
+
+**¿Cómo ordenar con orden personalizado y varios niveles?**
+El orden personalizado te ayuda a presentar datos con estructura clara. Ve a orden personalizado, amplia la selección y agrega niveles para ordenar por varias columnas a la vez.
+
+Ordena por país de a a z si es texto.
+Agrega un nivel por importe de mayor a menor o de menor a mayor.
+Verás cada país agrupado y, dentro, los importes ordenados de más a menos (o al revés).
+Atajos clave para agilizar:
+
+control shift l: activar/desactivar filtros.
+f4: fijar rangos en fórmulas.
+control shift cuatro: formato moneda.
+control shift + flechas: seleccionar rangos rápidamente.
+
+
+```Formulas
+#Formula es RangoSuma, RangoCriterior1, "CaracterComparar",RangoCriterior2, "CaracterComparar2", RangoCriterior3, "CaracterComparar3"
+
+=SUMAR.SI.CONJUNTO($T$2:$T$20001,$J$2:$J$20001,"Pyme",P2:P20001,"Gorra")
+=SUMAR.SI.CONJUNTO(T2:T20001, F2:F20001, 3, K2:K20001, "México")
+``` 
+
+## CLASE 06: Listas desplegables anidadas en Excel con índice y coincidir
+
+¿Qué es una lista desplegable anidada y por qué mejora tu reporte?
+Una lista anidada conecta dos menús: eliges una categoría y, automáticamente, el segundo menú muestra sus subcategorías. Por ejemplo: hogar, moda u oficina activan opciones distintas. Esto evita mostrar todo a la vez y facilita el análisis.
+
+Reduce el ruido visual y el error humano.
+Acelera la selección al mostrar solo opciones válidas.
+Hace tu reporte más interactivo y usable.
+
+
+¿Qué hace coincidir y por qué devuelve 5?
+Coincidir busca un valor dentro de un encabezado y regresa su posición. Ejemplo: buscar “software” en la fila de cabeceras con coincidencia exacta (0) devuelve 5 porque es la quinta columna. Ese resultado reemplaza el número de columna en índice, volviéndolo dinámico.
+
+Valor buscado: la categoría elegida en la primera lista, como “moda” o “software”.
+Rango de búsqueda: solo las cabeceras, fijadas con F4.
+Tipo de coincidencia: 0 para coincidencia exacta.
+Integración práctica: índice usa la matriz completa; coincidir calcula la columna según la categoría seleccionada. Si cambias de “software” a “moda”, las subcategorías cambian en automático.
+
+¿Cómo convertirlo en una lista desplegable?
+Copia la fórmula dinámica que devuelve la columna de subcategorías.
+Selecciona la celda donde irá la segunda lista.
+Abre validación de datos y elige lista.
+En origen, pega la fórmula y confirma.
+Prueba: al elegir “oficina”, verás opciones como “cuaderno”; si cambias a “moda”, aparecerá “jeans”.
+
+## CLASE 01: 
+
+## CLASE 01: 
+
+
+## CLASE 01: 
+
+
 ## CLASE 01: 
 
 
@@ -127,17 +199,6 @@ Aplica filtros en una o varias columnas al mismo tiempo.
 
 ## CLASE 01: 
 
-
-## CLASE 01: 
-
-
-## CLASE 01: 
-
-
-## CLASE 01: 
-
-## CLASE 01: 
-
 ## CLASE 01: 
 
 
@@ -169,6 +230,7 @@ Aplica filtros en una o varias columnas al mismo tiempo.
 ## CLASE 01: 
 
 ## CLASE 01: 
+
 
 
 ## CLASE 01: 
