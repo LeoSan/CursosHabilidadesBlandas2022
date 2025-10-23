@@ -184,6 +184,57 @@ Abre validación de datos y elige lista.
 En origen, pega la fórmula y confirma.
 Prueba: al elegir “oficina”, verás opciones como “cuaderno”; si cambias a “moda”, aparecerá “jeans”.
 
+## CLASE 07:Agrupaciones de fecha, texto y número en tablas dinámicas
+
+¿Cómo agrupar por fecha, texto y número en Excel?
+La clave está en el tipo de dato: fecha, texto o número. Cada uno permite agrupaciones distintas y complementarias para análisis más profundos.
+
+¿Cómo agrupar por fecha en meses, trimestres o años?
+Arrastra un campo con formato de fecha a la tabla dinámica y haz clic derecho > Agrupar. Verás opciones como comenzar en y terminar en, que representan el periodo disponible, y podrás elegir meses, trimestres o años. También están horas, minutos y segundos para granularidad fina.
+
+Prácticas rápidas: - Si solo necesitas años, selecciónalos y acepta: verás el total del periodo seleccionado. - Para quitar días y quedarte con meses, marca meses y desmarca días. - Agrega Importe al área de valores para obtener totales por periodo.
+
+Beneficio: obtienes una visión temporal clara, útil para tendencias, estacionalidad y cortes ejecutivos sin fórmulas adicionales.
+
+¿Cómo agrupar por texto con grupos personalizados?
+Cuando el campo es texto (por ejemplo, “Nombre de producto”), puedes crear grupos manuales: - Copia la tabla dinámica para mantener la anterior intacta. - Selecciona varios ítems, clic derecho > Agrupar. - Renombra el grupo (ejemplo: “Hogar”) para hacerlo más legible.
+
+Ventajas: - Consolidas ítems dispersos en categorías hechas a tu medida. - Obtienes totales por grupo para comparar familias de productos o segmentos.
+
+¿Cómo agrupar números en rangos fijos?
+Con campos numéricos (por ejemplo, “Importe”), puedes definir rangos: - Coloca el número en filas y/o valores. - Clic derecho > Agrupar. - Define: comenzar en, terminar en y por cada (tamaño del intervalo, por ejemplo, 5000).
+
+Qué obtienes: - Rangos como 5–5000, 10000–15000, 15000–20000, con el total de ventas o conteos en cada segmento. - Detección rápida de concentraciones y outliers.
+
+Aplicaciones directas: - Rangos de edades para análisis demográfico. - Rangos salariales para compensaciones. - Años en la empresa para rotación o antigüedad. - Errores en líneas de producción para medir volumen por severidad.
+
+Tip operativo: si necesitas rehacer el criterio, usa Desagrupar y vuelve a definir los rangos.
+
+>[!NOTE]
+> Recuerda podemos generar grupos durante las tablas dinamicas, el tipo de agrupado depende del tipo de datos 
+> Si es fecha tiene un formato
+> si tiene numeros tiene un formato 
+> si tienes texto tiene im formato 
+
+
+
+## CLASE 01: 
+
+
+## CLASE 01: 
+
+
+## CLASE 01: 
+
+
+## CLASE 01: 
+
+## CLASE 01: 
+
+## CLASE 01: 
+
+
+
 ## CLASE 01: 
 
 ## CLASE 01: 
@@ -197,25 +248,6 @@ Prueba: al elegir “oficina”, verás opciones como “cuaderno”; si cambias
 
 ## CLASE 01: 
 
-## CLASE 01: 
-
-## CLASE 01: 
-
-
-
-## CLASE 01: 
-
-## CLASE 01: 
-
-
-## CLASE 01: 
-
-
-## CLASE 01: 
-
-
-## CLASE 01: 
-
 
 ## CLASE 01: 
 
@@ -234,3 +266,4 @@ Prueba: al elegir “oficina”, verás opciones como “cuaderno”; si cambias
 
 
 ## CLASE 01: 
+
