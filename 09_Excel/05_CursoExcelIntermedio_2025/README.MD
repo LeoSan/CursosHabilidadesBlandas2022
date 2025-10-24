@@ -216,15 +216,53 @@ Tip operativo: si necesitas rehacer el criterio, usa Desagrupar y vuelve a defin
 > si tiene numeros tiene un formato 
 > si tienes texto tiene im formato 
 
+![alt text](image-4.png)
+
+## CLASE 08:  Creación de tops y KPIs con tablas dinámicas en Excel
 
 
-## CLASE 01: 
+>[!NOTE]
+> Podemos copiar y pegar el mismo valor cuantas veces queramos y darle otro tipo de resumenes checa imagen 
+> CLIC normal buscar [Configuración de campo valor ] sobre el tablero dinamico 
+> CLIC derecho buscar [Resumir valores por > ] sobre la celda 
+> CLIC derecho buscar [Mostrar valores como  > ] sobre la celda - Me Permite saber el pocentaje  
+![alt text](image-5.png)
 
 
-## CLASE 01: 
+## CLASE 09: Campos calculados y gráficos dinámicos para comparar periodos 
+
+¿Cómo preparar la tabla dinámica para comparar por periodo?
+Configura la estructura antes de calcular diferencias. La orientación define la lectura del reporte.
+
+Inserta una tabla dinámica en nueva hoja o hoja existente. Selecciona la ubicación y Aceptar.
+Coloca nombre del producto en filas. Coloca fecha en columnas para ver meses.
+Asegúrate de que la fecha esté agrupada en mes. También puedes agrupar por día o año según la comparación que busques.
+Agrega importe a Valores. Aplica formato de moneda con Control + Shift + 4.
+Selecciona rápido el rango: Control + Shift + Flecha abajo y derecha, o Control + E.
+Tip clave: puedes arrastrar el mismo importe varias veces a Valores para calcular métricas distintas.
+¿Cómo organizar horizontal o vertical?
+Horizontal: meses en columnas y productos en filas. Útil para comparar periodos lado a lado.
+Vertical: meses en filas y productos en columnas. Ideal si prefieres leer de arriba hacia abajo.
+Copia y pega tu tabla dinámica para crear variantes sin empezar desde cero.
+¿Cómo obtener la diferencia y el porcentaje vs mes anterior?
+El cálculo se logra desde “Mostrar valores como”, sin escribir fórmulas.
+
+Duplica el campo importe en Valores. Clic derecho > Configuración de campo de valor.
+Ve a Mostrar valores como > Diferencia de.
+Define campo base: fecha (agrupada en mes si comparas por mes).
+Define elemento base: anterior para comparar contra el mes previo. También existe “siguiente”.
+Cambia el nombre del campo para identificarlo, por ejemplo: “diferencia vs mes anterior”.
+Observa que el primer periodo no muestra dato porque no tiene periodo anterior.
 
 
-## CLASE 01: 
+>[!NOTE]
+> CLIC normal buscar [Configuración de campo valor ] sobre el tablero dinamico 
+> Apuntes MOSTRAR VALORES COMO > 
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+## CLASE 10: 
 
 
 ## CLASE 01: 
