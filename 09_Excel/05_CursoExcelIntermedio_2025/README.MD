@@ -262,18 +262,281 @@ Observa que el primer periodo no muestra dato porque no tiene periodo anterior.
 ![alt text](image-7.png)
 ![alt text](image-8.png)
 
-## CLASE 10: 
+## CLASE 10: Creación de gráficos avanzados para tableros de control
+
+¿Cómo preparar datos con tablas dinámicas para gráficos?
+Antes de graficar, organiza la base y crea rangos limpios a partir de tus tablas dinámicas. Así evitas choques y habilitas gráficos que no salen directo desde la tabla dinámica.
+
+Duplica tu tabla dinámica y ubícala en vertical u horizontal según tamaño para que no choquen entre sí.
+Limpia campos y conserva solo lo necesario: por ejemplo, país y ventas para el mapa coroplético.
+Escribe = y selecciona el dato en la tabla dinámica para activar importar datos dinámicos. Trae el valor correcto del campo.
+Evita valores fijos: sustituye “Colombia” por la celda con el país y arrastra la fórmula para que sea dinámico.
+Aplica formato de moneda y agrega cabeceras: país y venta.
+Recuerda: algunos gráficos requieren este paso intermedio, no salen directo desde “gráfico dinámico”.
+¿Cómo crear gráficos potentes en Excel?
+Con los datos preparados, construye visualizaciones que respondan preguntas del negocio. Prioriza claridad, proporciones y lectura rápida para tu dashboard.
+
+¿Cómo construir un mapa coroplético desde tabla dinámica?
+Selecciona el rango limpio con país y venta generado con importar datos dinámicos.
+Ve a insertar > mapas > mapa coroplético.
+Si trabajas con varios países, el mapa se verá global; si es un país específico, se concentrará esa región.
+Úsalo cuando necesites resaltar distribución geográfica de ventas.
+¿Cuándo usar un gráfico de dona para proporciones?
+Copia la tabla dinámica y selecciona los datos relevantes.
+Analizar tabla dinámica > gráfico dinámico > circular > gráfico de dona.
+Mejora lectura de proporciones: procura no más de ocho categorías.
+Ideal para mostrar distribución por categoría de forma clara.
+¿Cómo armar un velocímetro con dona y porcentaje?
+Cambia la dimensión a segmento y muestra valores como porcentaje sobre total general.
+Crea un rango con importar datos dinámicos para el valor del segmento seleccionado.
+Calcula el complementario: 1 menos ese porcentaje, debe sumar 100 con el valor principal.
+Inserta un gráfico de dona con ambas series: valor y complementario.
+Ajusta el ángulo inicial a 270 para rotar el arco.
+Oculta la parte baja: sin relleno y sin contorno para crear el arco del velocímetro.
+Ajusta el tamaño del agujero del anillo para el grosor deseado.
+¿Cómo dejar lista la estructura de tu dashboard?
+Prepara una tarjeta de resultados y organiza las hojas para que el armado final sea ágil, coherente y fácil de mantener.
+
+¿Cómo crear una tarjeta de resultados con importe?
+Toma una tabla dinámica sencilla con solo importe.
+Vincula el valor con = a una celda limpia para usarlo como tarjeta.
+Mantén solo el dato necesario para el diseño final.
+¿Qué estructura mínima debe tener el dashboard?
+Hoja 1: fuente de origen en formato tabla.
+Hoja 2: tablas dinámicas y rangos intermedios que responden preguntas del reporte.
+Hoja 3: vista del dashboard que integra todo lo anterior.
+En esta etapa no importa el diseño final: prioriza que los datos respondan las preguntas clave.
 
 
-## CLASE 01: 
+![alt text](image-9.png)
 
-## CLASE 01: 
+## CLASE 11: Diseño de dashboards profesionales en Excel
 
-## CLASE 01: 
+¿Cómo preparar el lienzo del dashboard en Excel?
+Antes de diseñar, ordena el espacio visual. Duplicar la hoja, aplicar un fondo y añadir contenedores transparentes te ayuda a jerarquizar la información desde el inicio y a lograr un estilo consistente.
+
+¿Cómo duplicar hoja y aplicar fondo desde disposición de página?
+Crea una nueva hoja y nómbrala “Dashboard 2”.
+Ve a disposición de página > fondo > desde un archivo.
+Elige uno de los cuatro fondos disponibles en los recursos.
+Quita las líneas para que se aprecie el fondo.
+Limita el área útil para que solo quede el dashboard visual.
+¿Cómo crear contenedores con formas y transparencia?
+Inserta formas > cuadrado o rectángulo.
+Asigna relleno negro para resaltar secciones.
+Clic derecho > formato de forma > ajusta la transparencia según se necesite.
+Copia y pega para replicar contenedores de manera uniforme.
+¿Cómo dar estilo y formato profesional a tus gráficos?
+Trae todos los gráficos desde tus tablas dinámicas, acomódalos y luego aplícales un formato limpio: sin relleno, sin contorno, tipografía consistente y etiquetas legibles. Esto mejora la lectura y la coherencia visual.
+
+¿Cómo importar y acomodar gráficos del modelo?
+Copia gráficos con control C desde tus tablas dinámicas.
+Pégalos en el dashboard con control V.
+Acomódalos de forma estratégica según tu narrativa visual.
+Ajusta tamaños más adelante; ahora solo define espacios.
+¿Cómo limpiar y dar formato a cada gráfico?
+Clic derecho > ocultar todos los botones de campos en gráfico.
+Quita líneas y bordes: sin relleno y sin contorno.
+Usa color de fuente blanco para contraste sobre fondos oscuros.
+Si aplica, usa contorno blanco para destacar el gráfico.
+Agrega etiquetas de datos para mostrar valores.
+Aplica formato de número personalizado para cantidades compactas: “signo de pesos, gato, coma, gato, gato, gato, coma”.
+Cambia la tipografía a IBM Flex Sans u otra consistente.
+Activa línea suavizada en opciones de serie para un efecto más fluido.
+¿Qué excepciones aplicar según el tipo de gráfico?
+Mapa: selecciona la serie > color de la serie. Ajusta el gradiente de más a menos. Define 2 o 3 secuencias; en el ejemplo se usan tres.
+Combinado: oculta botones. Ve a diseño > diseño rápido > opción 2. Ajusta relleno y contorno blanco. Reaplica sin relleno, sin contorno y letra blanca.
+Pie: agrega etiquetas de datos. En opciones de etiqueta, usa porcentaje y quita valor. Mantén la paleta y limpieza general.
+¿Cómo integrar íconos, logos, tarjetas y segmentadores?
+Los detalles visuales claros elevan la lectura. Íconos coherentes, un logo bien colocado y tarjetas de resultados enlazadas a celdas hacen que el tablero comunique mejor. Los segmentadores dan control para filtrar por variables clave.
+
+¿Cómo insertar y estandarizar íconos?
+Ve a Insertar > íconos.
+Elige íconos útiles: venta, gráfico en crecimiento, trofeo.
+Inserta varios a la vez para controlar magnitud uniforme.
+Cambia el color a blanco para alto contraste.
+Redimensiona seleccionando todos para mantener proporcionalidad.
+Acomódalos junto a métricas o secciones clave.
+¿Cómo agregar el logo desde imágenes?
+Ve a Insertar > imágenes > colocar sobre celda > este dispositivo.
+Selecciona el archivo de logo de los recursos.
+Ajusta tamaño y posición hasta integrarlo al diseño.
+¿Cómo crear tarjetas de resultados y segmentadores?
+Inserta un cuadro de texto para la métrica principal.
+No escribas dentro: selecciona el borde, ve a la barra de fórmulas y enlaza la celda con el dato dinámico.
+Da formato con negritas y tamaño grande para dar peso visual.
+Repite el proceso para porcentajes u otros KPIs.
+Agrega segmentadores para filtrar por país, categoría y región.
+Úsalos para responder preguntas del reporte de forma dinámica.
+
+
+![alt text](image-10.png)
+
+
+## CLASE 12: Creación de segmentadores dinámicos en reportes de Excel
+
+
+¿Cómo activar segmentación de datos en un gráfico dinámico?
+Primero, confirma que seleccionas un gráfico dinámico (no uno estático). Luego ve a la pestaña Análisis de gráfico dinámico y elige Insertar segmentación de datos. Selecciona los campos: Nombre producto, País y Categoría. Acepta y organiza los segmentadores donde prefieras.
+
+Ajusta columnas del segmentador desde Segmentación: por ejemplo, en tres columnas para ver más elementos a la vez.
+Reubica cada segmentador: país a la izquierda, categoría a la derecha, según convenga.
+Selecciona varios segmentadores a la vez para aplicar ajustes comunes.
+¿Cómo dar estilo a los segmentadores con tu paleta corporativa?
+Desde Segmentación puedes aplicar estilos rápidos, incluido el diseño de Platzi. Si necesitas una paleta específica, usa nuevo estilo de segmentación de datos:
+
+Cambia colores, tipo y tamaño de letra, negritas y bordes.
+En relleno, entra a más colores y define HEX o RGB para tu paleta.
+Guarda el estilo y aplícalo a todos tus segmentadores.
+¿Cómo seleccionar varias opciones y limpiar rápido el filtro?
+Aprovecha los controles del segmentador en la parte superior:
+
+Activa la selección múltiple para combinar varios países o categorías.
+Usa el filtro de limpieza para quitar todas las selecciones al instante.
+¿Cómo conectar segmentadores y controlar tablas dinámicas con conexiones de informes?
+Para que todo cambie al mismo tiempo, conecta cada segmentador a las tablas dinámicas que debe gobernar. Selecciona un solo segmentador, clic derecho y entra a Conexiones de informes.
+
+Marca las tablas dinámicas que correspondan, por ejemplo, todas las que estén en la hoja TD2 o las que se llamen Tabla dinámica 2.
+Desmarca las que no quieras controlar desde ese segmentador.
+Repite el proceso con cada segmentador.
+Así, al filtrar por un país como España, todos los elementos vinculados se actualizan: tarjetas, top diez, ventas por país y ventas por región. Si algún gráfico no cambia, revisa su conexión.
+
+¿Qué buenas prácticas aseguran control total?
+Nombra y agrupa tus tablas dinámicas en una pestaña clara, como TD2.
+Verifica conexiones después de mover o copiar elementos.
+Usa un orden lógico: país, categoría y producto para filtrar de lo general a lo específico.
+¿Cómo añadir y personalizar una escala de tiempo por fecha?
+Colócate en un gráfico dinámico y elige Insertar escala de tiempo. Solo aparecerán campos que sean fecha válida. Si la fecha no tiene formato correcto, no se mostrará ninguna opción.
+
+Acepta y posiciona la escala de tiempo donde aporte claridad.
+Aplica el diseño de Platzi u otro estilo. Personaliza:
+Encabezado, tipografía, negritas e itálicas.
+Tamaños, rellenos y bordes.
+Colores con HEX o RGB si necesitas coherencia de marca.
+¿Cómo conectar y usar periodos con precisión?
+Al igual que con los segmentadores, usa clic derecho y Revisar conexiones de informes para vincular la escala de tiempo a todas las tablas dinámicas relevantes.
+
+Juega con periodos: meses, trimestres o rangos específicos.
+Combina con categoría para ver, por ejemplo, moda o solo software en un rango concreto.
+Si un periodo no tiene datos, ajusta o limpia el filtro rápidamente.
+
+>[!NOTE]
+> Aclaración que acabo de notar, los segmentadores no se conectan a las gráficas, se conectan a las tablas dinámicas y las tablas a los gráficos. Por lo tanto para saber a que tabla se están conectando podemos cambiar el nombre a las tablas.
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+
+> vALIDAR QUE TABLAS DINAMICAS PODEMOS VALIDAR 
+![alt text](image-13.png)
+
+> Insertar Escala de Tiempo 
+![alt text](image-14.png)
+
+
+> Ejemplo me gusto esta forma 
+
+![alt text](image-15.png)
+
+
+## CLASE 13: Automatización de actualizaciones de datos en Excel 
+
+¿Qué rol cumple el formato de tabla?
+Asegura que el origen se expanda al pegar datos nuevos.
+Evita redefinir manualmente el rango en cada actualización.
+Permite que “Actualizar” funcione con un clic.
+¿Dónde usar actualizar y actualizar todo?
+En “Analizar tabla dinámica” tienes ambas opciones.
+Actualizar: refresca la tabla dinámica activa.
+Actualizar todo: refresca todas las fuentes y tablas dinámicas del libro.
+Atajo útil: Alt F5 para acelerar el flujo.
+¿Cómo automatizar con macros la actualización de tablas dinámicas?
+Una macro es código que ejecuta por ti una acción repetitiva. Aquí, refrescará tu tabla dinámica cada vez que se active la hoja, sin que tengas que presionar actualizar.
+
+¿Qué es una macro y qué necesitas nombrar?
+Cambia el nombre de la tabla dinámica: en “Analizar tabla dinámica” → “Nombre de la tabla dinámica”. Ejemplo: Ventas.
+Identifica el nombre de la hoja donde está la tabla dinámica. En el editor, el nombre entre paréntesis (p. ej., TD3) es el que importa.
+Clic derecho en la hoja → Ver código para abrir Visual Basic.
+En el módulo de la hoja, elige Worksheet y el evento Activate.
+¿Qué código VBA usar para refrescar?
+Pega este snippet y ajusta el nombre de tu tabla dinámica entre comillas.
+
+Private Sub Worksheet_Activate()
+    ActiveSheet.PivotTables("Ventas").PivotCache.Refresh
+End Sub
+Cierra el editor y prueba: al activar la hoja, se actualiza la tabla dinámica automáticamente.
+¿Tienes varias tablas dinámicas? Duplica la línea cambiando el nombre: “Ventas”, “Vendedores”, “Agentes”.
+Guarda como Libro de Excel habilitado para macros (.xlsm). Al abrir, autoriza las macros. Si ves advertencia de autoguardado, es porque debes habilitar macros.
+¿Cómo optimizar el dashboard y el archivo?
+Fondos que se repiten en celdas vacías consumen memoria y vuelven lento el archivo. Delimita tu área de trabajo ocultando lo que no usas.
+
+¿Cómo delimitar filas y columnas sin borrar?
+Selecciona desde la columna límite → Ctrl + Shift + Flecha derecha → clic derecho → Ocultar.
+Repite hacia abajo: Ctrl + Shift + Flecha abajo → clic derecho → Ocultar.
+Beneficios: área limpia, navegación clara y archivo más optimizado.
+
+> Paso Sencillo para macro 
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+> VERSION DE MACROS 
+
+![alt text](image-18.png)
+
+## CLASE 14: Relacionar múltiples archivos Excel con PowerPivot para dashboards 
+¿Cómo habilitar PowerPivot en Excel?
+Para comenzar, es clave activar el complemento correcto. La habilitación se hace desde las opciones de Excel.
+
+Abre archivo > opciones > complementos.
+En administrar, elige Complementos COM y haz clic en ir.
+Marca PowerPivot for Excel (y si quieres, Power Map for Excel). Acepta.
+Si no aparece la pestaña: cierra y abre Excel, o reinicia el equipo.
+¿Dónde encuentro otros orígenes de datos?
+En la pestaña PowerPivot, haz clic en administrar.
+En la ventana de PowerPivot, elige de otros orígenes.
+Puedes conectar archivos de Excel y también sistemas como SAP u Oracle cuando lo requiera tu trabajo.
+¿Cómo importar y preparar datos con PowerPivot?
+El flujo de importación desde Excel garantiza encabezados correctos y una estructura limpia para relacionar datos.
+
+Selecciona archivo de Excel y haz clic en siguiente.
+Define la ruta de acceso con examinar y elige tus archivos (ejemplo: clientes).
+Activa usar primera fila como encabezados de columna. Es clave para nombrar campos correctamente.
+Finaliza y repite para cada archivo. Verás una pestaña por archivo en la parte inferior.
+¿Qué es la vista de datos y cómo validarla?
+La vista de datos muestra las tablas importadas con sus columnas tal como fueron cargadas.
+Revisa que no aparezcan rótulos genéricos como “columna F” o “columna H”.
+Si ves columnas sin nombre: elimina la tabla y vuelve a cargarla activando la opción de encabezados.
+¿Cómo relacionar tablas y crear dashboards con tablas dinámicas y segmentadores?
+La vista de diagrama facilita unir tablas con campos comunes y construir reportes sin fórmulas como buscarv.
+
+Cambia a vista de diagrama: verás cada tabla como una caja con sus campos.
+Identifica un campo llave (por ejemplo, ID cliente) que se repite entre tablas.
+Arrastra para crear relaciones. Verás un 1 hacia una tabla y una estrella hacia la otra: es una relación de uno a muchos.
+Puedes usar varios campos llave según el caso: ID país, ID transacción, etc.
+¿Cómo generar tablas y gráficos dinámicos integrados?
+Inserta tabla dinámica desde PowerPivot y elige la plantilla de cuatro gráficos.
+Crea visualizaciones cruzando tablas: por ejemplo, ventas por segmento, ventas por preferencias o suma de compras.
+Cambia el tipo de visual: gráfico circular, gráfico de anillos u otros formatos según el análisis.
+¿Cómo usar segmentadores y controlar conexiones?
+Agrega segmentadores de datos desde análisis del gráfico o diseño.
+Usa segmentadores en distintos niveles para filtrar varias tablas a la vez.
+Ajusta conexiones de informes para que los segmentadores controlen todos los gráficos que necesites.
+¿Qué ventajas ofrece PowerPivot al rendimiento?
+PowerPivot actúa como un espejo de la información: concentra lo necesario sin duplicar archivos pesados.
+Tus libros de Excel se vuelven más ligeros y rápidos, incluso con múltiples fuentes.
+Ideal cuando un reporte de ventas o compras se compone de varios archivos y necesitas relacionar datos sin procesos manuales.
+
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
 
 
 
-## CLASE 01: 
+
+
+
 
 ## CLASE 01: 
 
