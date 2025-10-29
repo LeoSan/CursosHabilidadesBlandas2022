@@ -706,13 +706,111 @@ Excluye encabezados al definir la matriz de Índice.
 Usa coincidencia exacta (0) en todos los Coincidir de este escenario.
 Anida Coincidir para automatizar fila y columna sin conteos manuales.
 
-## CLASE 17: 
+## CLASE 17: Funciones SI avanzadas: conjunto, anidado y combinaciones Y/O
+¿Qué resuelven las funciones lógicas avanzadas en Excel?
+Estas funciones permiten asignar una categoría o cálculo según un criterio. La base es la prueba lógica: comparar con signos >, <, >=, <=, = o <>. Con esto defines rangos y devuelves un valor si verdadero claro, como “super estrella”, “cumplido” o “en riesgo”.
+
+¿Cómo funciona la prueba lógica y el valor si verdadero?
+Usa comparaciones como mayor o igual a 1.2 (120%), 1 (100%) y 0.8 (80%).
+Si el valor es >= 1.2: devuelve “super estrella”. Si es >= 1: “cumplido”. Si es >= 0.8: “en riesgo”.
+Datos fuera de rango pueden generar ND (valor no disponible) cuando no cumplen ninguna condición.
+Para evitar ND, agrega al final una condición con verdadero y devuelve “incumplido”.
+El valor si verdadero puede ser texto o un cálculo: por ejemplo, sumar, multiplicar o ajustar metas.
+¿Por qué el orden importa en estas funciones?
+Excel evalúa en secuencia: si no entra en la primera condición, pasa a la siguiente.
+El orden define qué condición gana cuando varias podrían aplicar.
+Diseña de mayor a menor prioridad para resultados consistentes.
+¿Cómo usar si conjunto para clasificar por criterios múltiples?
+Con si conjunto aplicas varias reglas en una sola fórmula. Ejemplo de clasificación por cumplimiento: >= 120% “super estrella”, >= 100% “cumplido”, >= 80% “en riesgo”. Cierra siempre tus paréntesis para evitar errores.
+
+¿Cómo manejar casos fuera de rango y errores ND?
+Si hay valores como 79% o 67%, no entran en ninguna regla y aparece ND.
+Solución directa: añade al final la condición verdadero y devuelve “incumplido”.
+Así cubres todos los casos posibles y evitas errores visibles al usuario.
+¿Qué diferencia hay frente a un si anidado?
+Si anidado replica la lógica de si conjunto, pero encadenando un SI dentro de otro en cada caso contrario.
+Ofrece el mismo resultado, pero suele ser más largo y complejo de leer.
+Recomendación práctica: usa si conjunto si hay muchas opciones; con hasta tres condiciones, un si anidado es viable.
+¿Cuándo elegir si con y u o para comisiones?
+Cuando necesitas evaluar ventas y antigüedad, elige entre y (todas las condiciones a la vez) u o (basta una). En inglés: and y or. El caso mostrado usa ventas > 10,000 y meses en la empresa > 4 para definir “comisión mayor” o “comisión menor”.
+
+¿Cómo construir si con y para una comisión mayor o menor?
+Estructura: si(y(condición_ventas, condición_meses), “comisión mayor”, “comisión menor”).
+Solo si se cumplen todas las condiciones regresa “comisión mayor”. De lo contrario, “comisión menor”.
+Puedes devolver cálculo en lugar de texto: monto de ventas por porcentaje de comisión mayor; de lo contrario, monto por comisión menor.
+Si usas referencias a porcentajes fijos, recuerda fijarlas para que no cambien al replicar la fórmula.
+¿Cómo cambia si con o cuando basta una condición?
+Estructura: si(o(condición_ventas, condición_meses), “comisión mayor”, “comisión menor”).
+Con o, basta que se cumpla una condición para obtener la comisión mayor.
+La diferencia es clara al arrastrar la fórmula: con y hay menos casos con comisión mayor; con o aparecen más porque el umbral es más flexible.
+
+>[!NOTE]
+> Hoja de Ejemplo
+> 
+
+[Conjunto](CONJUNTO_ANIDADO_CONBINADOS.xlsx)
+
+## CLASE 18: Manejo de errores en Excel con SI.ERROR y SI.ND
+
+**¿Qué errores de Excel y por qué aparecen?**
+Comprender el motivo evita diagnósticos erróneos. No es que Excel “esté mal”: el mensaje indica una condición específica que debes revisar.
+
+- #DIV/0!: división entre cero o celda vacía en el denominador. Revisa la referencia del divisor.
+- #N/D!: no hay un valor disponible. Sucede en cruces o búsquedas como BUSCARV cuando el dato no existe en la tabla.
+- #REF!: referencia eliminada. Borraste celdas usadas en la fórmula y Excel “pierde” el origen.
+- #VALOR!: tipos incompatibles en una operación. Ejemplo: multiplicar un texto por un número o números con formato de texto.
+- #NOMBRE?: nombre de función mal escrito. Si pones “SUMAR.SI.CON” en lugar de “SUMAR.SI.CONJUNTO”, falla aunque la estructura sea correcta.
+- #NUM!: cálculo inválido. Ejemplo: raíz de un número negativo.
+- Nulo: intersección no válida entre rangos.
+- Desbordamiento: una fórmula matricial devuelve más celdas de las disponibles o se cruza con otros datos.
+- Signos de gato (####): no es un error. La celda no tiene ancho suficiente para mostrar el número o la fecha completa.
 
 
-## CLASE 18: 
+**como**
+- =SI.ERROR(BUSCARV(B10,$H$10:$I$24,2,0),"Dato no encontrado")
+- =SI.ND(BUSCARV(B10,$H$10:$I$24,2,0),"Error ND")
 
+## CLASE 19: Instalación y uso de Solver en Excel para optimización
 
-## CLASE 19: 
+¿Para qué usar Solver de Excel en optimización con restricciones?
+Solver es ideal cuando necesitas maximizar una ganancia, minimizar costos o alcanzar un valor específico, siempre con límites que no puedes violar. En el ejemplo, se busca la mejor combinación de pasteles de plátano y zarzamora con restricciones de producción diaria, masa disponible y tope por tipo.
+
+Problemas típicos: capacidad, inventario, presupuesto o crédito.
+Objetivos posibles: maximizar, minimizar o igualar a un valor.
+Beneficio clave: encuentra el número óptimo respetando todas las restricciones.
+¿Cómo instalar y activar el complemento Solver en Excel?
+Antes de usarlo, hay que activar el complemento para que aparezca en la pestaña Datos.
+
+Ve a archivo > opciones > complementos.
+En administrar, elige complementos de Excel y pulsa ir.
+Marca la casilla Solver y acepta.
+Revisa en datos: debe aparecer Solver en el bloque de análisis.
+Si no aparece: cierra Excel, reinicia si hace falta y vuelve a abrir.
+¿Cómo configurar el modelo en Solver para maximizar la ganancia?
+El caso: dos pasteles, plátano y zarzamora. Datos clave: plátano usa 0.250 kg de masa y gana 100 pesos; zarzamora usa 0.500 kg y gana 130 pesos. Restricciones: máximo 150 pasteles al día, como tope adicional 90 por tipo, y masa total disponible de 50 kg. Además, las cantidades deben ser enteras.
+
+¿Cuál es el objetivo de optimización?
+Objetivo: maximizar la ganancia.
+Fórmula: ganancia plátano por cantidad de plátano + ganancia zarzamora por cantidad de zarzamora.
+Clave: la celda objetivo debe tener la fórmula ya escrita para que Solver pueda evaluarla.
+Alternativas: puedes seleccionar minimizar o establecer igual a un valor específico si el problema lo requiere.
+¿Qué celdas varían como variables de decisión?
+Variables: cantidades a producir de cada pastel (por ejemplo, X para plátano y Y para zarzamora).
+En el modelo, Solver cambia esas celdas para cumplir restricciones y optimizar el objetivo.
+¿Qué restricciones deben cumplirse?
+Capacidad diaria: total de pasteles ≤ 150.
+Límite por tipo: plátano ≤ 90 y zarzamora ≤ 90.
+Masa máxima: 0.250 × plátano + 0.500 × zarzamora ≤ 50 kg.
+Naturaleza de la decisión: variables deben ser enteras (no se producen fracciones de pastel).
+En la ventana de restricciones puedes usar: mayor que, menor que, igual. También tipos: entero, binario o diferente.
+Para agregar restricciones: pulsa agregar, selecciona la celda y elige la condición adecuada.
+¿Qué método y qué solución entrega Solver?
+Modelo: con nonlinear funciona bien para este planteamiento.
+Proceso: define el objetivo, señala las celdas variables, agrega restricciones y pulsa resolver.
+Resultados: se muestra la ventana de resultados de Solver y puedes aceptar para escribir los valores óptimos.
+Interpretación del óptimo: produce el máximo de plátano permitido y 55 de zarzamora para alcanzar la ganancia máxima.
+Restricciones activas: la masa llega al tope de 50 kg y el total de pasteles queda en 145 unidades. La masa es la limitante principal.
+Mejora del escenario: si aumentas la masa disponible, la siguiente limitante puede ser el total de pasteles diarios.
 
 ## CLASE 20: 
 
@@ -722,3 +820,82 @@ Anida Coincidir para automatizar fila y columna sin conteos manuales.
 
 ## CLASE 22: 
 
+
+## Resumen 
+
+1.
+Una cadena de tiendas configura una tabla dinámica con las sucursales en las columnas ('Centro', 'Norte', 'Sur') y los productos en las filas. Si el objetivo es identificar qué producto es relativamente más importante para las ventas *dentro de la sucursal Norte específicamente*, ¿qué cálculo de porcentaje es el más adecuado?
+Diferencia con respecto al valor anterior.
+
+Repasar
+2.
+Un analista intenta agrupar datos de ventas por mes en una tabla dinámica, pero la opción 'Agrupar Campo' está deshabilitada (en gris). ¿Cuál es la causa más probable de este problema?
+La tabla dinámica necesita ser actualizada porque se agregaron nuevos datos de ventas.
+
+Repasar
+3.
+Un gerente desea comparar las ventas mensuales de 2023 con las de 2022. Al crear la tabla dinámica, Excel agrupa automáticamente las fechas por Años, Trimestres y Meses. ¿Cuál es el diseño más efectivo en la tabla dinámica para facilitar esta comparación directa?
+Usar el campo 'Años' como Filtro de Informe y seleccionar un año a la vez para verlo.
+
+Repasar
+4.
+Estás diseñando un dashboard y has añadido un segmentador para una lista de 20 productos, lo que resulta en una larga lista vertical que ocupa mucho espacio en la pantalla. ¿Cuál es la estrategia de personalización más efectiva para presentar estos botones de forma profesional y compacta?
+Ajustar la configuración de columnas del segmentador a 4 o 5 para crear una cuadrícula ordenada en lugar de una lista.
+5.
+¿Cuál es la ventaja principal de utilizar segmentadores de datos en un informe de Excel en lugar de los filtros tradicionales del menú desplegable?
+Facilitan un filtrado visual e interactivo, convirtiendo los filtros ocultos en controles accesibles.
+6.
+¿Cuál es la ventaja principal de utilizar una escala de tiempo en lugar de un segmentador de datos tradicional al analizar datos por fechas en Excel?
+Se especializa en el filtrado por períodos temporales, ofreciendo niveles integrados como años, trimestres, meses y días.
+7.
+Un analista ha creado un dashboard con dos tablas dinámicas y un gráfico dinámico que provienen de la misma fuente de datos. ¿Qué acción debe realizar para que una única escala de tiempo filtre los datos de los tres elementos de manera sincronizada?
+Hacer clic derecho en la escala de tiempo y usar la opción "Conexiones de informe" para vincularla a ambas tablas dinámicas.
+8.
+Un gerente te pide un análisis del rendimiento de ventas durante el verano de 2023 (junio a agosto). Usando un dashboard que ya tiene una escala de tiempo conectada, ¿cuál es el método más eficiente para aislar y presentar estos datos?
+En la vista de 'Meses' de la escala de tiempo, hacer clic en 'Junio' y arrastrar el control de rango hasta 'Agosto'.
+9.
+Un analista de datos utiliza la fórmula =BUSCARV(A5; Productos!A:D; 3; FALSO) para traer el precio de un producto. Sin embargo, para varios códigos de producto que sabe que existen en la tabla 'Productos', la fórmula devuelve el error #N/A. ¿Cuál es la causa más probable de este error si la sintaxis de la fórmula es correcta?
+Existen inconsistencias en los datos, como espacios adicionales o diferencias de mayúsculas y minúsculas entre el código buscado y el catálogo.
+10.
+Un analista recibe informes de ventas mensuales en archivos CSV separados por región. ¿Cómo facilitaría Power Query la tarea de consolidar y limpiar estos datos para un informe anual de manera eficiente?
+Convirtiendo automáticamente los archivos CSV a formato de Excel sin necesidad de intervención.
+
+Repasar
+11.
+Una empresa utiliza tanto Microsoft Excel como Power BI. ¿En cuál de estos entornos es posible acceder y utilizar el Editor de Power Query y con qué propósito?
+En ambos; en Excel para preparar datos para hojas de cálculo y en Power BI para preparar datos para los modelos y visualizaciones.
+12.
+Un gerente de ventas quiere analizar el desempeño de su equipo. Necesita identificar rápidamente qué vendedores están por debajo de la meta de 5,000 euros (alerta roja), quiénes están cerca de la meta entre 5,000 y 7,000 euros (alerta amarilla), y quiénes la han superado ampliamente con más de 7,000 euros (señal verde). ¿Qué herramienta de formato condicional es la más adecuada para esta categorización específica?
+Un conjunto de reglas "Mayor que" y "Menor que" para definir los tres umbrales de color (rojo, amarillo, verde).
+13.
+Si el objetivo principal es identificar patrones y concentraciones de valores altos o bajos en un gran conjunto de datos, como temperaturas registradas durante un mes en un mapa de una región, ¿por qué serían las "Escalas de color" una opción más efectiva que las "Barras de datos"?
+Porque las escalas de color crean un "mapa de calor" que permite al cerebro detectar tendencias y zonas de concentración visualmente, mientras que las barras de datos se centran en la magnitud individual de cada celda.
+14.
+Usted está creando un dashboard para la dirección que debe comunicar el estado de las ventas regionales de un vistazo. Las ventas por debajo de 50,000 pesos deben ser evidentes de inmediato como un problema crítico. ¿Qué enfoque de formato condicional comunica esta información de la manera más directa e instantánea?
+Configurar un icono de flecha hacia abajo para todas las ventas inferiores al promedio del conjunto.
+
+Repasar
+15.
+Para configurar un dashboard que será utilizado por 50 vendedores, se requiere que solo puedan modificar la celda B5 y usar los segmentadores de datos, pero no alterar nada más. ¿Cuál es la secuencia correcta de pasos para lograr esta configuración de seguridad?
+Proteger la hoja, luego desbloquear la celda B5 y finalmente habilitar el uso de tablas y gráficos dinámicos.
+
+Repasar
+16.
+¿Cuál es el propósito principal de proteger una hoja de Excel sin establecer una contraseña?
+Funciona como una barrera para prevenir cambios accidentales, pero permite a los usuarios autorizados hacer modificaciones intencionadas fácilmente.
+17.
+¿Por qué el método de 'Obtener datos' > 'De una carpeta' en Power Query es considerado una forma poderosa de automatización, según los principios demostrados en la clase?
+Porque convierte automáticamente los datos en un informe de tabla dinámica como paso final obligatorio.
+
+Repasar
+18.
+Dentro de una tabla de Excel, ¿qué indica el uso del símbolo de arroba (`@`) en una fórmula como `=[@cantidad]*[@precio_unitario]`?
+Indica que la operación utiliza los valores de las columnas especificadas (`cantidad` y `precio_unitario`) únicamente de la fila actual.
+19.
+Al anidar la función COINCIDIR dentro de BUSCARV, como en la fórmula `BUSCARV(valor, matriz, COINCIDIR(...), 0)`, ¿qué problema específico se está resolviendo?
+Se obliga a BUSCARV a buscar por fila en lugar de por columna.
+
+Repasar
+20.
+Un analista necesita crear un reporte en Excel que extraiga un valor de ventas específico de una gran tabla. El reporte debe permitir al usuario seleccionar dinámicamente tanto el mes (criterio de fila) como la tienda (criterio de columna) desde listas desplegables. ¿Qué combinación de funciones, según lo visto en clase, es la más flexible y adecuada para esta búsqueda bidireccional?
+La función ÍNDICE anidada con dos funciones COINCIDIR.
