@@ -532,39 +532,193 @@ Ideal cuando un reporte de ventas o compras se compone de varios archivos y nece
 ![alt text](image-20.png)
 ![alt text](image-21.png)
 
+[DASHBOARD](dashboard-final_intermedio.xlsx)
 
 
 
 
+## CLASE 15: Funciones de búsqueda BUSCARV, BUSCARH y BUSCARX en Excel
 
 
-## CLASE 01: 
+**¿Cómo aplicar BUSCARV con coincidencia exacta y aproximada?**
+La base es identificar el campo llave: un dato que se repite en ambas tablas. Con BUSCARV traes información a partir de ese vínculo y controlas el comportamiento con el último argumento: 0 para coincidencia exacta y 1 para coincidencia aproximada.
+
+Valor buscado: el dato común entre tablas.
+Rango o matriz: la tabla donde se busca, fijada con F4.
+Indicador de columnas: empieza en 1 desde el inicio del rango.
+Coincidencia: 0 exacta, 1 aproximada.
+Ejemplos clave:
+
+Búsqueda exacta para producto por referencia: devuelve “gorra” al buscar R003.
+=BUSCARV(Referencia, Tabla, 2, 0)
+Tramos de impuestos con coincidencia aproximada: trae porcentaje y categoría según monto.
+=BUSCARV(Monto, TablaRangos, 2, 1)
+=BUSCARV(Monto, TablaRangos, 3, 1)
+Consejo práctico: en BUSCARV, el campo llave debe estar a la izquierda del dato que quieres traer. Usa F4 para fijar rangos y poder arrastrar la fórmula sin perder referencias.
+
+**¿Qué es el campo llave y cómo fijar con F4?**
+El campo llave es el identificador común entre tablas. Fija el rango con F4 para bloquear filas y columnas, evitar desplazamientos y “correr” la fórmula con confianza.
+
+**¿Cómo traer varias columnas a la vez con BUSCARV?**
+Ahorra tiempo devolviendo varias columnas en una sola fórmula usando una matriz constante entre llaves.
+
+>[!NOTE]
+> SUPER IMPORTANTE 
+ARCHIVO ADJUNTO -> [EJEMPLO DE FORMULAS EXCEL ](FORMULAS_BUSQUEDA.xlsx)  
+```
+=BUSCARV(ID, Tabla, {2,3,4,9}, 0)
+
+=BUSCARV(L65,$B$65:$I$101,{2,3,4,5},0)
+
+=SUMA(BUSCARV(F109,$B$109:$D$112,{2,3},0))
+
+=BUSCARV(H118&I118,$D$117:$E$170,2,0) => BUSCAR VARIOS CRITERIOS USAMOS EL ´&´
+```
+Devuelve: apellido, nombre, departamento y tarifa de pago al mismo tiempo.
+Ventaja: evitas repetir BUSCARV columna por columna.
+
+**¿Cómo funcionan rangos para impuestos con coincidencia aproximada?**
+
+Cuando el valor exacto no existe en la tabla, BUSCARV con 1 busca el intervalo más cercano por debajo. Úsalo para criterios de impuestos u otros tramos numéricos.
+
+**¿Cómo sumar y usar múltiples criterios con BUSCARV?**
+Además de buscar, BUSCARV puede participar en cálculos y búsquedas con más de un criterio. El secreto: anidar funciones y unir criterios con una columna de ayuda.
+
+**¿Cómo anidar SUMA con BUSCARV por columnas específicas?**
+Suma varias columnas devueltas por BUSCARV usando una matriz de índices.
+
+```
+=SUMA(BUSCARV("laptop", Tabla, {2,3}, 0))
+```
+
+Resultado mencionado: 35.400 para “laptop” en 2024 y 2025.
+Clave: coincidencia exacta para que encuentre exactamente “laptop”.
+
+**¿Cómo unir criterios con concatenar o ampersand?**
+Para buscar por nombre y departamento a la vez, crea una columna de ayuda que concatene ambos criterios con & o CONCATENAR.
+
+```
+=BUSCARV(Nombre&Departamento, ColumnaAyuda:Salario, 2, 0)
+```
+Uso típico: encontrar a Nate Harris en Recursos Humanos y traer el salario.
+Resultado mencionado: 70.556.
+
+**¿Cuándo usar BUSCARX y BUSCARH para mayor flexibilidad?**
+
+BUSCARX elimina limitaciones de BUSCARV: ya no exige que el campo llave esté a la izquierda y ofrece manejos de error y modos de coincidencia y búsqueda. BUSCARH aplica la misma lógica de búsqueda, pero con datos en horizontal.
+
+**¿Qué resuelve BUSCARX frente a BUSCARV?**
+
+Con BUSCARX eliges la matriz buscada (donde está el campo llave) y la matriz de vuelta (lo que quieres traer) en cualquier orden. Requiere Excel 365 o versión 2016 o superior.
+
+```
+=BUSCARX(Valor, MatrizBuscada, MatrizDeVuelta)
+
+=BUSCARX(M178,$D$178:$D$268,$B$178:$B$268,"NO HAY",0,1) => LAS TRES ULTIMAS SON OCCIONALES YA QUE ESTAN EN [] 
+```
+
+No importa si el campo llave está a la derecha o izquierda.
+Más robusta, con parámetros opcionales entre corchetes.
+
+**¿Cómo configurar if_not_found, match_mode y search_mode?**
+
+Personaliza el comportamiento sin fórmulas adicionales:
+
+```
+=BUSCARX(Valor, MatrizBuscada, MatrizDeVuelta, "no hay dato", 0, 1)
+
+```
+if_not_found: texto si no encuentra coincidencias.
+match_mode: 0 exacta, opciones para siguiente menor o mayor.
+search_mode: desde el primero al último, del último al primero, ascendente o descendente.
+
+**¿Cómo recuperar datos en horizontal con BUSCARH?**
+Si los encabezados están en filas, usa BUSCARH. Cambia “indicador de columnas” por indicador de filas.
+
+```
+=BUSCARH("fila cuatro", RangoHorizontal, 2, 0)
+
+```
+
+Caso típico: buscar “fila cuatro” y devolver la “meta”.
+Igual que BUSCARV: fija el rango con F4 y define coincidencia exacta o aproximada.
 
 
-## CLASE 01: 
+## CLASE 16: Función Coincidir para obtener posiciones automáticas en Excel 
+
+**¿Qué resuelve coincidir en búsquedas verticales y horizontales?**
+
+Coincidir devuelve la posición del elemento buscado dentro de un rango, tanto de forma vertical como horizontal. Con el tipo de coincidencia exacta (0), identifica el valor exacto, por ejemplo PQR o un encabezado como ID empleado.
+
+Valor buscado: PQR, ID empleado, ID inventario.
+Rango matriz: seleccionar toda la "matricita" donde buscar y fijar con F4.
+Coincidencia exacta (0): garantiza que el resultado sea el encabezado o dato exacto.
+Resultado: la posición, como 6 al buscar PQR en columnas, u 8 al buscar v, w, x en filas.
+
+**¿Cómo configurar el rango matriz y la coincidencia exacta?**
+
+Selecciona el rango completo donde existan los encabezados o valores objetivo.
+Fija el rango: evita que se mueva al copiar la fórmula.
+Usa 0 para coincidencia exacta: asegura el match correcto.
+
+**¿Cómo interpretar el resultado de posición?**
+
+Un retorno 6 significa: uno, dos, tres, cuatro, cinco, seis dentro del rango.
+En horizontal, un retorno 8 ubica la columna/posición para extraer datos.
+Coincidir casi nunca va sola: suele anidarse para informar el número de fila o columna a otra función de búsqueda.
+
+**¿Cómo se integra coincidir con índice para coordenadas dinámicas?**
+
+Índice recibe una matriz de datos (tu “carnita” sin encabezados) y requiere dos números: número de fila y número de columna. Coincidir entrega ambos, como si fuera una coordenada de ajedrez: vertical para el mes y horizontal para la tienda.
+
+Matriz: seleccionar solo los datos, sin encabezados verticales ni horizontales.
+Número de fila (mes): Coincidir con "abril" y coincidencia exacta.
+Número de columna (tienda): Coincidir con "tienda siete" y coincidencia exacta.
+Funciones anidadas: colocar cada Coincidir directamente dentro de Índice para que todo sea dinámico.
+
+**¿Cómo crear la coordenada con dos coincidir?**
+
+Coincidir del mes devuelve la fila exacta.
+Coincidir de la tienda devuelve la columna exacta.
+Índice usa ambos resultados y regresa el valor correcto que cambia al seleccionar otro mes o tienda.
+
+**¿Cómo aplicarlo con buscar v y validación de datos?**
+
+El flujo completo parte de listas, pasa por Coincidir y termina en buscar V o Índice, según prefieras. La clave es que el número de columna dependa de Coincidir, o que Índice reciba fila y columna desde dos Coincidir.
+
+**¿Cómo crear listas con validación de datos?**
+
+Ir a datos > validación de datos > lista.
+En origen, seleccionar todos los productos (tiendas) y aceptar.
+Repetir para los meses.
+Con esto, elegir tienda cinco o cualquier tienda y cualquier mes hará que los datos cambien de forma dinámica.
+
+**¿Cómo comparar buscar v + coincidir vs índice + coincidir?**
+
+buscar V + Coincidir: Coincidir define el número de columna según el mes seleccionado; buscar V usa 0 para coincidencia exacta y el rango con F4.
+Índice + Coincidir: la matriz es la “carnita” sin encabezados; un Coincidir define la fila (mes) y otro la columna (tienda), ambos con 0.
+Ambos devuelven la misma cantidad al elegir, por ejemplo, tienda tres y abril, y cambian al modificar las listas.
+
+Consejos prácticos.
+
+Fija rangos con F4 para evitar desplazamientos.
+Excluye encabezados al definir la matriz de Índice.
+Usa coincidencia exacta (0) en todos los Coincidir de este escenario.
+Anida Coincidir para automatizar fila y columna sin conteos manuales.
+
+## CLASE 17: 
 
 
-## CLASE 01: 
+## CLASE 18: 
 
 
-## CLASE 01: 
+## CLASE 19: 
+
+## CLASE 20: 
 
 
-## CLASE 01: 
-
-## CLASE 01: 
+## CLASE 21: 
 
 
-## CLASE 01: 
-
-
-## CLASE 01: 
-
-## CLASE 01: 
-
-## CLASE 01: 
-
-
-
-## CLASE 01: 
+## CLASE 22: 
 
