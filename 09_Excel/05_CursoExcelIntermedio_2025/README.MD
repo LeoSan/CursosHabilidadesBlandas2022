@@ -772,53 +772,172 @@ Comprender el motivo evita diagnósticos erróneos. No es que Excel “esté mal
 
 ## CLASE 19: Instalación y uso de Solver en Excel para optimización
 
-¿Para qué usar Solver de Excel en optimización con restricciones?
+**¿Para qué usar Solver de Excel en optimización con restricciones?**
+
 Solver es ideal cuando necesitas maximizar una ganancia, minimizar costos o alcanzar un valor específico, siempre con límites que no puedes violar. En el ejemplo, se busca la mejor combinación de pasteles de plátano y zarzamora con restricciones de producción diaria, masa disponible y tope por tipo.
 
-Problemas típicos: capacidad, inventario, presupuesto o crédito.
-Objetivos posibles: maximizar, minimizar o igualar a un valor.
-Beneficio clave: encuentra el número óptimo respetando todas las restricciones.
-¿Cómo instalar y activar el complemento Solver en Excel?
+- Problemas típicos: capacidad, inventario, presupuesto o crédito.
+- Objetivos posibles: maximizar, minimizar o igualar a un valor.
+- Beneficio clave: encuentra el número óptimo respetando todas las restricciones.
+
+
+**¿Cómo instalar y activar el complemento Solver en Excel?**
+
 Antes de usarlo, hay que activar el complemento para que aparezca en la pestaña Datos.
 
-Ve a archivo > opciones > complementos.
-En administrar, elige complementos de Excel y pulsa ir.
-Marca la casilla Solver y acepta.
-Revisa en datos: debe aparecer Solver en el bloque de análisis.
-Si no aparece: cierra Excel, reinicia si hace falta y vuelve a abrir.
-¿Cómo configurar el modelo en Solver para maximizar la ganancia?
+- Ve a archivo > opciones > complementos.
+- En administrar, elige complementos de Excel y pulsa ir.
+- Marca la casilla Solver y acepta.
+- Revisa en datos: debe aparecer Solver en el bloque de análisis.
+- Si no aparece: cierra Excel, reinicia si hace falta y vuelve a abrir.
+
+**¿Cómo configurar el modelo en Solver para maximizar la ganancia?**
+
 El caso: dos pasteles, plátano y zarzamora. Datos clave: plátano usa 0.250 kg de masa y gana 100 pesos; zarzamora usa 0.500 kg y gana 130 pesos. Restricciones: máximo 150 pasteles al día, como tope adicional 90 por tipo, y masa total disponible de 50 kg. Además, las cantidades deben ser enteras.
 
-¿Cuál es el objetivo de optimización?
-Objetivo: maximizar la ganancia.
-Fórmula: ganancia plátano por cantidad de plátano + ganancia zarzamora por cantidad de zarzamora.
-Clave: la celda objetivo debe tener la fórmula ya escrita para que Solver pueda evaluarla.
-Alternativas: puedes seleccionar minimizar o establecer igual a un valor específico si el problema lo requiere.
-¿Qué celdas varían como variables de decisión?
-Variables: cantidades a producir de cada pastel (por ejemplo, X para plátano y Y para zarzamora).
-En el modelo, Solver cambia esas celdas para cumplir restricciones y optimizar el objetivo.
-¿Qué restricciones deben cumplirse?
-Capacidad diaria: total de pasteles ≤ 150.
-Límite por tipo: plátano ≤ 90 y zarzamora ≤ 90.
-Masa máxima: 0.250 × plátano + 0.500 × zarzamora ≤ 50 kg.
-Naturaleza de la decisión: variables deben ser enteras (no se producen fracciones de pastel).
-En la ventana de restricciones puedes usar: mayor que, menor que, igual. También tipos: entero, binario o diferente.
-Para agregar restricciones: pulsa agregar, selecciona la celda y elige la condición adecuada.
-¿Qué método y qué solución entrega Solver?
-Modelo: con nonlinear funciona bien para este planteamiento.
-Proceso: define el objetivo, señala las celdas variables, agrega restricciones y pulsa resolver.
-Resultados: se muestra la ventana de resultados de Solver y puedes aceptar para escribir los valores óptimos.
-Interpretación del óptimo: produce el máximo de plátano permitido y 55 de zarzamora para alcanzar la ganancia máxima.
-Restricciones activas: la masa llega al tope de 50 kg y el total de pasteles queda en 145 unidades. La masa es la limitante principal.
-Mejora del escenario: si aumentas la masa disponible, la siguiente limitante puede ser el total de pasteles diarios.
+**¿Cuál es el objetivo de optimización?**
 
-## CLASE 20: 
+- Objetivo: maximizar la ganancia.
+- Fórmula: ganancia plátano por cantidad de plátano + ganancia zarzamora por cantidad de zarzamora.
+- Clave: la celda objetivo debe tener la fórmula ya escrita para que Solver pueda evaluarla.
+- Alternativas: puedes seleccionar minimizar o establecer igual a un valor específico si el problema lo requiere.
+
+**¿Qué celdas varían como variables de decisión?**
+
+- Variables: cantidades a producir de cada pastel (por ejemplo, X para plátano y Y para zarzamora).
+- En el modelo, Solver cambia esas celdas para cumplir restricciones y optimizar el objetivo.
+
+**¿Qué restricciones deben cumplirse?**
+
+- Capacidad diaria: total de pasteles ≤ 150.
+- Límite por tipo: plátano ≤ 90 y zarzamora ≤ 90.
+- Masa máxima: 0.250 × plátano + 0.500 × zarzamora ≤ 50 kg.
+- Naturaleza de la decisión: variables deben ser enteras (no se producen fracciones de pastel).
+- En la ventana de restricciones puedes usar: mayor que, menor que, igual. También tipos: entero, binario o diferente.
+- Para agregar restricciones: pulsa agregar, selecciona la celda y elige la condición adecuada.
+
+**¿Qué método y qué solución entrega Solver?**
+
+- Modelo: con nonlinear funciona bien para este planteamiento.
+- Proceso: define el objetivo, señala las celdas variables, agrega restricciones y pulsa resolver.
+- Resultados: se muestra la ventana de resultados de Solver y puedes aceptar para escribir los valores óptimos.
+- Interpretación del óptimo: produce el máximo de plátano permitido y 55 de zarzamora para alcanzar la ganancia máxima.
+- Restricciones activas: la masa llega al tope de 50 kg y el total de pasteles queda en 145 unidades. La masa es la limitante principal.
+- Mejora del escenario: si aumentas la masa disponible, la siguiente limitante puede ser el total de pasteles diarios.
 
 
-## CLASE 21: 
+![alt text](image-22.png)
+
+![alt text](image-23.png)
 
 
-## CLASE 22: 
+## CLASE 20: Consolidación automática de archivos con Power Query
+
+**¿Qué es Power Query y por qué ahorra tiempo?**
+Power Query es una herramienta de automatización y limpieza de datos integrada en Excel, y también disponible en Power BI. Permite conectarte a diversas fuentes, aplicar pasos de transformación y cargar resultados sin repetir procesos manuales. El valor está en la conexión: piénsalo como un “tubito” desde tu fuente de origen hacia Excel, siempre listo para actualizar.
+
+Escenario típico: recibes archivos con registros similares y necesitas concentrarlos para un reporte. Antes tomaba horas; con Power Query, basta usar el menú de datos > obtener datos > de un archivo > de una carpeta. Al combinar, se genera una vista previa y luego se puede cargar en una tabla, tabla dinámica o gráfico dinámico en una hoja nueva. En el ejemplo, se integraron ventas del 2024 desde el mes uno hasta el mes cinco y se mostraron ocho mil ciento setenta y dos filas consolidadas.
+
+Habilidades y conceptos clave que practicas: - Automatización de procesos: un flujo que se repite sin rehacer pasos. - Limpieza y combinación de datos: unificar archivos con las mismas columnas. - Conexión desde carpeta: mantener una ruta única para agregar nuevos archivos. - Carga eficiente: elegir entre tabla, tabla dinámica o gráfico dinámico. - Actualización de consultas: reflejar cambios con el botón actualizar.
+
+**¿Cómo combinar archivos desde una carpeta en Excel?**
+Sigue este flujo para unir archivos con las mismas columnas y ahorrar tiempo.
+
+Ir a datos > obtener datos > de un archivo > de una carpeta.
+Seleccionar la carpeta con los archivos a combinar.
+Elegir combinar y cargar o combinar y cargar en.
+Revisar la vista previa y dar aceptar.
+Decidir dónde cargar: tabla, tabla dinámica, gráfico dinámico o hoja nueva.
+Verificar el resultado: se muestran todas las filas consolidadas de los meses integrados.
+Detalles importantes para no fallar: - Los archivos deben tener exactamente las mismas columnas. - Mantén todos los archivos en la misma carpeta. - Observa el panel lateral: indica cuántas filas se cargaron para comprobar consistencia.
+
+**¿Qué buenas prácticas aseguran datos actualizados?**
+La clave es la conexión desde una carpeta. Cuando agregues el mes seis, siete u ocho en esa misma ruta, solo presiona actualizar en Power Query y los datos nuevos aparecerán en tu Excel. Este enfoque asegura que cada cambio en la fuente se refleje en tu reporte, sin importar la frecuencia.
+
+Buenas prácticas recomendadas: - Usar una carpeta exclusiva para los archivos del proceso. - Nombrar archivos con un patrón consistente por mes o periodo. - Validar el conteo de filas tras actualizar (ejemplo: ocho mil ciento setenta y dos filas cargadas). - Elegir el tipo de carga adecuado según el análisis: tabla para detalle, tabla o gráfico dinámico para análisis.
+
+![alt text](image-24.png)
+
+
+## CLASE 21: Limpieza automática de datos con Power Query desde carpetas
+
+¿Cómo automatizar la limpieza con Power Query desde una carpeta?
+Conecta la carpeta que contiene los archivos por año para unificar y transformar todo en un flujo reproducible. El ejemplo usa 2017 y 2018, dejando 2019 y 2020 para probar la actualización automática.
+
+Ir a Excel: datos > obtener datos > desde archivo > desde una carpeta.
+Seleccionar la carpeta con 2017 y 2018. Abrir.
+Elegir combinar y transformar en para editar antes de cargar.
+En el editor, revisar los pasos aplicados: cada acción queda registrada como una “receta”.
+La estructura de carpeta importa: nuevos años heredarán la misma limpieza de datos.
+¿Qué diferencias hay entre transformar y agregar columna?
+Transformar: edita sobre la misma columna. Ideal para dividir, cambiar tipo o limpiar texto.
+Agregar columna: crea un nuevo resultado sin alterar el original. Útil para cálculos y derivados.
+Ejemplos: extraer el nombre con columna a partir de ejemplos (agregar). Dividir por delimitador (transformar). Multiplicar campos (agregar).
+¿Por qué importan el orden y la vista previa?
+En operaciones con fechas, el orden de selección es clave: primero fecha de entrega, luego fecha de orden para restar días correctamente.
+La vista previa muestra ~mil filas: sirve para validar la transformación sin cargar todo.
+¿Qué transformaciones limpian cabeceras y texto de forma rápida?
+Cuando las cabeceras llegan en dos filas, Power Query permite arreglarlo sin fórmulas complejas.
+
+Quitar el paso automático de encabezados promovidos si las cabeceras están mal.
+Transponer, combinar las columnas 1 y 2 con separador espacio para un solo encabezado, y transponer de nuevo.
+Usar usar la primera fila como encabezados para fijar las cabeceras correctas.
+Dividir columna por delimitador personalizado en “modo de envío - contenedor”: usar espacio - guion - espacio.
+Renombrar: “modo de envío” y “contenedor”.
+Filtrar los valores no válidos: “not specified” o “no hay dato específico”.
+Si aparece error por nombres cambiados, quitar el paso tipo cambiado y aplicar al final detectar tipo de datos.
+Verifica iconos ABC/123. Ajusta “porcentaje de descuento” a porcentaje si se marcó como número.
+¿Cómo extraer solo el nombre con columna a partir de ejemplos?
+Seleccionar la columna de nombre completo.
+Ir a agregar columna > columna a partir de ejemplos.
+Escribir solo el nombre, por ejemplo “Robert”, y confirmar la sugerencia automática.
+Aceptar y renombrar la columna. Evitas múltiples funciones de texto.
+¿Cómo calcular métricas y cargar datos para análisis en Excel?
+Calcula indicadores clave y deja todo listo para tablas dinámicas o dashboards.
+
+Importe venta: seleccionar “cantidad” y “precio por unidad” con Ctrl > agregar columna > estándar > multiplicar. Renombrar.
+Días de entrega: seleccionar “fecha de entrega”, luego Ctrl “fecha de orden” > fecha > restar días. Renombrar.
+Detectar tipo de datos: seleccionar todas las columnas > transformar > detectar tipo de datos.
+Ajustar formatos: cambiar descuento a porcentaje y sustituir la actual.
+Cerrar y cargar en: cargar como tabla en Excel para analizar y refrescar con un clic.
+Agregar 2019 y 2020 a la misma carpeta: la actualización automática aplicará todos los pasos de limpieza y actualizará tus tablas dinámicas o dashboard.
+
+
+## CLASE 22:  Integración de Power Query con tablas dinámicas y dashboards
+¿Cómo crear una tabla dinámica y gráfico dinámico para tu dashboard?
+Comienza estructurando la vista de análisis con campos clave y un visual simple. Esto te da claridad inmediata y base para automatizar después.
+
+Ir a insertar: tabla dinámica en nueva hoja de cálculo.
+Poner fecha de orden en filas.
+Poner modo de envío en columnas.
+Poner importe de venta en valores.
+Aplicar formato para que los números sean legibles.
+Agregar un gráfico dinámico sencillo para comparar por periodo y envío.
+¿Qué campos y visuales importan para el análisis?
+Fecha de orden: permite comparar periodos y ver tendencias.
+Modo de envío: segmenta resultados por canal logístico.
+Importe de venta: concentra el indicador financiero prioritario.
+Gráfico dinámico: comunica variaciones de forma inmediata.
+¿Qué hace la magia de Power Query al actualizar datos?
+La magia de Power Query está en que, al agregar archivos nuevos a la carpeta origen, todos pasan por el mismo proceso de limpieza diseñado al inicio. Así, los datos se integran a tu modelo sin repetir trabajo manual y se reflejan en tus visuales tras actualizar.
+
+Copiar a la carpeta los archivos del periodo que necesites.
+Ir a Excel y pulsar actualizar.
+Verificar cómo aumenta el volumen: de cerca de 3,000 filas a 6,727 tras integrar nuevos años.
+Actualizar la tabla dinámica y el gráfico dinámico para ver los nuevos periodos.
+¿Qué problemas resuelve el proceso de limpieza?
+Cabeceras inconsistentes: estandariza nombres como importe total.
+Cálculos faltantes: incorpora la diferencia de los días u otros campos derivados.
+Consolidación: une múltiples archivos con mismo esquema en una sola tabla confiable.
+Automatización: cada archivo agregado repite la limpieza en segundos.
+¿Cómo integrar Power Query con tu dashboard interactivo?
+Cada visual del tablero puede venir de una tabla dinámica conectada a una tabla que, a su vez, se alimenta de Power Query. En lugar de depender de un solo archivo estático, conectas directamente a la carpeta con tus fuentes. Luego, solo das actualizar en las tablas dinámicas y el cambio se refleja en el dashboard.
+
+Flujo recomendado: carpeta de archivos → Power Query con limpieza → tablas → tablas dinámicas → dashboard.
+Beneficios clave: consistencia de columnas, cálculo de campos faltantes, unión de periodos, actualización centralizada.
+Resultado práctico: integrar dos años adicionales u otros periodos sin rehacer pasos.
+
+
 
 
 ## Resumen 
