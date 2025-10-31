@@ -955,6 +955,7 @@ La tabla dinámica necesita ser actualizada porque se agregaron nuevos datos de 
 3.
 Un gerente desea comparar las ventas mensuales de 2023 con las de 2022. Al crear la tabla dinámica, Excel agrupa automáticamente las fechas por Años, Trimestres y Meses. ¿Cuál es el diseño más efectivo en la tabla dinámica para facilitar esta comparación directa?
 Usar el campo 'Años' como Filtro de Informe y seleccionar un año a la vez para verlo.
+Colocar tanto 'Años' como 'Meses' en el área de Filas, con 'Años' encima de 'Meses'.
 
 **REPASAR**
 
@@ -987,9 +988,7 @@ Existen inconsistencias en los datos, como espacios adicionales o diferencias de
 10.
 Un analista recibe informes de ventas mensuales en archivos CSV separados por región. ¿Cómo facilitaría Power Query la tarea de consolidar y limpiar estos datos para un informe anual de manera eficiente?
 
-Convirtiendo automáticamente los archivos CSV a formato de Excel sin necesidad de intervención.
-Limitando la conexión a un único archivo CSV a la vez para garantizar la calidad de los datos.
-**REPASAR**
+Permitiendo automatizar los pasos de conexión, combinación y limpieza, que se pueden reutilizar cada mes.
 
 11.
 Una empresa utiliza tanto Microsoft Excel como Power BI. ¿En cuál de estos entornos es posible acceder y utilizar el Editor de Power Query y con qué propósito?
@@ -1009,16 +1008,13 @@ Si el objetivo principal es identificar patrones y concentraciones de valores al
 
 14.
 Usted está creando un dashboard para la dirección que debe comunicar el estado de las ventas regionales de un vistazo. Las ventas por debajo de 50,000 pesos deben ser evidentes de inmediato como un problema crítico. ¿Qué enfoque de formato condicional comunica esta información de la manera más directa e instantánea?
-Configurar un icono de flecha hacia abajo para todas las ventas inferiores al promedio del conjunto.
-
-**REPASAR**
+Aplicar una regla "Menor que 50,000" para colorear las celdas correspondientes con un fondo rojo sólido.
 
 15.
 Para configurar un dashboard que será utilizado por 50 vendedores, se requiere que solo puedan modificar la celda B5 y usar los segmentadores de datos, pero no alterar nada más. ¿Cuál es la secuencia correcta de pasos para lograr esta configuración de seguridad?
 Proteger la hoja, luego desbloquear la celda B5 y finalmente habilitar el uso de tablas y gráficos dinámicos.
 
 **REPASAR**
-
 
 16.
 ¿Cuál es el propósito principal de proteger una hoja de Excel sin establecer una contraseña?
@@ -1087,9 +1083,7 @@ La celda volverá a ser amarilla porque la regla de formato condicional se reeva
 
 29. Un gerente desea un KPI que muestre las ventas totales en un período específico, pero únicamente de la categoría 'Electrónica' y realizadas por el vendedor 'Juan'. La estructura de datos contiene columnas para Fecha, Vendedor, Categoría y Monto. ¿Qué fórmula permitiría este cálculo de forma directa?
 
-=CONTAR.SI.CONJUNTO(Monto, Fecha, '>='&D1, Fecha, '<='&D2, Vendedor, 'Juan', Categoría, 'Electrónica')
-=SUMAR.SI.CONJUNTO(Monto, Fecha, '>='&D1, Fecha, '<='&D2, Vendedor, 'Juan')
-**REPASAR**
+- =SUMAR.SI.CONJUNTO(Monto, Fecha, '>='&D1, Fecha, '<='&D2, Vendedor, 'Juan', Categoría, 'Electrónica')
 
 30. Un analista de ventas necesita responder la siguiente pregunta de negocio: "¿Cuál fue el total de ventas para cada categoría de producto en cada región?". Si su tabla de datos contiene las columnas 'Producto', 'Categoría', 'Región' y 'Ventas', ¿cuál es la configuración correcta de áreas en la tabla dinámica para responder a esta pregunta?
 
@@ -1162,8 +1156,33 @@ Servir como un puente dinámico que recibe las fechas de inicio y fin del segmen
 Actúa como el filtro principal, sobreescribiendo cualquier otro filtro aplicado en las tablas dinámicas.
 **REPASAR**
 
-
 46. ¿Cuál es el estado de bloqueo predeterminado de todas las celdas en una hoja de cálculo de Excel y en qué momento se vuelve efectiva dicha protección?
 
 Las celdas están desbloqueadas por defecto y se deben bloquear manualmente antes de proteger la hoja.
 **REPASAR**
+
+47. Comparando la fórmula `ÍNDICE(matriz, COINCIDIR(...), COINCIDIR(...))` con `BUSCARV(valor, matriz, COINCIDIR(...), 0)`, ¿cuál es la ventaja estructural clave del método con ÍNDICE para crear reportes interactivos?
+- Permite que tanto la fila como la columna sean dinámicas, sin estar restringido a buscar en la primera columna.
+
+48. Un analista de inventario establece una regla de formato condicional para colorear de amarillo las celdas con menos de 20 unidades de un producto. Si posteriormente cambia manualmente el color de una celda que contiene "15" a verde, ¿qué ocurrirá si el valor de esa misma celda se actualiza a "12"?
+
+- La celda volverá a ser amarilla porque la regla de formato condicional se reevalúa y tiene prioridad sobre el formato manual.
+
+49. Se quiere crear un KPI para contar el número de transacciones superiores a $1,000 en la región 'Norte'. ¿Cuál de las siguientes funciones y configuraciones es la más adecuada para lograr un KPI independiente y eficiente?
+ - Una tabla dinámica filtrada por región y luego un filtro de valor para montos superiores a $1,000.
+
+**REPASAR**
+
+50. ¿Cuál es la relación correcta entre el "Editor de Power Query", los "Conectores de datos" y las "Consultas"?
+
+- El Editor es la interfaz donde se usan Conectores para acceder a las fuentes y se crean Consultas que registran los pasos de transformación.
+
+51. Al insertar segmentadores de datos en un reporte, ¿cuál de los siguientes ajustes mencionados en la clase permite organizar una larga lista de elementos en un formato más compacto y legible?
+
+- Ajustar el número de columnas desde la pestaña 'Segmentación'.
+52. Estás presentando un dashboard de ventas en una reunión y un director te pide ver el rendimiento combinado de las regiones 'Norte' y 'Este' inmediatamente. ¿Cuál es el método más eficiente para mostrar esta información utilizando un segmentador de datos ya existente?
+
+- Hacer clic en 'Norte' y, manteniendo presionada la tecla Ctrl, hacer clic en 'Este'.
+
+
+
