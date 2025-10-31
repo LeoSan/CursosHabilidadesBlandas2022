@@ -1063,8 +1063,8 @@ Facilitar un análisis visual instantáneo de los datos, permitiendo una rápida
 
 
 26. Si el objetivo es preparar datos para un análisis posterior, ¿qué define a Power Query como una herramienta de ETL?
-Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
 
+Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
 Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
 
 
@@ -1086,7 +1086,37 @@ REPASAR
 
 'Categoría' en el área de Filas, 'Región' en el área de Columnas, y 'Suma de Ventas' en el área de Valores.
 
-31 .¿Cuál es la ventaja más significativa de basar una tabla dinámica en una 'Tabla de Excel' (creada con Ctrl+T) en lugar de un rango de celdas estático?
+31. ¿Cuál es la ventaja más significativa de basar una tabla dinámica en una 'Tabla de Excel' (creada con Ctrl+T) en lugar de un rango de celdas estático?
 
 El rango de origen se vuelve dinámico, expandiéndose automáticamente para incluir nuevas filas o columnas que se añadan a la tabla.
 
+
+32. Has creado un dashboard con una tabla dinámica de ventas por producto y un gráfico dinámico de ventas por región. ¿Cómo puedes configurar el dashboard para que un solo segmentador de 'Año' actúe como un 'control maestro' que filtre ambos elementos simultáneamente?
+
+
+
+33. Un gerente de ventas reporta que, tras proteger un nuevo dashboard, los segmentadores de datos (slicers) han dejado de funcionar, pero aún puede editar la celda B5 que se dejó habilitada para ingresar una tasa de crecimiento. ¿Cuál es la causa más probable de este fallo específico?
+ REPASAR
+
+ 34. Un analista de datos ha configurado una macro para actualizar automáticamente una tabla dinámica llamada "VentasRegionales" cada vez que se activa su hoja. Sin embargo, al probarla, la tabla dinámica no refleja los datos nuevos que se han añadido a la fuente de origen. Sabiendo que los datos de origen ya están en formato de tabla y que el archivo está guardado como .xlsm, ¿cuál de las siguientes opciones representa la causa más probable de este problema según lo visto en la clase?
+
+La opción "Actualizar al abrir el archivo" está deshabilitada en las opciones de la tabla dinámica.
+ REPASAR
+
+ 35. ¿Cuál es el propósito principal de utilizar una tabla dinámica en Excel?
+
+Resumir, agrupar y analizar grandes volúmenes de datos para obtener insights sin necesidad de usar fórmulas complejas.
+
+ 36. ¿Cuál es el propósito principal de la función COINCIDIR en Excel, según lo explicado en la clase?
+Devolver la posición numérica de un valor dentro de un rango de celdas.
+
+ 37. ¿Cuál es la principal ventaja de utilizar un KPI independiente en lugar de una tabla dinámica para un informe ejecutivo de ventas, según la analogía del 'velocímetro de un coche'?
+
+Ofrece un valor único, enfocado y de rápida interpretación para facilitar decisiones gerenciales inmediatas.
+
+38. ¿Cuál es la función principal de las celdas auxiliares D1 y D2 en la creación de un KPI de ventas mensuales dinámico?
+Servir como un puente dinámico que recibe las fechas de inicio y fin del segmentador de períodos y las pasa a la fórmula.
+
+39. Un usuario crea un dashboard con un gráfico de ventas por región y una tabla de ventas por vendedor, ambos derivados de la misma tabla de datos. Inserta un segmentador de 'Producto' pero observa que solo filtra el gráfico. ¿Qué acción específica debe realizar para que el segmentador también filtre la tabla?
+
+Hacer clic derecho en el segmentador, seleccionar 'Conexiones de informe' y activar la casilla de la tabla dinámica de ventas por vendedor.
