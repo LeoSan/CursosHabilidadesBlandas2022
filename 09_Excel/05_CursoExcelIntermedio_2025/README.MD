@@ -945,18 +945,18 @@ Resultado práctico: integrar dos años adicionales u otros periodos sin rehacer
 1.
 Una cadena de tiendas configura una tabla dinámica con las sucursales en las columnas ('Centro', 'Norte', 'Sur') y los productos en las filas. Si el objetivo es identificar qué producto es relativamente más importante para las ventas *dentro de la sucursal Norte específicamente*, ¿qué cálculo de porcentaje es el más adecuado?
 Diferencia con respecto al valor anterior.
-Repasar
+**REPASAR**
 
 2.
 Un analista intenta agrupar datos de ventas por mes en una tabla dinámica, pero la opción 'Agrupar Campo' está deshabilitada (en gris). ¿Cuál es la causa más probable de este problema?
 La tabla dinámica necesita ser actualizada porque se agregaron nuevos datos de ventas.
-Repasar
+**REPASAR**
 
 3.
 Un gerente desea comparar las ventas mensuales de 2023 con las de 2022. Al crear la tabla dinámica, Excel agrupa automáticamente las fechas por Años, Trimestres y Meses. ¿Cuál es el diseño más efectivo en la tabla dinámica para facilitar esta comparación directa?
 Usar el campo 'Años' como Filtro de Informe y seleccionar un año a la vez para verlo.
 
-Repasar
+**REPASAR**
 
 4.
 Estás diseñando un dashboard y has añadido un segmentador para una lista de 20 productos, lo que resulta en una larga lista vertical que ocupa mucho espacio en la pantalla. ¿Cuál es la estrategia de personalización más efectiva para presentar estos botones de forma profesional y compacta?
@@ -989,7 +989,7 @@ Un analista recibe informes de ventas mensuales en archivos CSV separados por re
 
 Convirtiendo automáticamente los archivos CSV a formato de Excel sin necesidad de intervención.
 Limitando la conexión a un único archivo CSV a la vez para garantizar la calidad de los datos.
-Repasar
+**REPASAR**
 
 11.
 Una empresa utiliza tanto Microsoft Excel como Power BI. ¿En cuál de estos entornos es posible acceder y utilizar el Editor de Power Query y con qué propósito?
@@ -998,45 +998,51 @@ En ambos; en Excel para preparar datos para hojas de cálculo y en Power BI para
 
 12.
 Un gerente de ventas quiere analizar el desempeño de su equipo. Necesita identificar rápidamente qué vendedores están por debajo de la meta de 5,000 euros (alerta roja), quiénes están cerca de la meta entre 5,000 y 7,000 euros (alerta amarilla), y quiénes la han superado ampliamente con más de 7,000 euros (señal verde). ¿Qué herramienta de formato condicional es la más adecuada para esta categorización específica?
-Un conjunto de reglas "Mayor que" y "Menor que" para definir los tres umbrales de color (rojo, amarillo, verde).
+
+- Un conjunto de reglas "Mayor que" y "Menor que" para definir los tres umbrales de color (rojo, amarillo, verde).
 
 13.
 Si el objetivo principal es identificar patrones y concentraciones de valores altos o bajos en un gran conjunto de datos, como temperaturas registradas durante un mes en un mapa de una región, ¿por qué serían las "Escalas de color" una opción más efectiva que las "Barras de datos"?
-Porque las escalas de color crean un "mapa de calor" que permite al cerebro detectar tendencias y zonas de concentración visualmente, mientras que las barras de datos se centran en la magnitud individual de cada celda.
+
+- Porque las escalas de color crean un "mapa de calor" que permite al cerebro detectar tendencias y zonas de concentración visualmente, mientras que las barras de datos se centran en la magnitud individual de cada celda.
 
 
 14.
 Usted está creando un dashboard para la dirección que debe comunicar el estado de las ventas regionales de un vistazo. Las ventas por debajo de 50,000 pesos deben ser evidentes de inmediato como un problema crítico. ¿Qué enfoque de formato condicional comunica esta información de la manera más directa e instantánea?
 Configurar un icono de flecha hacia abajo para todas las ventas inferiores al promedio del conjunto.
 
-Repasar
+**REPASAR**
 
 15.
 Para configurar un dashboard que será utilizado por 50 vendedores, se requiere que solo puedan modificar la celda B5 y usar los segmentadores de datos, pero no alterar nada más. ¿Cuál es la secuencia correcta de pasos para lograr esta configuración de seguridad?
 Proteger la hoja, luego desbloquear la celda B5 y finalmente habilitar el uso de tablas y gráficos dinámicos.
 
-Repasar
+**REPASAR**
 
 
 16.
 ¿Cuál es el propósito principal de proteger una hoja de Excel sin establecer una contraseña?
-Funciona como una barrera para prevenir cambios accidentales, pero permite a los usuarios autorizados hacer modificaciones intencionadas fácilmente.
+
+- Funciona como una barrera para prevenir cambios accidentales, pero permite a los usuarios autorizados hacer modificaciones intencionadas fácilmente.
 
 17.
 ¿Por qué el método de 'Obtener datos' > 'De una carpeta' en Power Query es considerado una forma poderosa de automatización, según los principios demostrados en la clase?
-Porque convierte automáticamente los datos en un informe de tabla dinámica como paso final obligatorio.
 
-Repasar
+Porque convierte automáticamente los datos en un informe de tabla dinámica como paso final obligatorio.
+Porque limpia los datos automáticamente, eliminando todas las filas duplicadas y celdas vacías sin intervención del usuario.
+
+**REPASAR**
 
 18.
 Dentro de una tabla de Excel, ¿qué indica el uso del símbolo de arroba (`@`) en una fórmula como `=[@cantidad]*[@precio_unitario]`?
-Indica que la operación utiliza los valores de las columnas especificadas (`cantidad` y `precio_unitario`) únicamente de la fila actual.
+
+- Indica que la operación utiliza los valores de las columnas especificadas (`cantidad` y `precio_unitario`) únicamente de la fila actual.
 
 19.
 Al anidar la función COINCIDIR dentro de BUSCARV, como en la fórmula `BUSCARV(valor, matriz, COINCIDIR(...), 0)`, ¿qué problema específico se está resolviendo?
 Se obliga a BUSCARV a buscar por fila en lugar de por columna.
 
-Repasar
+**REPASAR**
 
 20.
 Un analista necesita crear un reporte en Excel que extraiga un valor de ventas específico de una gran tabla. El reporte debe permitir al usuario seleccionar dinámicamente tanto el mes (criterio de fila) como la tienda (criterio de columna) desde listas desplegables. ¿Qué combinación de funciones, según lo visto en clase, es la más flexible y adecuada para esta búsqueda bidireccional?
@@ -1054,22 +1060,24 @@ Los gráficos no están vinculados al segmentador a través de la opción 'Conex
 
 23. ¿Cuál es el propósito fundamental de utilizar el formato condicional para crear un "semáforo de datos" en una hoja de cálculo?
 
-Facilitar un análisis visual instantáneo de los datos, permitiendo una rápida interpretación sin cálculos mentales.
+- Facilitar un análisis visual instantáneo de los datos, permitiendo una rápida interpretación sin cálculos mentales.
 
 
 24. Una tienda minorista observa que el 45% de sus ingresos anuales se genera en el cuarto trimestre (octubre-diciembre). Basándose en este análisis temporal, ¿cuál es la decisión de negocio más lógica y directa a tomar?
 
+- Aumentar la inversión en marketing y gestionar los niveles de inventario en los meses previos al cuarto trimestre.
+
 25. Un analista protege una hoja de trabajo y recibe un reporte de que nadie puede usar los filtros de una tabla dinámica. Al revisar, confirma que la casilla 'Usar tablas y gráficos dinámicos' está activada. ¿Qué otra opción de permiso, si está desactivada, podría impedir el uso de los filtros?
 
+- 'Seleccionar celdas bloqueadas'
 
 26. Si el objetivo es preparar datos para un análisis posterior, ¿qué define a Power Query como una herramienta de ETL?
 
-Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
-Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
-
+- Su capacidad para Extraer datos de fuentes, Transformarlos mediante limpieza y combinación, y Cargarlos en un modelo de datos o una hoja de cálculo.
 
 27. ¿Cuál es el propósito principal de la función "Mostrar valores como" en una tabla dinámica, según lo descrito en la clase?
-Transformar la visualización de datos numéricos, como sumas, en diferentes perspectivas, como porcentajes, sin alterar los datos originales.
+
+- Transformar la visualización de datos numéricos, como sumas, en diferentes perspectivas, como porcentajes, sin alterar los datos originales.
 
 
 28. Un analista de inventario establece una regla de formato condicional para colorear de amarillo las celdas con menos de 
@@ -1080,7 +1088,8 @@ La celda volverá a ser amarilla porque la regla de formato condicional se reeva
 29. Un gerente desea un KPI que muestre las ventas totales en un período específico, pero únicamente de la categoría 'Electrónica' y realizadas por el vendedor 'Juan'. La estructura de datos contiene columnas para Fecha, Vendedor, Categoría y Monto. ¿Qué fórmula permitiría este cálculo de forma directa?
 
 =CONTAR.SI.CONJUNTO(Monto, Fecha, '>='&D1, Fecha, '<='&D2, Vendedor, 'Juan', Categoría, 'Electrónica')
-REPASAR 
+=SUMAR.SI.CONJUNTO(Monto, Fecha, '>='&D1, Fecha, '<='&D2, Vendedor, 'Juan')
+**REPASAR**
 
 30. Un analista de ventas necesita responder la siguiente pregunta de negocio: "¿Cuál fue el total de ventas para cada categoría de producto en cada región?". Si su tabla de datos contiene las columnas 'Producto', 'Categoría', 'Región' y 'Ventas', ¿cuál es la configuración correcta de áreas en la tabla dinámica para responder a esta pregunta?
 
@@ -1093,30 +1102,68 @@ El rango de origen se vuelve dinámico, expandiéndose automáticamente para inc
 
 32. Has creado un dashboard con una tabla dinámica de ventas por producto y un gráfico dinámico de ventas por región. ¿Cómo puedes configurar el dashboard para que un solo segmentador de 'Año' actúe como un 'control maestro' que filtre ambos elementos simultáneamente?
 
-
+- Haciendo clic derecho en el segmentador de 'Año' y usando la opción 'Conexiones de informe' para vincularlo tanto a la tabla como al gráfico.
 
 33. Un gerente de ventas reporta que, tras proteger un nuevo dashboard, los segmentadores de datos (slicers) han dejado de funcionar, pero aún puede editar la celda B5 que se dejó habilitada para ingresar una tasa de crecimiento. ¿Cuál es la causa más probable de este fallo específico?
- REPASAR
+
+
+**REPASAR**
 
  34. Un analista de datos ha configurado una macro para actualizar automáticamente una tabla dinámica llamada "VentasRegionales" cada vez que se activa su hoja. Sin embargo, al probarla, la tabla dinámica no refleja los datos nuevos que se han añadido a la fuente de origen. Sabiendo que los datos de origen ya están en formato de tabla y que el archivo está guardado como .xlsm, ¿cuál de las siguientes opciones representa la causa más probable de este problema según lo visto en la clase?
 
 La opción "Actualizar al abrir el archivo" está deshabilitada en las opciones de la tabla dinámica.
- REPASAR
+ **REPASAR**
 
  35. ¿Cuál es el propósito principal de utilizar una tabla dinámica en Excel?
 
-Resumir, agrupar y analizar grandes volúmenes de datos para obtener insights sin necesidad de usar fórmulas complejas.
+- Resumir, agrupar y analizar grandes volúmenes de datos para obtener insights sin necesidad de usar fórmulas complejas.
 
  36. ¿Cuál es el propósito principal de la función COINCIDIR en Excel, según lo explicado en la clase?
 Devolver la posición numérica de un valor dentro de un rango de celdas.
 
+- 
+
  37. ¿Cuál es la principal ventaja de utilizar un KPI independiente en lugar de una tabla dinámica para un informe ejecutivo de ventas, según la analogía del 'velocímetro de un coche'?
 
-Ofrece un valor único, enfocado y de rápida interpretación para facilitar decisiones gerenciales inmediatas.
+- Ofrece un valor único, enfocado y de rápida interpretación para facilitar decisiones gerenciales inmediatas.
 
 38. ¿Cuál es la función principal de las celdas auxiliares D1 y D2 en la creación de un KPI de ventas mensuales dinámico?
 Servir como un puente dinámico que recibe las fechas de inicio y fin del segmentador de períodos y las pasa a la fórmula.
 
+
+
 39. Un usuario crea un dashboard con un gráfico de ventas por región y una tabla de ventas por vendedor, ambos derivados de la misma tabla de datos. Inserta un segmentador de 'Producto' pero observa que solo filtra el gráfico. ¿Qué acción específica debe realizar para que el segmentador también filtre la tabla?
 
-Hacer clic derecho en el segmentador, seleccionar 'Conexiones de informe' y activar la casilla de la tabla dinámica de ventas por vendedor.
+- Hacer clic derecho en el segmentador, seleccionar 'Conexiones de informe' y activar la casilla de la tabla dinámica de ventas por vendedor.
+
+
+40. ¿Por qué se describe la escala de tiempo como un "control maestro" en el contexto de un dashboard de análisis temporal?
+
+- Porque centraliza el filtrado de fechas para múltiples elementos (tablas y gráficos), permitiendo una exploración sincronizada.
+
+41. Un gerente te pide un informe de ventas que incluye el nombre del vendedor, pero tu tabla de transacciones solo tiene el ID del vendedor. ¿Qué combinación de funciones es la más robusta para presentar un informe limpio y profesional que muestre un mensaje claro si un ID de vendedor no se encuentra en el catálogo?
+
+- Anidar la función BUSCARV dentro de una función SI.ERROR para reemplazar los errores #N/A con un texto personalizado.
+
+42. Un analista ha creado un dashboard con tres tablas dinámicas y dos gráficos dinámicos. ¿Cómo puede configurar un único segmentador de 'Región' para que filtre simultáneamente todos estos cinco elementos y cree una experiencia unificada?
+
+- Usando la opción 'Conexiones de informe' del segmentador para vincularlo a todas las tablas y gráficos deseados.
+
+43. ¿Cuál es el propósito principal de la funcionalidad "Conexiones de informe" en un dashboard de Excel?
+
+- Sincronizar múltiples tablas y gráficos dinámicos para que sean controlados por un único segmentador.
+
+44. ¿Cuál es el beneficio principal de usar la función de agrupar por fechas en las tablas dinámicas de Excel para el análisis de negocios?
+
+- Resumir rápidamente grandes volúmenes de datos en períodos temporales (como meses o trimestres) para identificar patrones.
+
+45. ¿Qué función cumple un segmentador al ser configurado como un 'control maestro' en un dashboard?
+
+Actúa como el filtro principal, sobreescribiendo cualquier otro filtro aplicado en las tablas dinámicas.
+**REPASAR**
+
+
+46. ¿Cuál es el estado de bloqueo predeterminado de todas las celdas en una hoja de cálculo de Excel y en qué momento se vuelve efectiva dicha protección?
+
+Las celdas están desbloqueadas por defecto y se deben bloquear manualmente antes de proteger la hoja.
+**REPASAR**
