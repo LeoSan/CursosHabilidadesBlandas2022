@@ -24,6 +24,19 @@
 - Ctrl + B: Negrita
 - Ctrl + I: Cursiva
 - Ctrl + U: Subrayado
+- PUEDES SELECCIONAR TODA LA TABLA T + F5 Y TE PUEDE DAR LAS OPCIONES DE ELIMINAR FILAS VACIAS COLUMNAS ETC
+- PUEDES SELECCIONAR TODA LA TABLA T + F5 ESPECIAL/CELDAS CON FORMULAS / ERRORES => PAR ACEPTAR LOS CAMBIOS CONTROL + ENTER 
+
+**FORMULAS**
+- MAYUSCULAS =>    ´=MAYUSC(CELDA)´ => ENGLISH  => PROPER
+- MINUSCULAS =>    ´=MINUSC(CELDA)´ => ENGLISH => LOWER
+- NOMBRE PROPIO => ´=NOMPROPIO(CELDA)´ => ENGLISH  => UPPER
+- Para obtener el N comercial se pudo hacer: =IZQUIERDA(E5;4)
+- para el nombre y apellido: =DERECHA(E5;LARGO(E5)-4)
+- CONTAR DUPLICADOS ´=CONTAR.SI(Tabla1[FACTURA],Tabla1[@FACTURA])´ = =CONTAR.SI(COLUMA_COMPLETA,PRIMERA CELDA DE LA COLUMNA COMPLETA) luego desplazar hacia abajo para repetir 
+- =SUMAR.SI.CONJUNTO => =SUMAR.SI.CONJUNTO('Base de datos'!M4:M371,'Base de datos'!G4:G371,"pantalones",'Base de datos'!C4:C371,"Enero")
+- =PROMEDIO.SI.CONJUNTO
+- =CONTAR.SI.CONJUNTO
 
 **PDF con listado **
 - [Listado](../02_Curso_Excel_Basico/info/Atajos_xlsx_Hoja1.pdf)
@@ -60,7 +73,7 @@ Paso 7: Haz clic en el botón “Cargar” o “Importar” para importar los da
 
 - Paso 1: Como lo señala la imagen podemos usar el rango para definir nombre en celdas y estas puedan ser usadas en tambien en formular podemos hacerlo del lado superior derecho o ir a Formular / Administrador de Nombre  
 
-## Clase 6: Ocultar y mostrar columnas, filas y hojas
+## Clase 6: Ocultar y mostrar columnas, filas y hojas 
 
 Primero nos aseguramos de seleccionar la hoja completa dando clic en el triangulo de la esquina superior izquierda, entre la columna A y la fila 1 u oprimiendo CTRL+E
 
