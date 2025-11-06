@@ -355,5 +355,63 @@ REPASAR
 
 
 
+1.
+¿Qué opción es falsa sobre la función formulario?
+
+Es una función de pago.
+2.
+¿Cuándo se desvincula un Excel?
+Cuando cambiar el nombre o la ubicación del Excel vinculado.
+3.
+Para importar datos desde un PDF. ¿A cuál sección se debe de ir?
+
+Datos -> Obtener datos -> Desde un archivo -> De PDF
+
+4.
+¿Cuál fórmula se usa para capitalizar un nombre y apellido?
+
+=NOMPROPIO
+5.
+¿Con qué fórmula/función no podemos extraer texto?
+
+=EXTRACCION
+6.
+¿A dónde iremos para eliminar errores de cálculo de nuestra base de datos?
+F5 -> Especial -> Celdas con fórmulas -> Errores
+
+7.
+¿Cómo podemos prevenir la realización de errores al llenar una tabla?
+Listas de validación
+8.
+¿Cuántas condiciones podemos poner a la fórmula CONTAR.SI?
+
+1 condición
+
+9.
+¿Cuántas condiciones podemos poner a la fórmula CONTAR.SI.CONJUNTO?
+Más de 1 condición
+10.
+¿Para qué sirven los minigráficos?
+Representar los datos de forma visual en una celda.
+11.
+Completa la siguiente frase: “La escala de tiempo sirve para _____”
+
+Crear un filtro de fechas
+12.
+Completa la siguiente frase: "Si protegemos el Dashboard _______ "
+
+Se podrá seguir analizando datos mediante filtros, pero no se podrá mover los gráficos.
+
+13.
+¿Con qué función/complemento se puede completar una base de datos?
+
+Power Pivot
+14.
+En el formato condicional. ¿Qué formato nos permite agregar un tono diferente dependiendo del valor que contenga una celda a una lista de datos?
+
+Escala de color
+
+
+
 
 
