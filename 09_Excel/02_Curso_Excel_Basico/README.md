@@ -35,9 +35,9 @@
 - para el nombre y apellido: =DERECHA(E5;LARGO(E5)-4)
 - CONTAR DUPLICADOS ´=CONTAR.SI(Tabla1[FACTURA],Tabla1[@FACTURA])´ = =CONTAR.SI(COLUMA_COMPLETA,PRIMERA CELDA DE LA COLUMNA COMPLETA) luego desplazar hacia abajo para repetir 
 - =SUMAR.SI.CONJUNTO => =SUMAR.SI.CONJUNTO('Base de datos'!M4:M371,'Base de datos'!G4:G371,"pantalones",'Base de datos'!C4:C371,"Enero")
-- =PROMEDIO.SI.CONJUNTO
-- =CONTAR.SI.CONJUNTO
-
+- =PROMEDIO.SI.CONJUNTO => =PROMEDIO.SI.CONJUNTO('Base de datos'!$M$4:$M$371, 'Base de datos'!$C$4:$C$371,Analisis!K$17,'Base de datos'!G4:G371,Analisis!$J18) =>  PROMEDIO.SI.CONJUNTO(VALOR MONETARIO TODA LA COLUMNA, VALOR A COMPARAR MES COLUMNA, "Enero", VALOR ITEM COLUMNA, "PANTALONES")
+- =CONTAR.SI.CONJUNTO => ´=CONTAR.SI.CONJUNTO('Base de datos'!$G$4:$G$371,Analisis!$J3,'Base de datos'!$C$4:$C$371,Analisis!K$2)´ => CONTAR.SI.CONJUNTO(COLUMNA A CONTAR ITEM, "PANTALONES", COLUMNA A CONTAR MES , "ENERO") 
+- Que trucazo ese del "Alt + Shift + '=' " => PERMITE GENERAR LA SUMA DE LOS EXTREMOS DE UNA TABLA 
 **PDF con listado **
 - [Listado](../02_Curso_Excel_Basico/info/Atajos_xlsx_Hoja1.pdf)
 
