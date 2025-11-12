@@ -1012,9 +1012,8 @@ Aplicar una regla "Menor que 50,000" para colorear las celdas correspondientes c
 
 15.
 Para configurar un dashboard que será utilizado por 50 vendedores, se requiere que solo puedan modificar la celda B5 y usar los segmentadores de datos, pero no alterar nada más. ¿Cuál es la secuencia correcta de pasos para lograr esta configuración de seguridad?
-Proteger la hoja, luego desbloquear la celda B5 y finalmente habilitar el uso de tablas y gráficos dinámicos.
+Seleccionar la celda B5, desbloquearla desde 'Formato de celdas', y luego proteger la hoja marcando la opción 'Usar tablas y gráficos dinámicos'.
 
-**REPASAR**
 
 16.
 ¿Cuál es el propósito principal de proteger una hoja de Excel sin establecer una contraseña?

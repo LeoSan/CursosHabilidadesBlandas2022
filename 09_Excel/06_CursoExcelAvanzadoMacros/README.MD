@@ -709,15 +709,16 @@ Desde la pestaña Desarrollador, que no aparece por default en Excel, sino que s
 3.
 ¿Cuál de las siguientes afirmaciones es falsa?
 Cuando se hace un diagrama de flujo, es importante que cuando se pone una condición, los posibles resultados sean exhaustivos.
+**Repasar**
 
-
-Repasar
 4.
 ¿Cuál de los siguientes NO es un tipo de dato?
 Text
 5.
 ¿Cuál de las siguientes afirmaciones es cierta para las funciones pero no para las subrutinas?
 Tiene un valor de retorno.
+
+
 6.
 ¿Cuál es la sintaxis correcta de una función?
 Public/Private - Function - Nombre - (parámetros) - as Tipo de dato
@@ -733,10 +734,11 @@ Falso
 9.
 ¿Qué es Message Box?
 Es una función que muestra un mensaje en un cuadro de diálogo.
+
 10.
 Hablando de Input Box, ¿Cuál de las siguientes afirmaciones es falsa?
-
 Se escribe Input.Box
+
 11.
 ¿Cuándo utilizarías Select Case?
 Cuando se ejecuta una acción o conjunto de acciones dependiendo el caso en el que corresponda el argumento.
@@ -754,3 +756,28 @@ Cuando se busca repetir una instrucción un número específico de veces.
 ¿Cuándo utilizarías Ciclos Do While - Loop?
 
 Cuando se busca que un ciclo se siga repitiendo mientras que una condición se cumple.
+
+15.  Qué es Message Box?
+Es una función que muestra un mensaje en un cuadro de diálogo.
+
+16. ¿Para qué sirve la segmentación de datos?
+Crear botones interactivos para filtrar datos.
+
+17. ¿Cuál es la ventaja fundamental de usar referencias dinámicas como `ventas[importe]` en lugar de rangos fijos como `F2:F50` al realizar cálculos en Excel?
+- Las referencias dinámicas hacen que las fórmulas sean más cortas y fáciles de leer.
+**REPASAR** 
+
+
+18. Si un informe de Excel es demasiado ancho para caber en una página al imprimirlo en orientación vertical, ¿cuál sería la combinación de ajustes más eficaz para presentarlo correctamente sin perder información?
+- Utilizar la vista 'Ver saltos de página' para arrastrar manualmente el límite de la página hacia la derecha.
+**REPASAR** 
+
+19. Camila quiere crear una alerta que identifique cualquier gasto clasificado como 'prescindible' O como 'imprevisto' para marcarlo como 'Recortar gasto'. Si ninguna de estas dos condiciones se cumple, debe marcarse como 'Ok'. ¿Qué fórmula anidada debe usar para lograr esto correctamente?
+- SI(Y(A2="prescindible"; B2="imprevisto"); "Recortar gasto"; "Ok")
+**REPASAR** 
+
+
+20. Al usar la función ÍNDICE, ¿por qué es crucial que la matriz de datos seleccionada excluya los encabezados de fila y columna?
+
+Porque los encabezados suelen ser texto y la función ÍNDICE solo puede devolver valores numéricos.
+**REPASAR** 

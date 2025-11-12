@@ -652,7 +652,8 @@ Al revisar una tabla de gastos, nota que se han insertado filas con el texto 'Su
 
 
 24.
-Un gerente de contabilidad quiere asegurarse de que sus empleados solo puedan ingresar "Fijo" o "Variable" en la columna "Tipo de Gasto", bloqueando completamente cualquier otro valor para mantener la integridad de los datos. ¿Qué estilo de mensaje de error debe configurar en la Validación de datos para lograr este objetivo?
+Un gerente de contabilidad quiere asegurarse de que sus empleados solo puedan ingresar "Fijo" o "Variable" en la columna "Tipo de Gasto", bloqueando completamente cualquier otro valor para mantener la integridad de los datos. 
+¿Qué estilo de mensaje de error debe configurar en la Validación de datos para lograr este objetivo?
 **Repasar**
 
 25.
