@@ -112,4 +112,18 @@ Porque los encabezados suelen ser texto y la función ÍNDICE solo puede devolve
 
 30.
 Al insertar segmentadores de datos en un reporte, ¿cuál de los siguientes ajustes mencionados en la clase permite organizar una larga lista de elementos en un formato más compacto y legible?
-Ajustar el número de columnas desde la pestaña 'Segmentación'.
+- Ajustar el número de columnas desde la pestaña 'Segmentación'.
+
+31. Un usuario añade 100 filas nuevas de datos al final de su rango de origen (ej. A1:D5000), pero tras hacer clic derecho y seleccionar 'Actualizar' en la tabla dinámica, los nuevos datos no se reflejan. ¿Cuál es la causa más probable de este problema si la tabla dinámica se creó a partir de un rango estático?
+
+El usuario no formateó las nuevas 100 filas como una Tabla de Excel usando Ctrl+T antes de actualizar.
+**REPASAR**
+
+32. ¿Cuál es la principal utilidad de un gráfico de líneas en Excel, según lo explicado en la clase?
+- Visualizar cómo se comporta una serie de datos a través del tiempo.
+
+33. Según lo explicado en la clase, ¿cuál es uno de los beneficios más importantes del formato de tabla al pensar en futuras actualizaciones o en la construcción de dashboards?
+- El formato se extiende automáticamente a las nuevas filas de datos, asegurando la consistencia y facilitando la actualización de herramientas dependientes.
+
+34. Al enfrentarse a una tabla con celdas combinadas que mezclan información de distintos niveles (por ejemplo, el área de marketing cubriendo varias filas de proyectos), ¿cuál es el primer paso crucial para reestructurar los datos correctamente según lo enseñado en la clase?
+- Seleccionar las celdas problemáticas y usar la opción 'Quitar Combinar y Centrar' para separar la información.

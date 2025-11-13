@@ -55,6 +55,7 @@ Al filtrar selecciono solo la información que quiero ver, al agrupar la ordenó
 13.
 ¿Cuál de las siguientes afirmaciones es falsa?
 Editor: Puede editar la información y agregar o eliminar campos
+Todas las ramas del diagrama de flujo deben llevar a un final.
 
 14.
 ¿Cuál de estas funciones NO es gratuita?

@@ -312,6 +312,7 @@ Haciendo click derecho sobre el nombre de la hoja.
 6.
 ¿Cuál de las siguientes afirmaciones es falsa?
 Al insertar una tabla aparece un cuadro de texto para asignar el nombre.
+Todas las ramas del diagrama de flujo deben llevar a un final.
 
 7.
 ¿Cómo se pueden ordenar datos de manera personalizada?
@@ -351,6 +352,7 @@ Verdadero
 
 ¿Cuál de las siguientes afirmaciones es falsa?
 En la parte superior izquierda de la hoja se pueden abrir o cerrar las agrupaciones.
+Todas las ramas del diagrama de flujo deben llevar a un final.
 REPASAR
 
 
@@ -382,34 +384,35 @@ F5 -> Especial -> Celdas con fórmulas -> Errores
 7.
 ¿Cómo podemos prevenir la realización de errores al llenar una tabla?
 Listas de validación
+
 8.
 ¿Cuántas condiciones podemos poner a la fórmula CONTAR.SI?
-
-1 condición
+- 1 condición
 
 9.
 ¿Cuántas condiciones podemos poner a la fórmula CONTAR.SI.CONJUNTO?
-Más de 1 condición
+- Más de 1 condición
+
 10.
 ¿Para qué sirven los minigráficos?
-Representar los datos de forma visual en una celda.
+- Representar los datos de forma visual en una celda.
+
 11.
 Completa la siguiente frase: “La escala de tiempo sirve para _____”
+- Crear un filtro de fechas
 
-Crear un filtro de fechas
 12.
 Completa la siguiente frase: "Si protegemos el Dashboard _______ "
-
-Se podrá seguir analizando datos mediante filtros, pero no se podrá mover los gráficos.
+- Se podrá seguir analizando datos mediante filtros, pero no se podrá mover los gráficos.
 
 13.
 ¿Con qué función/complemento se puede completar una base de datos?
+- Power Pivot
 
-Power Pivot
 14.
 En el formato condicional. ¿Qué formato nos permite agregar un tono diferente dependiendo del valor que contenga una celda a una lista de datos?
 
-Escala de color
+- Escala de color
 
 
 
