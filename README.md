@@ -1,42 +1,42 @@
-# Mis Archivos y Recursos
+# 🧠 Professional Growth & Soft Skills
 
-Este repositorio contiene una colección de materiales de estudio, certificados y recursos sobre diversos temas de desarrollo profesional y personal.
+> **La "Milla Extra" del Profesional**
+>
+> Este repositorio centraliza mis avances en habilidades transversales, gestión y herramientas de productividad. Mantengo este proyecto activo desde 2021 bajo la filosofía del *Lifelong Learning*: "Nunca pares de aprender". Aquí convergen la técnica, la comunicación y el liderazgo.
 
-> Aquí reúno mis avances y aprendizajes en el desarrollo de habilidades blandas, fundamentales para el crecimiento y la gestión profesional. Este es un proyecto personal que mantengo activo desde 2021, fiel al compromiso del aprendizaje continuo y al lema 'nunca pares de aprender'
+---
 
-## Índice de Contenidos
+## 📂 Índice de Recursos y Habilidades
 
-* [**00_Oratoria_Escritura**](#00_oratoria_escritura)
-    * Recursos, notas y ejercicios para mejorar las habilidades de comunicación oral (oratoria) y escrita.
+Aquí encontrarás una colección curada de materiales, certificados y guías prácticas.
 
-* [**01_Aprendizaje_Continuo**](#01_aprendizaje_continuo)
-    * Materiales, cursos y enlaces relacionados con el desarrollo profesional y la adquisición constante de nuevos conocimientos.
+| Área / Tópico | Descripción del Recurso | Tipo |
+| :--- | :--- | :---: |
+| **🗣️ Comunicación Efectiva** | Recursos, notas y ejercicios de **Oratoria y Escritura**. El arte de transmitir ideas técnicas de forma clara. | ![Soft Skill](https://img.shields.io/badge/Soft_Skill-FF6F61?style=flat-square) |
+| **🇬🇧 English Proficiency** | Apuntes de gramática y vocabulario técnico. El idioma universal del desarrollo de software. | ![Language](https://img.shields.io/badge/Language-00247D?style=flat-square) |
+| **🔄 Metodologías Ágiles** | Guías de estudio sobre **Scrum**. Gestión de proyectos iterativa e incremental (Material 2023+). | ![Management](https://img.shields.io/badge/Scrum-Agile-blue?style=flat-square) |
+| **👥 Liderazgo & Management** | Seminarios y notas sobre gestión de equipos, inteligencia emocional y liderazgo efectivo. | ![Management](https://img.shields.io/badge/Management-Leadership-orange?style=flat-square) |
+| **📈 Aprendizaje Continuo** | Meta-aprendizaje: Técnicas para optimizar la adquisición de nuevos conocimientos y desarrollo profesional. | ![Growth](https://img.shields.io/badge/Growth-Mindset-success?style=flat-square) |
+| **🛡️ Seguridad Informática** | Fundamentos de ciberseguridad y certificados de concienciación en seguridad digital. | ![Tech](https://img.shields.io/badge/Security-InfoSec-red?style=flat-square) |
+| **📊 Microsoft Excel** | Uso avanzado de hojas de cálculo, tablas dinámicas y análisis de datos para la productividad. | ![Tool](https://img.shields.io/badge/Tool-Excel-217346?style=flat-square) |
+| **📱 Marca Personal** | Estrategias de **Redes Sociales (Instagram)**. Gestión de presencia digital y marketing personal. | ![Marketing](https://img.shields.io/badge/Marketing-Social-E4405F?style=flat-square) |
 
-* [**04_English**](#04_english)
-    * Recursos y apuntes para el aprendizaje y la práctica del idioma inglés (gramática, vocabulario, ejercicios).
+---
 
-* [**05_Scrum_2023**](#05_scrum_2023)
-    * Guías, materiales de estudio y notas sobre la metodología ágil Scrum, actualizados o adquiridos en 2023.
+## 🔗 Estructura de Carpetas
 
-* [**06_Security/certificado**](#06_securitycertificado)
-    * Información y recursos sobre seguridad informática. Esta carpeta también puede contener certificados obtenidos en el área.
+Si estás navegando por el código fuente de este repositorio, esta es la referencia rápida de los directorios:
 
-* [**07_Liderazgo2023**](#07_liderazgo2023)
-    * Apuntes, seminarios o materiales de cursos sobre el desarrollo de habilidades de liderazgo, correspondientes al año 2023.
+* 📂 `00_Oratoria_Escritura`
+* 📂 `01_Aprendizaje_Continuo`
+* 📂 `04_English`
+* 📂 `05_Scrum_2023`
+* 📂 `06_Security`
+* 📂 `07_Liderazgo`
+* 📂 `08_Redes_Sociales`
+* 📂 `09_Excel`
 
-* [**08_Redes_Sociales/01_Instagram**](#08_redes_sociales01_instagram)
-    * Estrategias, análisis y material de estudio enfocado en la gestión y marketing en redes sociales, con una subcarpeta específica para Instagram.
-
-* [**09_Excel**](#09_excel)
-    * Tutoriales, plantillas, hojas de cálculo de ejemplo y notas sobre el uso avanzado de Microsoft Excel.
- 
---- 
-
-# My Files and Resources
-
-This repository contains a collection of study materials, certificates, and resources on various topics for professional and personal development.
-
-> Here, I gather my progress and learnings in developing soft skills, which are fundamental for professional growth and management. This is a personal project I have kept active since 2021, staying true to the commitment of continuous learning and the motto 'never stop learning'
+---
 
 ## Content Index
 
@@ -63,3 +63,5 @@ This repository contains a collection of study materials, certificates, and reso
 
 * [**09_Excel**](#09_excel)
     * Tutorials, templates, sample spreadsheets, and notes on the advanced use of Microsoft Excel.
+
+> *"El desarrollo de software es 20% escribir código y 80% comunicación, resolución de problemas y aprendizaje constante."*
