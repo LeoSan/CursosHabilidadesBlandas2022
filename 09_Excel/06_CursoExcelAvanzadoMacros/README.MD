@@ -100,7 +100,7 @@ Finalizar grabación: Una vez finalizadas las acciones, selecciona la celda fina
 
 
 
-
+```BD
 **CÓDIGO DE LA MACRO** 
 
 Sub FORMATO_CELDA_FECHA_NUBE_V1()
@@ -125,7 +125,13 @@ Sub FORMATO_CELDA_FECHA_NUBE_V1()
     Columns("C:C").Select
     Selection.NumberFormat = "m/d/yyyy"
     Range("C2").Select
+    ''' SELECCIONA Y ELIMINA
+    Columns("Z:BM").Select
+    Selection.Delete Shift:=xlToLeft
+
 End Sub
+```
+
 
 
 ## CLASE 07:  Sintaxis de Funciones y Subrutinas en Visual Basic
@@ -780,4 +786,5 @@ Crear botones interactivos para filtrar datos.
 20. Al usar la función ÍNDICE, ¿por qué es crucial que la matriz de datos seleccionada excluya los encabezados de fila y columna?
 
 Porque los encabezados suelen ser texto y la función ÍNDICE solo puede devolver valores numéricos.
+
 **REPASAR** 
