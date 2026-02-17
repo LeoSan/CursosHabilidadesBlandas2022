@@ -45,3 +45,50 @@ Elimina lo que no necesites con clic derecho > eliminar (por ejemplo, “hoja 1�
 Ten en cuenta que Power Query sigue funcionando aunque elimines las hojas en el libro: las consultas existen y puedes unir y transformar datos sin verlos en celdas.
 
 ## Clase 3: Panel de Power Query: transformar vs agregar columna
+
+¿Qué es el editor de Power Query y cómo organizarse?
+El editor se abre desde datos > obtener datos > iniciar editor de Power Query. A la izquierda verás las consultas (archivos o tablas que cargas). A la derecha, propiedades y pasos aplicados para renombrar y auditar cada transformación. En la cinta superior están Inicio, Transformar, Agregar columna y Vista; puedes anclar la barra para trabajar con todas las herramientas a la vista.
+
+Panel izquierdo: lista de consultas cargadas.
+Panel derecho: propiedades y pasos aplicados con icono de tuerca para editar.
+Cinta: Inicio, Transformar, Agregar columna, Vista.
+Vista previa: primeras 1000 filas; puede mostrar “La lista puede estar incompleta”.
+¿Cómo renombrar y revisar pasos aplicados?
+Cambia el nombre desde propiedades o con clic derecho > cambiar nombre.
+Revisa cada paso aplicado; usa la tuerca para ajustar parámetros sin rehacer todo.
+Ejemplo: si te equivocaste en un divisor (1.16 vs 1.17), edítalo desde la tuerca.
+¿Qué significan la vista previa y el origen de datos?
+La vista previa acelera el trabajo mostrando una muestra. Afecta solo la visualización, no el resultado final.
+En Origen puedes cambiar la ruta del archivo con la tuerca y examinar, sin repetir el proceso de limpieza.
+¿Cuándo usar transformar y cuándo agregar columna?
+La decisión clave: Transformar modifica la columna existente. Agregar columna crea una nueva basada en otra. La lógica es simple: si el resultado debe sustituir, transforma; si debe convivir, agrega.
+
+¿Cómo calcular IVA y descuentos sin dañar la columna original?
+Selecciona la columna monto en gastos.
+Ve a Agregar columna > estándar > dividir y escribe 1.16 para obtener monto sin IVA. Renombra la nueva columna.
+En ventas, para un precio con descuento, usa Agregar columna > estándar > multiplicar por 0.8.
+Observa los pasos aplicados: división insertada, columna agregada, etc.
+¿Cómo combinar texto de año y mes sin perder columnas?
+El orden de selección importa: primero Año y luego Mes (usa tecla control para selección múltiple).
+Si quieres unificar y reemplazar: Transformar > Combinar columna > separador guion.
+Si quieres conservar las originales: Agregar columna > Combinar columna.
+Renombra el resultado según tu convención.
+¿Cómo redondear valores con control?
+Si no necesitas columna nueva: Transformar > Redondeo > elige a la alza, a la baja o número de decimales.
+Si prefieres mantener el original: Agregar columna > Redondeo.
+¿Cómo filtrar, duplicar, referenciar y agrupar datos?
+Los filtros, duplicados, referencias y agrupaciones te ayudan a construir consultas reutilizables que preparan la tabla exacta para tu modelo.
+
+¿Cómo filtrar filas por cliente y entender el registro del filtro?
+Usa los filtros de columna para excluir, por ejemplo, un cliente específico.
+Confirma que se registra el paso Filas filtradas. Puedes abrir la tuerca para editar el criterio.
+Recuerda: la vista previa puede ser incompleta, pero el filtro se aplicará al conjunto total.
+¿Cuándo duplicar y cuándo crear referencia?
+Duplicar: crea una copia independiente de la consulta.
+Referencia: crea una nueva consulta basada en otra, un copy paste ligado que hereda cambios de la original (ejemplo: Ventas > Ventas 1).
+Útil para ramificar transformaciones sin repetir pasos.
+¿Cómo agrupar por cliente y calcular promedio de precio?
+Selecciona la columna objetivo y ve a Transformar > Agrupar por.
+Modo Básico: agrupa por cliente, Operación: Promedio, Columna: precio.
+Modo Uso avanzado: agrega múltiples niveles, nuevas operaciones y recuentos según tus columnas disponibles.
+También puedes quitar duplicados cuando sea necesario dentro del flujo de preparación.
